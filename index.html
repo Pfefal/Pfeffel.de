@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Flight Reservation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        #reservation-form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            text-align: left;
+            width: 400px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        input[type="email"],
+        input[type="text"],
+        input[type="datetime-local"] {
+            width: 90%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+
+        button[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 3px;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="reservation-form">
+        <h1>Flight Reservation</h1>
+        <form id="flight-reservation">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="from-date">From Date and Time:</label>
+            <input type="datetime-local" id="from-date" name="from-date" required>
+
+            <label for="to-date">To Date and Time:</label>
+            <input type="datetime-local" id="to-date" name="to-date" required>
+
+            <label for="flight-number">Flight Number:</label>
+            <input type="text" id="flight-number" name="flight-number" required>
+
+            <button type="submit">Submit Reservation</button>
+        </form>
+    </div>
+
+    <script>
+        // Set preselected date and time for "From Date" and "To Date" fields
+        const now = new Date();
+
+        document.getElementById('from-date').value = now.toISOString().substr(0, 10) + "T05:00";
+        document.getElementById('to-date').value = now.toISOString().substr(0, 10) + "T23:00";
+
+        document.getElementById('flight-reservation').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const fromDate = new Date(document.getElementById('from-date').value);
+            const toDate = new Date(document.getElementById('to-date').value);
+            const flightNumber = document.getElementById('flight-number').value;
+
+            const today = new Date();
+
+            var requestBody = {
+                "slot": "" + today.getFullYear() + (today.getMonth() + 1) + today.getDate() + "0700",
+                "namen":[name],
+                "email": email,
+                "flightno":flightNumber,
+                "slotStart":fromDate.toISOString(),
+                "slotEnd":toDate.toISOString(),
+                "lang":"DE"
+            }
+
+            // Create a new XMLHttpRequest object
+            var xhr = new XMLHttpRequest();
+
+            // Configure the POST request
+            xhr.open('POST', 'https://slotandfly.cloud.ham.aero/api/bookSlot', true);
+
+            // Set the request headers
+            xhr.setRequestHeader('Accept', 'application/json, text/plain, */*');
+            xhr.setRequestHeader('Accept-Language', 'en-US,en;q=0.9,de;q=0.8');
+            //xhr.setRequestHeader('Connection', 'keep-alive');
+            xhr.setRequestHeader('Content-Type', 'application/json');
+            //xhr.setRequestHeader('Origin', 'https://slotandfly.cloud.ham.aero');
+            //xhr.setRequestHeader('Referer', 'https://slotandfly.cloud.ham.aero/');
+            //xhr.setRequestHeader('Sec-Fetch-Dest', 'empty');
+            //xhr.setRequestHeader('Sec-Fetch-Mode', 'cors');
+            //xhr.setRequestHeader('Sec-Fetch-Site', 'same-origin');
+            //xhr.setRequestHeader('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36');
+            //xhr.setRequestHeader('sec-ch-ua', '"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"');
+            //xhr.setRequestHeader('sec-ch-ua-mobile', '?0');
+            //xhr.setRequestHeader('sec-ch-ua-platform', '"Windows"');
+            xhr.setRequestHeader('source', 'Slola GUI');
+
+            var jsonData = JSON.stringify(requestBody);
+
+            // Define a callback function to handle the response
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === 4) {
+                    if (xhr.status === 200) {
+                        alert("Success!");
+                        console.log('POST request successful');
+                        console.log(xhr.responseText);
+                    } else {
+                        alert("Error! See console");
+                        console.error('POST request failed with status code ' + xhr.status);
+                    }
+                }
+            };
+
+            xhr.send(jsonData);
+        });
+    </script>
+</body>
+</html>
