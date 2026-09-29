@@ -1,0 +1,6 @@
+# Kaff-Guesser – everyone is welcome to crawl and index this game.
+User-agent: *
+Allow: /
+
+# Once hosted, uncomment and set your real domain:
+# Sitemap: https://YOUR-DOMAIN/sitemap.xml
