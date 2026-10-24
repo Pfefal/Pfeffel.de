@@ -1,19 +1,19 @@
-Sydney Heavy Gigs — local review prototype
-Week: 26 October–1 November 2026. Snapshot: 25 October Sydney time.
+SYDNEY GIGS — SOURCES AND ATTRIBUTION
+Week: 26 October–1 November 2026. Event snapshot: 25 October, Sydney time.
 
-DATA
-34 individual shows from 31 preference-ranked calendar blocks, based on the existing independently verified gig research. Official ticket and venue source URLs are included in every event detail. Distinct dates/venues/bills for Negative Approach, Shonen Knife and TISM are preserved. This prototype does not fetch information live. Availability is a snapshot, not a reservation or stock guarantee.
-Spotify artist pages are linked only where saved research contains a verified identity. An additional exact-track-to-artist DOM verification pass recovered 73 unique artist pages from the existing authorized playlist, enriching 84 artist occurrences. The interface retains an explicitly labelled "Song" fallback if a future verified track lacks an artist-page identity. Unresolved identities remain visibly unverified. Lorelei is deliberately withheld due to namesake ambiguity.
+EVENTS AND ARTISTS
+34 individual shows from 31 taste-ranked research groups. Every expanded card includes its verified official event/ticket link and source note. Different dates and support bills remain separate. Availability is a snapshot, not a guarantee or reservation; prices marked unconfirmed are not invented. Compact prices in closed rows are summaries; full tier/fee details remain in the expanded card. Optional calendar files preserve known source times, which may be doors; unknown end times are not invented.
 
-MAP & GENRES
-The geographic illustration and suburb markers are original schematic graphics, approximate and not to scale. They are not suitable for navigation. Markers represent suburbs, not verified venue coordinates. Distances and street positions should not be inferred.
-Genre islands are a subjective editorial grouping, not a formal taxonomy. A bill can span several styles. No image, layout, code or assets were copied from Map of Metal. No voice/vocal axis or numeric genre positioning is used.
+Spotify artist links were matched to the exact previously verified playlist tracks, not guessed from names. Ambiguous artists remain unlinked. Tribute shows do not link to the original artist as a substitute. The playlist is the user's existing public playlist. Spotify is a trusted, explicitly permitted external exception: an artist player is loaded only on request, with no automatic playback. Spotify-hosted content and trademarks are not relicensed by this project. See PRIVACY.txt and the Spotify widget terms.
 
-ART & LICENSES
-The cream/red requested playlist cover was not recovered at creation; the desktop typographic placeholder is original code-generated layout and marked accordingly. No artist photographs, copyrighted album artwork, remote fonts or map tiles are used. System fonts only. Original code and schematic graphics carry MIT terms in LICENSE.txt; third-party trademarks and linked content retain their rights. No third-party software dependencies are shipped.
+GEOGRAPHY
+The map uses actual NSW Spatial Services water/coast and road geometry, cropped and simplified for this guide. © State of NSW (Spatial Services, Department of Customer Service NSW), CC BY 4.0. See MAP-LICENSE.txt for exact sources, licence links and modifications.
+Venue coordinates are approximate venue/address points, not entrance/navigation guarantees. Their separate provenance and attribution are included with geography.js and any accompanying venue-data licence. No unverified venue is substituted with a suburb centroid. Each numbered marker is an individual show, matching its number in the list. Overlapping markers are separated for readability and connected back to venue locations by leader lines. The smaller viewport can be panned horizontally. Inner Sydney and All Sydney views use distinct real geographic bounds.
 
-OFFLINE
-All page resources, event data, graphics and .ics downloads are local. No API, CDN, embed, analytics or third-party runtime requests. No service worker or browser cache is required. Intended use: open index.html from the extracted dist folder, or serve that folder on localhost. Actual file-origin/CSP and offline browser behavior could not be verified here because the supported preview environment was unavailable. External links require internet. A hosted page is not guaranteed available after closing it offline; download the folder for reliable offline access.
+GENRES
+The coloured regions are an original editorial guide to related styles, not a formal taxonomy or measured musical axes. Each gig appears once by dominant sound; many bills cross genres. No Map of Metal code, images, design or database is copied.
 
-CALENDAR
-Files use stable event UIDs, UTF-8 with CRLF and folded lines; known times are converted from Australia/Sydney to UTC. Times may be doors rather than performance time, as stated in the source. Only explicitly stated end times are included; no duration is invented. Importers may display their own default duration if no DTEND exists. Download/import is user-driven; the site never writes to a connected calendar. No alarms, guests, recurrence or meeting URLs are added.
+DESIGN AND DEPENDENCIES
+Original HTML/CSS/JavaScript, system fonts and local map files. No frontend library, build runtime, CDN font, analytics or Spotify SDK. Professional reference research examined Bandsintown's artist/date/venue hierarchy and RA's event hierarchy, not their protected assets. DICE and Songkick references were unavailable in the research tool; RA's live browser check stopped at its device verification. None of their code/images was copied. This redesign intentionally omits a large poster/hero, search or filter toolbar.
+
+The MIT licence applies only to original application code and layout. Geographic data, point-data licences, Spotify content/marks and other linked content retain their own rights. Offline use is no longer a user requirement. The page still avoids third-party requests at initial load; external links and the optional player require internet.

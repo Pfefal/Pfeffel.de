@@ -1,0 +1,246 @@
+{
+  "Avalon RSL": {
+    "point": {
+      "lat": -33.6354297,
+      "lon": 151.3285772,
+      "source": "https://www.openstreetmap.org/way/1356633420",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Avalon Beach RSL Club, 1, Bowling Green Lane, Avalon Beach, Northern Beaches, Sydney, New South Wales, 2107, Australia",
+    "query": "Avalon RSL Avalon Beach NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Botany View Hotel": {
+    "point": {
+      "lat": -33.9058534,
+      "lon": 151.1807446,
+      "source": "https://www.openstreetmap.org/way/320875097",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Botany View Hotel, 597, King Street, Newtown, Inner West, Sydney, New South Wales, 2042, Australia",
+    "query": "Botany View Hotel Newtown NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Buddy's Bar": {
+    "point": {
+      "lat": -33.899559,
+      "lon": 151.1777533,
+      "source": "https://www.openstreetmap.org/node/2839232501",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "391, King Street, Newtown, Inner West, Sydney, New South Wales, 2042, Australia",
+    "query": "391 King Street Newtown NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Crowbar": {
+    "point": {
+      "lat": -33.8877179,
+      "lon": 151.159341,
+      "source": "https://www.openstreetmap.org/node/10290612762",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Crowbar, Balmain Road, Leichhardt, Inner West, Sydney, New South Wales, 2040, Australia",
+    "query": "Crowbar Leichhardt NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Dead Set": {
+    "point": {
+      "lat": -33.8810358,
+      "lon": 151.2165425,
+      "source": "https://www.openstreetmap.org/node/1635097237",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Kinselas, Taylor Square, Darlinghurst, Sydney, New South Wales, 2010, Australia",
+    "query": "Kinselas Darlinghurst NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Enmore Theatre": {
+    "point": {
+      "lat": -33.8990063,
+      "lon": 151.1742479,
+      "source": "https://www.openstreetmap.org/way/175699808",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "The Enmore Theatre, 118-132, Enmore Road, Newtown, Inner West, Sydney, New South Wales, 2042, Australia",
+    "query": "Enmore Theatre Newtown NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Factory Courtyard": {
+    "point": {
+      "lat": -33.9057026,
+      "lon": 151.1652639,
+      "source": "https://www.openstreetmap.org/way/702196095",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "The Factory Theatre, 105, Victoria Road, Marrickville, Inner West, Sydney, New South Wales, 2204, Australia",
+    "query": "Factory Theatre Marrickville NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Factory Fusebox": {
+    "point": {
+      "lat": -33.9057026,
+      "lon": 151.1652639,
+      "source": "https://www.openstreetmap.org/way/702196095",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "The Factory Theatre, 105, Victoria Road, Marrickville, Inner West, Sydney, New South Wales, 2204, Australia",
+    "query": "Factory Theatre Marrickville NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "HUM on King": {
+    "point": {
+      "lat": -33.8960276,
+      "lon": 151.1801583,
+      "source": "https://www.openstreetmap.org/way/548632866",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "271, King Street, Newtown, Inner West, Sydney, New South Wales, 2042, Australia",
+    "query": "271 King Street Newtown NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Hopsters Cooperative Brewery": {
+    "point": {
+      "lat": -33.8993494,
+      "lon": 151.1717081,
+      "source": "https://www.openstreetmap.org/way/1030565903",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "198, Enmore Road, Enmore, Inner West, Sydney, New South Wales, 2042, Australia",
+    "query": "198 Enmore Road Enmore NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Marrickville Bowling Club": {
+    "point": {
+      "lat": -33.9105727,
+      "lon": 151.1641329,
+      "source": "https://www.openstreetmap.org/way/598698814",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Marrickville Bowling & Recreational Club, 91, Sydenham Road, Marrickville, Inner West, Sydney, New South Wales, 2204, Australia",
+    "query": "Marrickville Bowling Club Marrickville NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Metro Social": {
+    "point": {
+      "lat": -33.8757544,
+      "lon": 151.206749,
+      "source": "https://www.openstreetmap.org/node/1912642784",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Metro Theatre, 624, George Street, Koreatown, Sydney, New South Wales, 2000, Australia",
+    "query": "Metro Theatre Sydney",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Oxford Art Factory Gallery Bar": {
+    "point": {
+      "lat": -33.8779851,
+      "lon": 151.2137927,
+      "source": "https://www.openstreetmap.org/node/4813284527",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Oxford Art Factory, Oxford Street Cycleway, Darlinghurst, Sydney, New South Wales, 2010, Australia",
+    "query": "Oxford Art Factory Sydney",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Tattersalls Hotel": {
+    "point": {
+      "lat": -33.7534878,
+      "lon": 150.6946127,
+      "source": "https://www.openstreetmap.org/node/7178732245",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Tattersalls Hotel, Union Lane, Penrith, Sydney, New South Wales, 2750, Australia",
+    "query": "Tattersalls Hotel Penrith NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "The Chippo Hotel": {
+    "point": {
+      "lat": -33.8874295,
+      "lon": 151.1986847,
+      "source": "https://www.openstreetmap.org/node/10290561677",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "The Chippendale Hotel, Myrtle Street, Chippendale, Sydney, New South Wales, 2008, Australia",
+    "query": "The Chippo Hotel Chippendale NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "The Duke of Enmore": {
+    "point": {
+      "lat": -33.8990649,
+      "lon": 151.1734947,
+      "source": "https://www.openstreetmap.org/way/556160681",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "148, Enmore Road, Enmore, Inner West, Sydney, New South Wales, 2042, Australia",
+    "query": "148 Enmore Road Enmore NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "The Lansdowne": {
+    "point": {
+      "lat": -33.8847937,
+      "lon": 151.1950238,
+      "source": "https://www.openstreetmap.org/way/258090588",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Lansdowne Hotel, 2-6, City Road, Chippendale, Sydney, New South Wales, 2008, Australia",
+    "query": "The Lansdowne Chippendale NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "The Vanguard": {
+    "point": {
+      "lat": -33.8928011,
+      "lon": 151.186362,
+      "source": "https://www.openstreetmap.org/node/1252086571",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "The Vanguard, 42, King Street, Newtown, Inner West, Sydney, New South Wales, 2042, Australia",
+    "query": "The Vanguard Newtown NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Vic on the Park": {
+    "point": {
+      "lat": -33.9042573,
+      "lon": 151.168109,
+      "source": "https://www.openstreetmap.org/way/290086038",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "2, Addison Road, Marrickville, Inner West, Sydney, New South Wales, 2204, Australia",
+    "query": "2 Addison Road Marrickville NSW",
+    "license": "ODbL 1.0",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  },
+  "Elton Chong": {
+    "point": {
+      "lat": -33.7539973,
+      "lon": 150.6982008,
+      "source": "https://www.eltonchong.com.au/contact",
+      "accuracy": "Approximate venue point from venue-owned businessLocationCoordinates metadata; not an entrance survey"
+    }
+  },
+  "MoshPit": {
+    "point": {
+      "lat": -33.9054732,
+      "lon": 151.1811163,
+      "source": "https://www.moshpitbar.com.au/",
+      "accuracy": "Approximate venue point from venue-owned map marker metadata; not an entrance survey"
+    }
+  }
+}

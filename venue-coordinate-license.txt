@@ -1,0 +1,18 @@
+OFFLINE VENUE COORDINATES
+
+The OpenStreetMap-derived venue/address point extract in geography.js and venue-coordinate-sources.json is © OpenStreetMap contributors, available under the Open Database License (ODbL) 1.0.
+
+Copyright/attribution: https://www.openstreetmap.org/copyright
+Licence: https://opendatacommons.org/licenses/odbl/1-0/
+Local source extract: venue-coordinate-sources.json
+
+Changes: selected venue/address matches for this gig guide; transformed latitude/longitude into the displayed map projection. All positions are approximate venue/property points, not verified entrances, accessibility routes or navigation directions. Distinct events may share the same source point; graphical marker separation does not alter the underlying venue coordinates.
+
+Data was collected once through a rate-limited, single-threaded research lookup and cached locally. There is no Nominatim, OSM, map tile or other geocoding API request in the running website. The research helper is not part of the shipped runtime and no periodic geocoding is configured. Nominatim usage restrictions: https://operations.osmfoundation.org/policies/nominatim/ . Future research should reuse cached points and comply with the provider's then-current policy; do not turn this into a public geocoding/search endpoint.
+
+The original site's MIT licence does not replace the ODbL licence for this separate point-data extract. Preserve visible attribution and provide this source extract and licence notice when redistributing the data. Venue facts/names and the separately sourced NSW map layers are not claimed to be original code.
+
+VENUE-PUBLISHED POINTS
+Elton Chong's coordinate is taken from factual businessLocationCoordinates metadata on its official contact page, https://www.eltonchong.com.au/contact, retrieved 25 October 2026 Sydney time. Only the location fact is reproduced, not site design, photographs or description. This record is identified separately in the source extract and is not represented as OpenStreetMap data.
+
+MoshPit coordinate is the markerLat/markerLng location published in the venue-owned embedded map configuration at https://www.moshpitbar.com.au/ . Only the factual position is reproduced, not the embedded map, tiles, design or code.
