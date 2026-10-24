@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:a135be0e6d98aa06a1f06ea7@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261031T080000Z
+SUMMARY:Points of Authority (Linkin Park tribute)
+LOCATION:Crowbar\, Leichhardt\, NSW\, Australia
+DESCRIPTION:Line-up: Points of Authority (Linkin Park tribute)\, Bring Me T
+ o Life (Evanescence tribute)\, Glitch Kingdom\, Fat Bald Idiot\nTime from 
+ source: 19:00 (Australia/Sydney). Doors may precede the performance. Unkno
+ wn end time not estimated.\nNu-metal and alternative-metal nostalgia: expl
+ icitly a tribute show\, with original Nintendo-core and pop-punk supports.
+ \nPrice: 30 AUD final\;19/24 exhausted\nAvailability: Final release select
+ able\nOfficial details: https://crowbarsyd.oztix.com.au/outlet/event/15a93
+ 61b-fc0b-4d48-b808-fc21a2785a8b?Event=247067
+URL:https://crowbarsyd.oztix.com.au/outlet/event/15a9361b-fc0b-4d48-b808-fc
+ 21a2785a8b?Event=247067
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

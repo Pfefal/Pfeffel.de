@@ -1,0 +1,19 @@
+Sydney Heavy Gigs — local review prototype
+Week: 26 October–1 November 2026. Snapshot: 25 October Sydney time.
+
+DATA
+34 individual shows from 31 preference-ranked calendar blocks, based on the existing independently verified gig research. Official ticket and venue source URLs are included in every event detail. Distinct dates/venues/bills for Negative Approach, Shonen Knife and TISM are preserved. This prototype does not fetch information live. Availability is a snapshot, not a reservation or stock guarantee.
+Spotify artist pages are linked only where saved research contains a verified identity. An additional exact-track-to-artist DOM verification pass recovered 73 unique artist pages from the existing authorized playlist, enriching 84 artist occurrences. The interface retains an explicitly labelled "Song" fallback if a future verified track lacks an artist-page identity. Unresolved identities remain visibly unverified. Lorelei is deliberately withheld due to namesake ambiguity.
+
+MAP & GENRES
+The geographic illustration and suburb markers are original schematic graphics, approximate and not to scale. They are not suitable for navigation. Markers represent suburbs, not verified venue coordinates. Distances and street positions should not be inferred.
+Genre islands are a subjective editorial grouping, not a formal taxonomy. A bill can span several styles. No image, layout, code or assets were copied from Map of Metal. No voice/vocal axis or numeric genre positioning is used.
+
+ART & LICENSES
+The cream/red requested playlist cover was not recovered at creation; the desktop typographic placeholder is original code-generated layout and marked accordingly. No artist photographs, copyrighted album artwork, remote fonts or map tiles are used. System fonts only. Original code and schematic graphics carry MIT terms in LICENSE.txt; third-party trademarks and linked content retain their rights. No third-party software dependencies are shipped.
+
+OFFLINE
+All page resources, event data, graphics and .ics downloads are local. No API, CDN, embed, analytics or third-party runtime requests. No service worker or browser cache is required. Intended use: open index.html from the extracted dist folder, or serve that folder on localhost. Actual file-origin/CSP and offline browser behavior could not be verified here because the supported preview environment was unavailable. External links require internet. A hosted page is not guaranteed available after closing it offline; download the folder for reliable offline access.
+
+CALENDAR
+Files use stable event UIDs, UTF-8 with CRLF and folded lines; known times are converted from Australia/Sydney to UTC. Times may be doors rather than performance time, as stated in the source. Only explicitly stated end times are included; no duration is invented. Importers may display their own default duration if no DTEND exists. Download/import is user-driven; the site never writes to a connected calendar. No alarms, guests, recurrence or meeting URLs are added.

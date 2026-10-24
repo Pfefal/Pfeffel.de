@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:70d9e47159d0297f318e4366@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261031T030000Z
+SUMMARY:Negative Approach
+LOCATION:The Chippo Hotel\, Chippendale\, NSW\, Australia
+DESCRIPTION:Line-up: Negative Approach\, Rapid Dye\, Robber\, Compound\, Ba
+ ckhand\, Loose Cannon\, Demolition\, Discount Code\, Rukus\, Hunny\, Body 
+ Melt\, N.C Hoods\, Bible Baker\nTime from source: 14:00 (Australia/Sydney)
+ . Doors may precede the performance. Unknown end time not estimated.\nRaw\
+ , classic hardcore rather than melodic metalcore\; an intense small-venue 
+ show.\nPrice: Not exposed by official page\nAvailability: No tickets avail
+ able\; waitlist\nOfficial details: https://tickets.oztix.com.au/outlet/eve
+ nt/c45098e3-dc37-4972-aa49-b53f6ef3bb38
+URL:https://tickets.oztix.com.au/outlet/event/c45098e3-dc37-4972-aa49-b53f6
+ ef3bb38
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

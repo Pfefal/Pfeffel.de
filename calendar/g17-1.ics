@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:f26c5e172f54604ea68a185e@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261031T090000Z
+DTEND:20261031T125500Z
+SUMMARY:Second in Charge
+LOCATION:Wings and Tins\, Dee Why\, NSW\, Australia
+DESCRIPTION:Line-up: Second in Charge\, The Midwives\, Lorelei\nTime from s
+ ource: 20:00–23:55 (Australia/Sydney). Doors may precede the performance
+ . Unknown end time not estimated.\nA small rock\, punk and grunge night on
+  the Northern Beaches.\nPrice: 16.75 AUD inclfees /20 door\nAvailability: 
+ GA selectable\nOfficial details: https://events.humanitix.com/halloween-sh
+ ow-second-in-charge-w-the-midwives-and-lorelei
+URL:https://events.humanitix.com/halloween-show-second-in-charge-w-the-midw
+ ives-and-lorelei
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:e2b786fb18665d1c3399c414@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T090000Z
+SUMMARY:TISM
+LOCATION:Enmore Theatre\, Newtown\, NSW\, Australia
+DESCRIPTION:Line-up: TISM\, Laura and the Hell Cutz\, Itchy and the Nits\nT
+ ime from source: 20:00 (doors 19:00) (Australia/Sydney). Doors may precede
+  the performance. Unknown end time not estimated.\nAlternative crossover\;
+  somewhat lighter than the metalcore reference bands.\nPrice: Price unconf
+ irmed\nAvailability: Availability unconfirmed\nOfficial details: https://p
+ remier.ticketek.com.au/shows/show.aspx?sh=DRWTISM26&v=NMO
+URL:https://premier.ticketek.com.au/shows/show.aspx?sh=DRWTISM26&v=NMO
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

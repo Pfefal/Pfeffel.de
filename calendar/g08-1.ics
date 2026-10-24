@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:e7df7ecd8d72b87916e1847b@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261031T090000Z
+SUMMARY:Sundowner
+LOCATION:The Duke of Enmore\, Enmore\, NSW\, Australia
+DESCRIPTION:Line-up: Sundowner\, AGLO\, Amammoth\, BIFTER\nTime from source
+ : 20:00 BIFTER\;21:00 Amammoth\;22:00 AGLO\;23:00 Sundowner (Australia/Syd
+ ney). Doors may precede the performance. Unknown end time not estimated.\n
+ Heavy doom and sludge riffs rather than metalcore\; a strong heavier pub a
+ lternative.\nPrice: AUD 0\, free entry\nAvailability: free walk-in\; capac
+ ity unverified\nOfficial details: https://www.oddculture.group/event/duke-
+ gig-guide
+URL:https://www.oddculture.group/event/duke-gig-guide
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:974feeb77f916176541292b3@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T080000Z
+SUMMARY:Half Me
+LOCATION:Crowbar\, Leichhardt\, NSW\, Australia
+DESCRIPTION:Line-up: Half Me\, Deficit\, Darkmatter\, Cultists\, Iocaste\nT
+ ime from source: 19:00 (Australia/Sydney). Doors may precede the performan
+ ce. Unknown end time not estimated.\nModern metalcore and breakdowns\, wit
+ h Darkmatter and deathcore support\; the closest heavy match.\nPrice: 49.9
+ 0 AUD\nAvailability: GA listed\; exact remaining stock unknown\nOfficial d
+ etails: https://tickets.oztix.com.au/outlet/event/3f6d4bb1-cbdb-49fe-8cfb-
+ b13b85c0710d
+URL:https://tickets.oztix.com.au/outlet/event/3f6d4bb1-cbdb-49fe-8cfb-b13b8
+ 5c0710d
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

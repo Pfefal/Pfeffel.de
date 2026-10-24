@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:0b0a0a8022eb8e259c7a8ab1@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261101T020000Z
+SUMMARY:Goodmonster
+LOCATION:Factory Courtyard\, Marrickville\, NSW\, Australia
+DESCRIPTION:Line-up: Goodmonster\, The Midwives\, The Suburban Skulk\, The 
+ Magician\nTime from source: 13:00 (Australia/Sydney). Doors may precede th
+ e performance. Unknown end time not estimated.\nLoud guitars and dark folk
+ -rock\; a free local daytime event.\nPrice: AUD 0 with RSVP\nAvailability:
+  RSVP advertised\nOfficial details: https://www.factorytheatre.com.au/even
+ t/freekin-weekends-x-goodmonster/
+URL:https://www.factorytheatre.com.au/event/freekin-weekends-x-goodmonster/
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:c77239b777b6356d252d0254@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261031T060000Z
+SUMMARY:Naugrim
+LOCATION:Dead Set\, Darlinghurst\, NSW\, Australia
+DESCRIPTION:Line-up: Naugrim\, Crown St Militia\, Blame The Widow\, Stockad
+ e\nTime from source: 17:00 doors\; performance times unconfirmed (Australi
+ a/Sydney). Doors may precede the performance. Unknown end time not estimat
+ ed.\nLocal metal with a deathcore edge\; heavier than the reference bands.
+ \nPrice: official price not stated\; secondary guides say free\nAvailabili
+ ty: announced\; capacity unverified\nOfficial details: https://deadsetdarl
+ o.com.au/whats-on/halloween-by-crimewave-mgmt.html
+URL:https://deadsetdarlo.com.au/whats-on/halloween-by-crimewave-mgmt.html
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:e9d4a8a0f84febf02780c635@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261031T090000Z
+SUMMARY:The Vors
+LOCATION:Elton Chong\, Penrith\, NSW\, Australia
+DESCRIPTION:Line-up: The Vors\, Virgin Mary Disco Brawl\, So I Says To Mabe
+ l\nTime from source: 20:00 (Australia/Sydney). Doors may precede the perfo
+ rmance. Unknown end time not estimated.\nMelodic punk\, angular post-punk 
+ and skate punk.\nPrice: 15 AUD inclfees\nAvailability: GA selector\nOffici
+ al details: https://www.moshtix.com.au/v2/event/dawn-of-the-punk-halloween
+ -in-the-riff-with-the-vors-virgin-mary-disco-brawl/200984
+URL:https://www.moshtix.com.au/v2/event/dawn-of-the-punk-halloween-in-the-r
+ iff-with-the-vors-virgin-mary-disco-brawl/200984
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

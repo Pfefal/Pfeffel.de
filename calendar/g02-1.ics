@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:e2ebe3f39da02e4146a0d23a@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T090000Z
+SUMMARY:Sienna Skies
+LOCATION:Tattersalls Hotel\, Penrith\, NSW\, Australia
+DESCRIPTION:Line-up: Sienna Skies\, Brooklyn Comic\nTime from source: 20:00
+  (Australia/Sydney). Doors may precede the performance. Unknown end time n
+ ot estimated.\nMelodic post-hardcore and metalcore\; live bands at am//pm 
+ Halloween\, followed by DJs.\nPrice: 34.20 AUD GA\;23.75/29.10 exhausted\n
+ Availability: GA selectable\nOfficial details: https://tattersallshotel.oz
+ tix.com.au/outlet/event/05d904d6-e601-4574-9b34-e889da744b1a?Event=248799
+URL:https://tattersallshotel.oztix.com.au/outlet/event/05d904d6-e601-4574-9
+ b34-e889da744b1a?Event=248799
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

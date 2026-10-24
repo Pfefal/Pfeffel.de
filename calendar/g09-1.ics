@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:d1ba912d2f265442c1710209@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T090000Z
+SUMMARY:Durry
+LOCATION:Elton Chong\, Penrith\, NSW\, Australia
+DESCRIPTION:Line-up: Durry\, Bible Baker\, Antipope 666\, Fiend\, Ghoulstep
+ per24\nTime from source: 20:00 (Australia/Sydney). Doors may precede the p
+ erformance. Unknown end time not estimated.\nHardcore\, death/black metal 
+ and crust with breakcore\; a raw\, heavy club night.\nPrice: 15 AUD inclfe
+ es\nAvailability: GA selector\nOfficial details: https://www.moshtix.com.a
+ u/v2/event/all-hallows-eve-at-elton-chong-w-durry-bible-baker-antipope-666
+ -fiend-gh/198384
+URL:https://www.moshtix.com.au/v2/event/all-hallows-eve-at-elton-chong-w-du
+ rry-bible-baker-antipope-666-fiend-gh/198384
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

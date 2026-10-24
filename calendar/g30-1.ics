@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:c1a2e7233ac0003d7a9ed052@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T060000Z
+SUMMARY:Sabbath Bloody Sabbath
+LOCATION:Dead Set\, Darlinghurst\, NSW\, Australia
+DESCRIPTION:Line-up: Sabbath Bloody Sabbath\, Electrik\, Ditzy Dog\, Drunke
+ n Sun\, Orange Empress\nTime from source: 17:00 doors\; performance times 
+ unconfirmed (Australia/Sydney). Doors may precede the performance. Unknown
+  end time not estimated.\nA Black Sabbath tribute plus local hard-rock ban
+ ds\; classic riffs\, not an original Black Sabbath concert.\nPrice: offici
+ al price not stated\; secondary guides say free\nAvailability: announced\;
+  capacity unverified\nOfficial details: https://deadsetdarlo.com.au/whats-
+ on/sabbath-bloody-sabbath.html
+URL:https://deadsetdarlo.com.au/whats-on/sabbath-bloody-sabbath.html
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

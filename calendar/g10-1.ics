@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:606af1b689a8c97c99b26bde@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T100000Z
+SUMMARY:DOWNGIRL feat. JADEDTV
+LOCATION:The Duke of Enmore\, Enmore\, NSW\, Australia
+DESCRIPTION:Line-up: DOWNGIRL feat. JADEDTV\, Second Idol\, CH!X\nTime from
+  source: 21:00 (Australia/Sydney). Doors may precede the performance. Unkn
+ own end time not estimated.\nFeminist punk and alternative with raw guitar
+  energy\; a strong small-band choice.\nPrice: official price not stated\; 
+ secondary guide free\nAvailability: announced\; capacity unverified\nOffic
+ ial details: https://www.instagram.com/p/Def0ALAjQ7p/
+URL:https://www.instagram.com/p/Def0ALAjQ7p/
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

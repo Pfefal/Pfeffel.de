@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:edaa407b6d8523a8b8c2a477@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261101T080000Z
+SUMMARY:For Your Safety
+LOCATION:Crowbar\, Leichhardt\, NSW\, Australia
+DESCRIPTION:Line-up: For Your Safety\, Bunny Bear\, STRATUS\, Ultra\nTime f
+ rom source: 19:00 (Australia/Sydney). Doors may precede the performance. U
+ nknown end time not estimated.\nLocal alternative and emo guitar discoveri
+ es rather than big names.\nPrice: 12.50 AUD\nAvailability: GA listed\nOffi
+ cial details: https://crowbarsyd.oztix.com.au/outlet/event/f7de508a-f5ed-4
+ 3d3-a0a4-2cd5369ac2f3?Event=248744
+URL:https://crowbarsyd.oztix.com.au/outlet/event/f7de508a-f5ed-43d3-a0a4-2c
+ d5369ac2f3?Event=248744
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

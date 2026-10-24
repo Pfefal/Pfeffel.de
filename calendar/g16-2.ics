@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:c78e71545baf553a5de04eca@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261031T093000Z
+SUMMARY:Shonen Knife
+LOCATION:Avalon RSL\, Avalon Beach\, NSW\, Australia
+DESCRIPTION:Line-up: Shonen Knife\, Turnstyle\, Media Puzzle\nTime from sou
+ rce: 20:30 (Australia/Sydney). Doors may precede the performance. Unknown 
+ end time not estimated.\nMelodic Japanese punk and pop-rock\; a lighter\, 
+ energetic addition.\nPrice: 55.05 AUD + 2.95 AUD per order\nAvailability: 
+ GA selector\nOfficial details: https://www.moshtix.com.au/v2/event/shonen-
+ knife/198865
+URL:https://www.moshtix.com.au/v2/event/shonen-knife/198865
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

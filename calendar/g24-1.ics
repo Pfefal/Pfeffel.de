@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:bc2d1925573bf0d678cdde43@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T090000Z
+SUMMARY:bonnie
+LOCATION:Oxford Art Factory Gallery Bar\, Darlinghurst\, NSW\, Australia
+DESCRIPTION:Line-up: bonnie\, Model Farms\, Phase II\nTime from source: 20:
+ 00 (Australia/Sydney). Doors may precede the performance. Unknown end time
+  not estimated.\nA small indie and alternative band night\; bonnie’s rec
+ ording identity needs separate verification before playlist selection.\nPr
+ ice: AUD0\, free entry18+\nAvailability: announced free event\; capacity u
+ nverified\nOfficial details: https://www.moshtix.com.au/v2/event/hijinx-al
+ ley-pres-band-night-13-free-entry/200976
+URL:https://www.moshtix.com.au/v2/event/hijinx-alley-pres-band-night-13-fre
+ e-entry/200976
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

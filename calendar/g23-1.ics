@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:560ddbfb598626d1aae70673@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261031T080000Z
+SUMMARY:Pacific Avenue
+LOCATION:The Vanguard\, Newtown\, NSW\, Australia
+DESCRIPTION:Line-up: Pacific Avenue\nTime from source: 19:00 (Australia/Syd
+ ney). Doors may precede the performance. Unknown end time not estimated.\n
+ Melodic indie and classic rock\, considerably lighter than metalcore\; an 
+ intimate Halloween show.\nPrice: AUD40.27/50.47/60.66 tier prices +AUD2.95
+  per order\; cheapest currently available tier unverified\nAvailability: t
+ icket tiers listed\, precise stock unknown\nOfficial details: https://www.
+ moshtix.com.au/v2/event/pacific-avenue-presents-the-little-night-of-horror
+ s/200947
+URL:https://www.moshtix.com.au/v2/event/pacific-avenue-presents-the-little-
+ night-of-horrors/200947
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2a29bbaacc0efd2029b9294e@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T083000Z
+SUMMARY:Bennetts Grove
+LOCATION:The Lansdowne\, Chippendale\, NSW\, Australia
+DESCRIPTION:Line-up: Bennetts Grove\nTime from source: 19:30 (Australia/Syd
+ ney). Doors may precede the performance. Unknown end time not estimated.\n
+ Abrasive yet melodic post-punk and alternative rock.\nPrice: 19.90 AUD inc
+ lfees\nAvailability: GA selector\nOfficial details: https://www.moshtix.co
+ m.au/v2/event/bennetts-grove-ep-tour-2026/199782
+URL:https://www.moshtix.com.au/v2/event/bennetts-grove-ep-tour-2026/199782
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

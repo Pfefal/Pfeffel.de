@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:0105333f812ff8766d371a66@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T080000Z
+DTEND:20261030T130000Z
+SUMMARY:ZCluster
+LOCATION:MoshPit\, Erskineville\, NSW\, Australia
+DESCRIPTION:Line-up: ZCluster\, Cheap Coffins\, DestroyerMariko\nTime from 
+ source: 19:00–00:00 (Australia/Sydney). Doors may precede the performanc
+ e. Unknown end time not estimated.\nIndustrial and gothic live music along
+ side adult performance art featuring nudity and bondage\; not a convention
+ al band night.\nPrice: AUD35+2.63fee standard\; sliding scale fromAUD20+fe
+ es\nAvailability: ticket choices displayed\; stock unknown\nOfficial detai
+ ls: https://events.humanitix.com/flesh-rituals-and-siren-songs-6
+URL:https://events.humanitix.com/flesh-rituals-and-siren-songs-6
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

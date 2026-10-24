@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:57df5f09faed58fd90fdcf16@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T083000Z
+SUMMARY:hauler
+LOCATION:Buddy's Bar\, Newtown\, NSW\, Australia
+DESCRIPTION:Line-up: hauler\, My Velvet Exit\, Zed Flanders\nTime from sour
+ ce: 19:30 (Australia/Sydney). Doors may precede the performance. Unknown e
+ nd time not estimated.\nDark post-punk between guitar noise and shoegaze\;
+  an atmospheric alternative.\nPrice: AUD 20.95 displayed\nAvailability: GA
+  ticket option displayed\; exact stock not checked\nOfficial details: http
+ s://tickets.oztix.com.au/outlet/event/11aecc64-683d-4902-848c-d1cdce284789
+URL:https://tickets.oztix.com.au/outlet/event/11aecc64-683d-4902-848c-d1cdc
+ e284789
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

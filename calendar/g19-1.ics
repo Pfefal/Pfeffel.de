@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:64348a8d95e02c5af1777922@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261029T080000Z
+SUMMARY:The Girts
+LOCATION:Kiss My Brass\, Marrickville\, NSW\, Australia
+DESCRIPTION:Line-up: The Girts\, Severance\, Opal Garden\nTime from source:
+  19:00 (Australia/Sydney). Doors may precede the performance. Unknown end 
+ time not estimated.\nPub punk\, modern melodic metal and psych-funk\; loca
+ l discoveries.\nPrice: Price unconfirmed\nAvailability: Availability uncon
+ firmed\nOfficial details: https://www.instagram.com/p/Dd5YXW3JElH/
+URL:https://www.instagram.com/p/Dd5YXW3JElH/
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

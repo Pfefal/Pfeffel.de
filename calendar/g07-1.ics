@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:b808c93e09f74cc48ef873a1@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261101T030000Z
+SUMMARY:Mass Control
+LOCATION:The Chippo Hotel\, Chippendale\, NSW\, Australia
+DESCRIPTION:Line-up: Mass Control\, Twist of Fate\, Hail Mary\, Starscream\
+ , Resurgence\nTime from source: 14:00 (Australia/Sydney). Doors may preced
+ e the performance. Unknown end time not estimated.\nA local hardcore matin
+ ee. All ages.\nPrice: 25 AUD including fees\nAvailability: General admissi
+ on available to select\; remaining capacity unknown\nOfficial details: htt
+ ps://tickets.oztix.com.au/outlet/event/e735b669-f073-4ca8-985b-83ed19b47bd
+ f
+URL:https://tickets.oztix.com.au/outlet/event/e735b669-f073-4ca8-985b-83ed1
+ 9b47bdf
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:a38c88709a37a245af36c1a2@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T080000Z
+SUMMARY:Hatchling
+LOCATION:Vic on the Park\, Marrickville\, NSW\, Australia
+DESCRIPTION:Line-up: Hatchling\, The Dress\nTime from source: 19:00 (offici
+ al ticket\; secondary guide says21h) (Australia/Sydney). Doors may precede
+  the performance. Unknown end time not estimated.\nFolk and blues-rock wit
+ h Wolf Alice and Mazzy Star influences\; a deliberately quieter pub outing
+ .\nPrice: AUD 0\, free RSVP\nAvailability: free RSVP option displayed\; ex
+ act capacity unverified\nOfficial details: https://tickets.oztix.com.au/ou
+ tlet/event/c5619a85-7c35-440c-a765-ff70e7315e4e
+URL:https://tickets.oztix.com.au/outlet/event/c5619a85-7c35-440c-a765-ff70e
+ 7315e4e
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

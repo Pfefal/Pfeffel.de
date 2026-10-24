@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:d602ef661c05ce142a9e25bf@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T083000Z
+SUMMARY:Bonniesongs
+LOCATION:The Confectionery\, Newtown\, NSW\, Australia
+DESCRIPTION:Line-up: Bonniesongs\, Georgia Mulligan\nTime from source: 19:3
+ 0 doors\;20:00 sets (Australia/Sydney). Doors may precede the performance.
+  Unknown end time not estimated.\nOffbeat grunge and art-rock with dreamy 
+ vocals\; a melodic\, experimental addition.\nPrice: GA AUD30+2.41=32.41\;p
+ refer pay less AUD25+2.19=27.19 selectable\nAvailability: Get tickets link
+ \; stock unverified\nOfficial details: https://events.humanitix.com/bonnie
+ songs-scream-release-party
+URL:https://events.humanitix.com/bonniesongs-scream-release-party
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

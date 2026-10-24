@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ddbb438fc0d9bb3b6d33e851@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T090000Z
+DTEND:20261030T120000Z
+SUMMARY:Elysium
+LOCATION:The Lansdowne\, Chippendale\, NSW\, Australia
+DESCRIPTION:Line-up: Elysium\, Fish N° 46\, Static!\nTime from source: 20:
+ 00–23:00 live bands\; DJs after (Australia/Sydney). Doors may precede th
+ e performance. Unknown end time not estimated.\nFree local guitar-band dis
+ coveries\; the precise genre fit is less firmly established.\nPrice: Free\
+ nAvailability: Free GA selector\; capacity unknown\nOfficial details: http
+ s://www.moshtix.com.au/v2/event/after-dark-w-elysium-fish-n%C2%B0-46-stati
+ c/200894
+URL:https://www.moshtix.com.au/v2/event/after-dark-w-elysium-fish-n%C2%B0-4
+ 6-static/200894
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

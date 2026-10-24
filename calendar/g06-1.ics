@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:f32dd428827517afbbce999c@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261031T080000Z
+DTEND:20261031T120000Z
+SUMMARY:Heathenspawn
+LOCATION:Hopsters Cooperative Brewery\, Enmore\, NSW\, Australia
+DESCRIPTION:Line-up: Heathenspawn\, Devoid Altar\, Sudaka\nTime from source
+ : 19:00–23:00 (Australia/Sydney). Doors may precede the performance. Unk
+ nown end time not estimated.\nBlackened melodic death metal\, death-doom a
+ nd hardcore crossover\; substantially heavier than the reference bands.\nP
+ rice: 18 AUD +1.88 fee =19.88 AUD\nAvailability: GA ticket selector\nOffic
+ ial details: https://events.humanitix.com/hopsterspresents
+URL:https://events.humanitix.com/hopsterspresents
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

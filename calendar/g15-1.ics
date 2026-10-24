@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:8a5f7c731e2157111240f6d4@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T083000Z
+DTEND:20261030T123000Z
+SUMMARY:Tantichrist
+LOCATION:Marrickville Bowling Club\, Marrickville\, NSW\, Australia
+DESCRIPTION:Line-up: Tantichrist\, The Strike-Outs\, The Sugar Beats\nTime 
+ from source: 19:30–23:30 (Australia/Sydney). Doors may precede the perfo
+ rmance. Unknown end time not estimated.\nHook-filled\, rough-edged surf pu
+ nk\; an accessible local punk addition.\nPrice: 20 AUD plus booking/paymen
+ t fee unquantified\nAvailability: Buy Tickets\nOfficial details: https://w
+ ww.stickytickets.com.au/hdvrih/tantichrist_album_launch_w_strikeouts__suga
+ r_beats.aspx
+URL:https://www.stickytickets.com.au/hdvrih/tantichrist_album_launch_w_stri
+ keouts__sugar_beats.aspx
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:3e90823f2bee7b915998a921@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261029T090000Z
+SUMMARY:Shonen Knife
+LOCATION:Crowbar\, Leichhardt\, NSW\, Australia
+DESCRIPTION:Line-up: Shonen Knife\, Turnstyle\, Media Puzzle\nTime from sou
+ rce: 20:00 (Australia/Sydney). Doors may precede the performance. Unknown 
+ end time not estimated.\nMelodic Japanese punk and pop-rock\; a lighter\, 
+ energetic addition.\nPrice: 58 AUD\nAvailability: GA selector\nOfficial de
+ tails: https://crowbarsyd.oztix.com.au/outlet/event/95d3723c-1ccf-4ebf-9f4
+ 9-691992fddeff?Event=245921
+URL:https://crowbarsyd.oztix.com.au/outlet/event/95d3723c-1ccf-4ebf-9f49-69
+ 1992fddeff?Event=245921
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

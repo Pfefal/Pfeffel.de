@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:a55493a4f3ed98243f303bfe@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261030T090000Z
+SUMMARY:King Machete
+LOCATION:Botany View Hotel\, Newtown\, NSW\, Australia
+DESCRIPTION:Line-up: King Machete\, S.M.D.\, Die Rat Die\, Sudaka\nTime fro
+ m source: 20:00 (Australia/Sydney). Doors may precede the performance. Unk
+ nown end time not estimated.\nStoner punk and heavy grunge riffs with punk
+  supports.\nPrice: AUD 15 + booking fee unspecified\nAvailability: GA tick
+ et option displayed\; exact stock not checked\nOfficial details: https://t
+ ickets.oztix.com.au/outlet/event/a54c8915-8d8c-4bbc-860e-20a805479af9
+URL:https://tickets.oztix.com.au/outlet/event/a54c8915-8d8c-4bbc-860e-20a80
+ 5479af9
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

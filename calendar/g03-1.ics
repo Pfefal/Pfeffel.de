@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:eeaf087afa093ac423dcf2c9@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261028T090000Z
+SUMMARY:Vaegon
+LOCATION:Crowbar\, Leichhardt\, NSW\, Australia
+DESCRIPTION:Line-up: Vaegon\, Nekrosurgeon\, Stockade\nTime from source: 20
+ :00 (Australia/Sydney). Doors may precede the performance. Unknown end tim
+ e not estimated.\nTechnical and extreme metal for a heavier discovery.\nPr
+ ice: 24.90 AUD\nAvailability: GA listed\nOfficial details: https://tickets
+ .oztix.com.au/outlet/event/8c042268-4fec-455f-a66d-686e1f26f92e
+URL:https://tickets.oztix.com.au/outlet/event/8c042268-4fec-455f-a66d-686e1
+ f26f92e
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

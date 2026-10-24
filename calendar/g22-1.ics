@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:8a63ba53ecac1b85dd56ce43@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261028T063000Z
+SUMMARY:The Buoys
+LOCATION:HUM on King\, Newtown\, NSW\, Australia
+DESCRIPTION:Line-up: The Buoys\nTime from source: 17:30 (Australia/Sydney).
+  Doors may precede the performance. Unknown end time not estimated.\nAlter
+ native and garage rock in a small in-store format\, not a full club concer
+ t.\nPrice: not stated in official post\; secondary guide free\nAvailabilit
+ y: in-store live performance + album signing announced\, capacity unknown\
+ nOfficial details: https://www.instagram.com/p/DednWeexand/
+URL:https://www.instagram.com/p/DednWeexand/
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Heavy Gigs//Local Review Prototype//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:006afc738d018c737bdd41b9@sydney-heavy-gigs.local
+DTSTAMP:20261024T220000Z
+DTSTART:20261028T080000Z
+SUMMARY:Sesame Girl
+LOCATION:Metro Social\, Sydney CBD\, NSW\, Australia
+DESCRIPTION:Line-up: Sesame Girl\, Jade Yee-Smith\nTime from source: 19:00 
+ doors\;19:30 Jade Yee-Smith\;20:20 Sesame Girl (Australia/Sydney). Doors m
+ ay precede the performance. Unknown end time not estimated.\nLighter alter
+ native and indie guitars\; a free live-band addition.\nPrice: AUD 0\nAvail
+ ability: free event\; capacity unverified\nOfficial details: https://www.m
+ etrotheatre.com.au/event/metro-a-i-r-x-friends-of-friends-san-cisco-djs-se
+ same-girl-jade-yee-smith/
+URL:https://www.metrotheatre.com.au/event/metro-a-i-r-x-friends-of-friends-
+ san-cisco-djs-sesame-girl-jade-yee-smith/
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
