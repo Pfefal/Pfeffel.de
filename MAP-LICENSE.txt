@@ -17,7 +17,7 @@ https://www.nsw.gov.au/environment-land-and-water/spatial-data-and-mapping/found
 https://www.spatial.nsw.gov.au/copyright
 https://portal.spatial.nsw.gov.au/portal/sharing/rest/content/items/10de9a9d0fa14463af77b4f3e18279a9/data
 
-Changes: spatial subset, coordinate generalisation (0.00010 degrees for road/hydro areas; 0.00015 degrees for sea extent), polygon clipping, SVG projection and original styling. Only motorways, primary, arterial and subarterial roads are shown. Hydro areas smaller than 10,000 square metres omitted. Offshore sea extent is the source's FuzzyExtentWaterArea, not a surveyed boundary. No endorsement by NSW Spatial Services is implied. Informational context only, not for navigation.
+Changes: spatial subset, coordinate generalisation (0.00010 degrees for road/hydro areas; 0.00015 degrees for sea extent), polygon clipping, SVG projection and original styling. Only a small named selection of main roads is shown. Hydro areas smaller than 10,000 square metres omitted. Offshore sea extent is the source's FuzzyExtentWaterArea, not a surveyed boundary. No endorsement by NSW Spatial Services is implied. Informational context only, not for navigation.
 
 Projection: longitude/latitude mapped linearly into SVG viewBox 0 0 1000 620; north is up. Display is not a distance-preserving projection.
 sydney-map.svg: west151.145 south-33.925 east151.225 north-33.865
@@ -28,8 +28,10 @@ These geographic data rights are separate from the site's code licence. Preserve
 
 Site redesign adds original approximate locality-name labels (not venue coordinates) and adjusts line contrast. Labels are orientation aids, not navigation instructions.
 
-Compact revision: all road layers removed; water/coast rings generalised with Douglas–Peucker tolerance 0.65 SVG pixels (city) / 0.9 (wide), tiny water areas below 5 square SVG pixels omitted. Geographic harbour/coast shapes retained; broad suburb labels only.
 
-Compact revision: all road layers removed; water/coast rings generalised with Douglas–Peucker tolerance 0.65 SVG pixels (city) / 0.9 (wide), tiny water areas below 5 square SVG pixels omitted. Geographic harbour/coast shapes retained; broad suburb labels only.
+Compact map revision (25 October 2026): existing water/coast geometry and labels retained unchanged. City water geometry had previously been generalised at 0.65 SVG pixels; wide geometry at 2.5 pixels, omitting water rings below 20 square SVG pixels.
 
-Final wide-map pass uses 2.5 SVG pixel tolerance and removes water rings below 20 square SVG pixels. Total map SVG size about 23 KB. No road geometry remains.
+Light road layer: a small selection from the same NSW Transport Theme RoadSegment source is clipped to the existing map bounds, joined at coincident endpoints, simplified at 1.1 SVG pixels (city) or 2 pixels (wide), and rounded to whole SVG pixels. Very short segments omitted. No new data service or runtime dependency.
+City selected names: Parramatta Road, King Street, Princes Highway, Enmore Road, City Road, Oxford Street. Wide selected names: Parramatta Road, Great Western Highway, Pacific Highway, Pittwater Road, Barrenjoey Road, Princes Highway, Western Motorway. Labels and water geometry remain unchanged. Road lines are orientation context only, incomplete and not for navigation.
+
+Road geometry adds approximately 3.5 KB across both SVG files (city about 4.6 KB total; wide about 21.5 KB total). The larger source road dataset is not needed by the deployed page. All source CC BY 4.0 attribution and modification notices above apply to the road layer as well.

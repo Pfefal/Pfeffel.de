@@ -2,7 +2,7 @@ PRIVACY AND SPOTIFY PLAYERS
 
 This gig guide has no account system, analytics, contact forms, advertising scripts, local storage, or cookies of its own. The hosting provider may maintain its normal request logs.
 
-The initial page uses locally hosted code, styles, event data and map assets. No Spotify player is loaded until you select "Load Spotify player" inside a gig. Loading that player makes a direct connection to Spotify, which may collect technical data and use cookies according to its own policy. Closing the gig or opening another removes the player; this does not erase data already received by Spotify. Playback is not automatically started by this site.
+The initial page uses locally hosted code, styles, event data and map assets. Opening a gig with a verified Spotify artist automatically loads that artist player, as requested. No Spotify iframe exists before a gig is opened. Opening that gig makes a direct connection to Spotify, which may collect technical data and use cookies according to its own policy. Closing the gig or opening another removes the player; this does not erase data already received by Spotify. Playback is not automatically started by this site.
 
 Spotify Privacy Policy: https://www.spotify.com/legal/privacy-policy/
 Spotify Widget Terms: https://developer.spotify.com/documentation/embeds/terms

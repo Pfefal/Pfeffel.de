@@ -1,7 +1,7 @@
 /* Original, dependency-free validation for the locally maintained gig snapshot. */
 (function (root) {
   'use strict';
-  const hosts = new Set(['open.spotify.com','crowbarsyd.oztix.com.au','deadsetdarlo.com.au','events.humanitix.com','moshtix.com.au','premier.ticketek.com.au','tattersallshotel.oztix.com.au','tickets.oztix.com.au','www.factorytheatre.com.au','www.instagram.com','www.metrotheatre.com.au','www.moshtix.com.au','www.oddculture.group','www.stickytickets.com.au']);
+  const hosts = new Set(['www.google.com','open.spotify.com','crowbarsyd.oztix.com.au','deadsetdarlo.com.au','events.humanitix.com','moshtix.com.au','premier.ticketek.com.au','tattersallshotel.oztix.com.au','tickets.oztix.com.au','www.factorytheatre.com.au','www.instagram.com','www.metrotheatre.com.au','www.moshtix.com.au','www.oddculture.group','www.stickytickets.com.au']);
   function safeExternalURL(value) {
     if (typeof value !== 'string' || value.length > 2048 || /[\u0000-\u0020\u007f]/.test(value)) return null;
     try { const u = new URL(value); return u.protocol === 'https:' && !u.username && !u.password && !u.port && hosts.has(u.hostname) ? u.href : null; } catch { return null; }
