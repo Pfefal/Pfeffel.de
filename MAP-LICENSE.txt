@@ -31,7 +31,12 @@ Site redesign adds original approximate locality-name labels (not venue coordina
 
 Compact map revision (25 October 2026): existing water/coast geometry and labels retained unchanged. City water geometry had previously been generalised at 0.65 SVG pixels; wide geometry at 2.5 pixels, omitting water rings below 20 square SVG pixels.
 
-Light road layer: a small selection from the same NSW Transport Theme RoadSegment source is clipped to the existing map bounds, joined at coincident endpoints, simplified at 1.1 SVG pixels (city) or 2 pixels (wide), and rounded to whole SVG pixels. Very short segments omitted. No new data service or runtime dependency.
-City selected names: Parramatta Road, King Street, Princes Highway, Enmore Road, City Road, Oxford Street. Wide selected names: Parramatta Road, Great Western Highway, Pacific Highway, Pittwater Road, Barrenjoey Road, Princes Highway, Western Motorway. Labels and water geometry remain unchanged. Road lines are orientation context only, incomplete and not for navigation.
+Expanded light road layer (25 October 2026): selected main roads from the same NSW Transport Theme RoadSegment source are clipped to the existing map bounds, joined at coincident endpoints, simplified at 1.1 SVG pixels (city) or 2 pixels (wide), and rounded to whole SVG pixels. Very short segments omitted. No new data service or runtime dependency.
 
-Road geometry adds approximately 3.5 KB across both SVG files (city about 4.6 KB total; wide about 21.5 KB total). The larger source road dataset is not needed by the deployed page. All source CC BY 4.0 attribution and modification notices above apply to the road layer as well.
+City selected source road names: PARRAMATTA, KING, PRINCES, ENMORE, CITY, OXFORD, CLEVELAND, VICTORIA, SYDENHAM, UNWINS BRIDGE, ILLAWARRA, BOTANY, BOURKE, ABERCROMBIE, GEORGE, PITT, BROADWAY, WILLIAM, ELIZABETH, CRYSTAL, MARRICKVILLE, ADDISON, SALISBURY, RAMSAY, NEW CANTERBURY, LIVINGSTONE, STANMORE, JOHNSTON, BALMAIN, GLEBE POINT. Only source segments intersecting the map bounds appear.
+
+Wide selected source road names: PARRAMATTA, GREAT WESTERN, PACIFIC, PITTWATER, BARRENJOEY, PRINCES, WESTERN, VICTORIA, M2, WESTLINK M7, SOUTH WESTERN, HUME, WINDSOR, PENNANT HILLS, MONA VALE, WARRINGAH, MILITARY, SPIT, EPPING, RYDE, LANE COVE, JAMES RUSE, KING GEORGES, CANTERBURY, GENERAL HOLMES, SOUTHERN CROSS, EASTERN DISTRIBUTOR, ANZAC, NEW SOUTH HEAD, OLD SOUTH HEAD, FOREST, WAKEHURST, MULGOA, RICHMOND, CAMDEN VALLEY, THE NORTHERN ROAD, M12, BRADFIELD, CAHILL.
+
+Existing water geometry, labels, projection and map bounds remain unchanged. Road lines are orientation context only, incomplete and not for navigation. Thin muted lines render beneath locality labels.
+
+Combined SVG size approximately 32.9 KB (city 5.9 KB; wide 26.9 KB), with roughly 10.2 KB of road paths across the two maps. The larger source road dataset is not needed by the deployed page. All source CC BY 4.0 attribution and modification notices above apply to the road layer as well.
