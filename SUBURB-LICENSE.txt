@@ -1,0 +1,19 @@
+INNER SYDNEY SUBURB OVERLAY
+
+© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW). For current information go to spatial.nsw.gov.au.
+
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Source: NSW Administrative Boundaries Theme, Suburb (layer 2).
+https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Administrative_Boundaries_Theme/MapServer/2
+Service licence metadata links to the current Spatial Services copyright policy:
+https://portal.spatial.nsw.gov.au/portal/sharing/rest/content/items/084c61c6dd404517bc2db69079ddec38?f=json
+https://www.spatial.nsw.gov.au/copyright
+
+Dataset definition: gazetted suburb/locality boundaries. This is NOT the separate LocalGovernmentArea layer or ABS statistical suburb approximations.
+https://www.data.nsw.gov.au/data/en/dataset/nsw-foundation-spatial-data-framework-administrative-boundaries-suburb
+
+Downloaded 25 October 2026. Forty-eight features intersecting longitude 151.145–151.225, latitude -33.925–-33.865. Source geometry generalised at 0.00004 degrees; projected into 1000 x 620 SVG, simplified at 1.2 SVG pixels, coordinates rounded to integer pixels and display clipped to map bounds. Thin muted strokes are an original presentation choice. No filling, invented borders or local-government boundaries added. Names remain in source data; the overlay adds no competing labels to the existing map labels.
+
+No endorsement is implied. Informational orientation only; generalised lines must not be used to establish legal boundaries or for navigation. Preserve this credit/licence and indicate further changes on redistribution. No runtime external requests.
