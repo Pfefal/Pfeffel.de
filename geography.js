@@ -1,4 +1,4 @@
-/* Offline venue-coordinate snapshot. OSM-derived points © OpenStreetMap contributors, ODbL 1.0. See venue-coordinate-license.txt. */
+/* Venue-coordinate snapshot. Existing OSM-derived points © OpenStreetMap contributors, ODbL 1.0; Burdekin is the official venue-linked address point. See venue-coordinate-sources.json. */
 window.GIG_GEO = {
   "bounds": {
     "city": {
@@ -140,6 +140,12 @@ window.GIG_GEO = {
       "lon": 151.1811163,
       "source": "https://www.moshpitbar.com.au/",
       "accuracy": "Approximate venue point from venue-owned map marker metadata; not an entrance survey"
+    },
+    "Burdekin Hotel": {
+      "lat": -33.8770923,
+      "lon": 151.2129535,
+      "source": "https://burdekin.com.au/hit-us-up/",
+      "accuracy": "Approximate address point from venue-linked Google map, 2–4 Oxford Street; not an entrance/navigation survey"
     }
   }
 };

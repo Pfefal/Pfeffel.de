@@ -12,11 +12,11 @@ window.GIGS = [
     "time": "19:00",
     "venue": "Crowbar",
     "suburb": "Leichhardt",
-    "price": "49.90 AUD",
-    "availability": "GA listed; exact remaining stock unknown",
+    "price": "AUD 49.90 incl booking fee + AUD 1.95 per order",
+    "availability": "GA currently offered; remaining capacity unknown",
     "url": "https://tickets.oztix.com.au/outlet/event/3f6d4bb1-cbdb-49fe-8cfb-b13b85c0710d",
     "fit": "Modern metalcore and breakdowns, with Darkmatter and deathcore support; the closest heavy match.",
-    "source": "Official Oztix current bill; older press DIESECT/date31 incorrect",
+    "source": "Official event and venue sources checked 30 Oct 2026; live official Oztix.",
     "id": "g01-1",
     "rank": 1,
     "groupId": "group-01",
@@ -95,6 +95,50 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "nightdive",
+      "Kevin Silvester",
+      "FACELIFT"
+    ],
+    "date": "2026-10-31",
+    "time": "20:00",
+    "venue": "Burdekin Hotel",
+    "suburb": "Darlinghurst",
+    "price": "Door price not stated",
+    "availability": "Presales sold out; limited door sales as capacity allows",
+    "url": "https://tickets.oztix.com.au/outlet/event/e0c2da31-c5e6-4c06-90c8-7028dfbbcbe0",
+    "fit": "Live alternative and emo bands at am//pm Halloween; bands downstairs early, with DJs across other floors.",
+    "style": "Alternative / Emo",
+    "id": "g32-1",
+    "rank": 3,
+    "groupId": "group-32",
+    "dates": [
+      "2026-10-31"
+    ],
+    "source": "Official Oztix bill checked 30 Oct 2026. Live bands and DJs are separate.",
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "nightdive",
+        "url": "https://open.spotify.com/artist/4fj1S90XaV5d5V1RZNlzKL",
+        "trackUrl": "https://open.spotify.com/track/0srXVRA9eR7Md4iIbWQkrB",
+        "status": "Identity verified against artist-controlled links and current playlist"
+      },
+      {
+        "name": "Kevin Silvester",
+        "url": "https://open.spotify.com/artist/58QPOGLju9A11tUOg24fhq",
+        "trackUrl": "https://open.spotify.com/track/2XQOB7pbFcFZSLkmjnQ4Lf",
+        "status": "Identity verified against artist-controlled links and current playlist"
+      },
+      {
+        "name": "Facelift",
+        "url": "https://open.spotify.com/artist/5MTbMQ5wxmfJWIRkYN2Kqb",
+        "trackUrl": "https://open.spotify.com/track/1cQjnu8BABXXKHfsVQuukL",
+        "status": "Identity verified against artist-controlled links and current playlist"
+      }
+    ]
+  },
+  {
+    "lineup": [
       "Vaegon",
       "Nekrosurgeon",
       "Stockade"
@@ -104,12 +148,12 @@ window.GIGS = [
     "venue": "Crowbar",
     "suburb": "Leichhardt",
     "price": "24.90 AUD",
-    "availability": "GA listed",
+    "availability": "Event date has passed.",
     "url": "https://tickets.oztix.com.au/outlet/event/8c042268-4fec-455f-a66d-686e1f26f92e",
     "fit": "Technical and extreme metal for a heavier discovery.",
     "source": "Official Oztix",
     "id": "g03-1",
-    "rank": 3,
+    "rank": 4,
     "groupId": "group-03",
     "dates": [
       "2026-10-28"
@@ -162,7 +206,7 @@ window.GIGS = [
     "fit": "Raw, classic hardcore rather than melodic metalcore; an intense small-venue show.",
     "source": "Official venue and Oztix; 18+; live Browser confirms unavailable",
     "id": "g04-1",
-    "rank": 4,
+    "rank": 5,
     "groupId": "group-04",
     "dates": [
       "2026-10-31"
@@ -269,7 +313,7 @@ window.GIGS = [
     "fit": "A hardcore-punk cornerstone alongside the local heavy scene. All ages.",
     "source": "Official Moshtix and Vinnies promoter",
     "id": "g04-2",
-    "rank": 4,
+    "rank": 6,
     "groupId": "group-04",
     "dates": [
       "2026-11-01"
@@ -331,13 +375,13 @@ window.GIGS = [
     "time": "17:00 doors; performance times unconfirmed",
     "venue": "Dead Set",
     "suburb": "Darlinghurst",
-    "price": "official price not stated; secondary guides say free",
-    "availability": "announced; capacity unverified",
+    "price": "AUD 0, free entry",
+    "availability": "Free walk-in; capacity unverified",
     "url": "https://deadsetdarlo.com.au/whats-on/halloween-by-crimewave-mgmt.html",
     "fit": "Local metal with a deathcore edge; heavier than the reference bands.",
-    "source": "Official venue homepage and detail HTML fetched directly. Ignore stale duplicate bill featuring Destruction of the Healer.",
+    "source": "Official event and venue sources checked 30 Oct 2026; official venue poster confirms free entry.",
     "id": "g05-1",
-    "rank": 5,
+    "rank": 7,
     "groupId": "group-05",
     "dates": [
       "2026-10-31"
@@ -387,7 +431,7 @@ window.GIGS = [
     "fit": "Blackened melodic death metal, death-doom and hardcore crossover; substantially heavier than the reference bands.",
     "source": "Official Humanitix event and /tickets",
     "id": "g06-1",
-    "rank": 6,
+    "rank": 8,
     "groupId": "group-06",
     "dates": [
       "2026-10-31"
@@ -432,7 +476,7 @@ window.GIGS = [
     "fit": "A local hardcore matinee. All ages.",
     "source": "Official venue confirms date/full lineup and links ticket; ticket fetch failed; live Browser Oztix verified25Oct",
     "id": "g07-1",
-    "rank": 7,
+    "rank": 9,
     "groupId": "group-07",
     "dates": [
       "2026-11-01"
@@ -488,7 +532,7 @@ window.GIGS = [
     "fit": "Heavy doom and sludge riffs rather than metalcore; a strong heavier pub alternative.",
     "source": "Official venue October gig guide verifies set times; venue-authored City of Sydney listing https://whatson.cityofsydney.nsw.gov.au/events/halloween-havoc verifies free.",
     "id": "g08-1",
-    "rank": 8,
+    "rank": 10,
     "groupId": "group-08",
     "dates": [
       "2026-10-31"
@@ -527,7 +571,6 @@ window.GIGS = [
       "Durry",
       "Bible Baker",
       "Antipope 666",
-      "Fiend",
       "Ghoulstepper24"
     ],
     "date": "2026-10-30",
@@ -535,12 +578,12 @@ window.GIGS = [
     "venue": "Elton Chong",
     "suburb": "Penrith",
     "price": "15 AUD inclfees",
-    "availability": "GA selector",
+    "availability": "GA selectable; support conflict: venue still lists Fiend, current ticket bill does not.",
     "url": "https://www.moshtix.com.au/v2/event/all-hallows-eve-at-elton-chong-w-durry-bible-baker-antipope-666-fiend-gh/198384",
     "fit": "Hardcore, death/black metal and crust with breakcore; a raw, heavy club night.",
-    "source": "Official venue and Moshtix; Durry local identity not US indie duo",
+    "source": "Official event and venue sources checked 30 Oct 2026; live Moshtix heading; URL retains obsolete Fiend text, no explicit cancellation claim.",
     "id": "g09-1",
-    "rank": 9,
+    "rank": 11,
     "groupId": "group-09",
     "dates": [
       "2026-10-30"
@@ -566,12 +609,6 @@ window.GIGS = [
         "status": "Artist page verified against the exact track in the current playlist"
       },
       {
-        "name": "Fiend",
-        "url": null,
-        "trackUrl": null,
-        "status": "Artist page not conclusively verified"
-      },
-      {
         "name": "Ghoulstepper24",
         "url": null,
         "trackUrl": null,
@@ -589,13 +626,13 @@ window.GIGS = [
     "time": "21:00",
     "venue": "The Duke of Enmore",
     "suburb": "Enmore",
-    "price": "official price not stated; secondary guide free",
+    "price": "AUD 0, free entry",
     "availability": "announced; capacity unverified",
     "url": "https://www.instagram.com/p/Def0ALAjQ7p/",
     "fit": "Feminist punk and alternative with raw guitar energy; a strong small-band choice.",
-    "source": "Public official @thedukeofenmore post14Oct metadata verifies bill/date; venue October guide time. JADEDTV guest vocals/guitar, not separate billed set.",
+    "source": "Official event and venue sources checked 30 Oct 2026; official venue poster confirms free entry.",
     "id": "g10-1",
-    "rank": 10,
+    "rank": 12,
     "groupId": "group-10",
     "dates": [
       "2026-10-30"
@@ -633,13 +670,13 @@ window.GIGS = [
     "time": "20:00",
     "venue": "Botany View Hotel",
     "suburb": "Newtown",
-    "price": "AUD 15 + booking fee unspecified",
-    "availability": "GA ticket option displayed; exact stock not checked",
+    "price": "AUD 15 displayed; ticket label says + booking fee, total fee unclear",
+    "availability": "AUD 15 GA selectable; AUD 10 flash-sale allocation unavailable",
     "url": "https://tickets.oztix.com.au/outlet/event/a54c8915-8d8c-4bbc-860e-20a805479af9",
     "fit": "Stoner punk and heavy grunge riffs with punk supports.",
-    "source": "Official Oztix HTML fetched via urllib; exact GA label $15+BF.",
+    "source": "Official event and venue sources checked 30 Oct 2026; live Oztix contradictory fee label and generic footer retained uncertainty.",
     "id": "g11-1",
-    "rank": 11,
+    "rank": 13,
     "groupId": "group-11",
     "dates": [
       "2026-10-30"
@@ -690,7 +727,7 @@ window.GIGS = [
     "fit": "Abrasive yet melodic post-punk and alternative rock.",
     "source": "Official Moshtix headliner/date; support via artist-posted Gigtea; Kitty promoterLinktree links launch but no explicit fullbill",
     "id": "g12-1",
-    "rank": 12,
+    "rank": 14,
     "groupId": "group-12",
     "dates": [
       "2026-10-30"
@@ -721,7 +758,7 @@ window.GIGS = [
     "fit": "Dark post-punk between guitar noise and shoegaze; an atmospheric alternative.",
     "source": "Official Oztix HTML. Sydney five-piece; Fontaines DC/Shame/Smiths influences, not other Hauler artists.",
     "id": "g13-1",
-    "rank": 13,
+    "rank": 15,
     "groupId": "group-13",
     "dates": [
       "2026-10-30"
@@ -765,7 +802,7 @@ window.GIGS = [
     "fit": "Local alternative and emo guitar discoveries rather than big names.",
     "source": "Official Oztix Local Noise; artist posted Gigtea identifies indiepunk/emo",
     "id": "g14-1",
-    "rank": 14,
+    "rank": 16,
     "groupId": "group-14",
     "dates": [
       "2026-11-01"
@@ -814,7 +851,7 @@ window.GIGS = [
     "fit": "Hook-filled, rough-edged surf punk; an accessible local punk addition.",
     "source": "Official venue and StickyTickets",
     "id": "g15-1",
-    "rank": 15,
+    "rank": 17,
     "groupId": "group-15",
     "dates": [
       "2026-10-30"
@@ -857,7 +894,7 @@ window.GIGS = [
     "fit": "Melodic Japanese punk and pop-rock; a lighter, energetic addition.",
     "source": "Official artist live schedule and Oztix",
     "id": "g16-1",
-    "rank": 16,
+    "rank": 18,
     "groupId": "group-16",
     "dates": [
       "2026-10-29"
@@ -900,7 +937,7 @@ window.GIGS = [
     "fit": "Melodic Japanese punk and pop-rock; a lighter, energetic addition.",
     "source": "Official artist live schedule and Moshtix; same supports verified",
     "id": "g16-2",
-    "rank": 16,
+    "rank": 19,
     "groupId": "group-16",
     "dates": [
       "2026-10-31"
@@ -943,7 +980,7 @@ window.GIGS = [
     "fit": "A small rock, punk and grunge night on the Northern Beaches.",
     "source": "Official venue Humanitix",
     "id": "g17-1",
-    "rank": 17,
+    "rank": 20,
     "groupId": "group-17",
     "dates": [
       "2026-10-31"
@@ -986,7 +1023,7 @@ window.GIGS = [
     "fit": "Melodic punk, angular post-punk and skate punk.",
     "source": "Official venue and Moshtix",
     "id": "g18-1",
-    "rank": 18,
+    "rank": 21,
     "groupId": "group-18",
     "dates": [
       "2026-10-31"
@@ -1025,7 +1062,7 @@ window.GIGS = [
     "suburb": "Marrickville",
     "url": "https://www.instagram.com/p/Dd5YXW3JElH/",
     "id": "g19-1",
-    "rank": 19,
+    "rank": 22,
     "groupId": "group-19",
     "dates": [
       "2026-10-29"
@@ -1072,7 +1109,7 @@ window.GIGS = [
     "fit": "Alternative crossover; somewhat lighter than the metalcore reference bands.",
     "source": "Official promoter https://www.davidroywilliams.com/tours/tsimnomistakes",
     "id": "g20-1",
-    "rank": 20,
+    "rank": 23,
     "groupId": "group-20",
     "dates": [
       "2026-10-30"
@@ -1115,7 +1152,7 @@ window.GIGS = [
     "fit": "Alternative crossover; somewhat lighter than the metalcore reference bands.",
     "source": "Official promoter https://www.davidroywilliams.com/tours/tsimnomistakes",
     "id": "g20-2",
-    "rank": 20,
+    "rank": 24,
     "groupId": "group-20",
     "dates": [
       "2026-10-31"
@@ -1157,7 +1194,7 @@ window.GIGS = [
     "fit": "Offbeat grunge and art-rock with dreamy vocals; a melodic, experimental addition.",
     "source": "Artist website bonniesongs.com links this official ticket. Ticket explicitly full band live set, Scream grungy/rocky. Parent verified live browser updated support and prices21:41UTC; earlier webcache stale.",
     "id": "g21-1",
-    "rank": 21,
+    "rank": 25,
     "groupId": "group-21",
     "dates": [
       "2026-10-30"
@@ -1192,7 +1229,7 @@ window.GIGS = [
     "fit": "Alternative and garage rock in a small in-store format, not a full club concert.",
     "source": "Official artist @the_buoys Oct13 post public meta confirms date,time,address271KingSt,live performance.",
     "id": "g22-1",
-    "rank": 22,
+    "rank": 26,
     "groupId": "group-22",
     "dates": [
       "2026-10-28"
@@ -1222,7 +1259,7 @@ window.GIGS = [
     "fit": "Melodic indie and classic rock, considerably lighter than metalcore; an intimate Halloween show.",
     "source": "Official Moshtix full bill; original songs plus Halloween covers.",
     "id": "g23-1",
-    "rank": 23,
+    "rank": 27,
     "groupId": "group-23",
     "dates": [
       "2026-10-31"
@@ -1253,7 +1290,7 @@ window.GIGS = [
     "fit": "A small indie and alternative band night; bonnie’s recording identity needs separate verification before playlist selection.",
     "source": "Official Moshtix verifies exact bill,date,time,free; avoid Bonniesongs confusion.",
     "id": "g24-1",
-    "rank": 24,
+    "rank": 28,
     "groupId": "group-24",
     "dates": [
       "2026-10-30"
@@ -1296,7 +1333,7 @@ window.GIGS = [
     "fit": "Free local guitar-band discoveries; the precise genre fit is less firmly established.",
     "source": "Official Moshtix; AFTER DARK is event name NOT band",
     "id": "g25-1",
-    "rank": 25,
+    "rank": 29,
     "groupId": "group-25",
     "dates": [
       "2026-10-30"
@@ -1338,7 +1375,7 @@ window.GIGS = [
     "fit": "Lighter alternative and indie guitars; a free live-band addition.",
     "source": "Official venue times. San Cisco 21h and Friends of Friends DJ sets ONLY; not live bands, do not add their songs for this bill.",
     "id": "g26-1",
-    "rank": 26,
+    "rank": 30,
     "groupId": "group-26",
     "dates": [
       "2026-10-28"
@@ -1377,7 +1414,7 @@ window.GIGS = [
     "fit": "Loud guitars and dark folk-rock; a free local daytime event.",
     "source": "Official page lists four names but says three bands; bill wording ambiguous. Suburban Skulk and The Magician are separately established Sydney acts, do not merge into fictional artist. Verify Spotify identities separately/mark ambiguity.",
     "id": "g27-1",
-    "rank": 27,
+    "rank": 31,
     "groupId": "group-27",
     "dates": [
       "2026-11-01"
@@ -1426,7 +1463,7 @@ window.GIGS = [
     "fit": "Folk and blues-rock with Wolf Alice and Mazzy Star influences; a deliberately quieter pub outing.",
     "source": "Official Oztix HTML; mandatory Vic source checked. Oct31 Super Tight Hoodie Pull + Mina excluded: official HipHop collaborative project, not good stylistic fit.",
     "id": "g28-1",
-    "rank": 28,
+    "rank": 32,
     "groupId": "group-28",
     "dates": [
       "2026-10-30"
@@ -1464,7 +1501,7 @@ window.GIGS = [
     "fit": "Nu-metal and alternative-metal nostalgia: explicitly a tribute show, with original Nintendo-core and pop-punk supports.",
     "source": "Official Oztix",
     "id": "g29-1",
-    "rank": 29,
+    "rank": 33,
     "groupId": "group-29",
     "dates": [
       "2026-10-31"
@@ -1515,7 +1552,7 @@ window.GIGS = [
     "fit": "A Black Sabbath tribute plus local hard-rock bands; classic riffs, not an original Black Sabbath concert.",
     "source": "Official venue detailed page and homepage. Headliner explicitly tribute; do not substitute Black Sabbath tracks without disclosure.",
     "id": "g30-1",
-    "rank": 30,
+    "rank": 34,
     "groupId": "group-30",
     "dates": [
       "2026-10-30"
@@ -1576,7 +1613,7 @@ window.GIGS = [
     "fit": "Industrial and gothic live music alongside adult performance art featuring nudity and bondage; not a conventional band night.",
     "source": "Official promoter newedenprojects.com links ticket; musicians separated from performance artists, do not seek Spotify tracks for nonmusical performers.",
     "id": "g31-1",
-    "rank": 31,
+    "rank": 35,
     "groupId": "group-31",
     "dates": [
       "2026-10-30"

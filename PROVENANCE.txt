@@ -1,13 +1,14 @@
 SYDNEY GIGS — SOURCES AND ATTRIBUTION
-Week: 26 October–1 November 2026. Event snapshot: 25 October, Sydney time.
+Week: 26 October–1 November 2026. Featured-show review: 30 October 2026, Sydney time. Earlier unfeatured source rows retain their original research snapshot.
 
 EVENTS AND ARTISTS
-The source research contains 34 individual shows from 31 taste-ranked groups. This website presents only the first 15 individual shows in that existing fit order. The calendar and playlist are not capped by this website setting. Every expanded card includes its verified official event/ticket link and source note. Different dates and support bills remain separate. Availability is a snapshot, not a guarantee or reservation; prices marked unconfirmed are not invented. Compact prices in closed rows are summaries; full tier/fee details remain in the expanded card. Optional calendar files preserve known source times, which may be doors; unknown end times are not invented.
+The source research contains 35 individual shows from 32 taste-ranked groups. This website presents only the first 15 individual shows in that existing fit order. The existing Spotify companion playlist is not capped by this website setting. No calendar-service synchronization is performed. Every expanded card includes its verified official event/ticket link and source note. Different dates and support bills remain separate. Availability is a snapshot, not a guarantee or reservation; prices marked unconfirmed are not invented. Compact prices in closed rows are summaries; full tier/fee details remain in the expanded card. Existing optional calendar-download files are retained; no new calendar files or calendar-service entries are created by this refresh.
 
 Spotify artist links were matched to the exact previously verified playlist tracks, not guessed from names. Ambiguous artists remain unlinked. Tribute shows do not link to the original artist as a substitute. The playlist is the user's existing public playlist. Spotify is a trusted, explicitly permitted external exception: an artist player loads automatically when its gig is expanded, as explicitly requested, with no automatic playback. Spotify-hosted content and trademarks are not relicensed by this project. See PRIVACY.txt and the Spotify widget terms.
 
 GEOGRAPHY
 The map uses actual NSW Spatial Services water/coast and road geometry, cropped and simplified for this guide. © State of NSW (Spatial Services, Department of Customer Service NSW), CC BY 4.0. See MAP-LICENSE.txt for exact sources, licence links and modifications.
+Burdekin Hotel is a separately verified official venue-linked address point (https://burdekin.com.au/hit-us-up/), not OSM-derived. No Google map imagery or tiles are copied. Other venue points retain their original OSM source records.
 Venue coordinates are approximate venue/address points, not entrance/navigation guarantees. Their separate provenance and attribution are included with geography.js and any accompanying venue-data licence. No unverified venue is substituted with a suburb centroid. Each band-and-date bubble is an individual show. Genre colours match the shared legend in both views. Readable label slots keep bubbles separate; leader lines and anchor dots identify the actual approximate venue positions. The smaller viewport can be panned horizontally. Inner Sydney and All Sydney views use distinct real geographic bounds.
 
 GENRES
@@ -20,3 +21,4 @@ The MIT licence applies only to original application code and layout. Geographic
 
 PLAYLIST ART
 The cream/red 300px WebP is the exact existing user-generated Sydney Heavy Gigs cover, recovered from the public playlist header with the user's express reuse authorization. It is bundled locally, not requested from a third-party CDN at runtime. Source image: https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c051063e0632af0fe0aa41905 . Its printed IN ROTATION band names are part of the pre-existing branding, not the current week's line-up. This artwork is not represented as third-party Spotify artist artwork or relicensed under the application's MIT terms.
+

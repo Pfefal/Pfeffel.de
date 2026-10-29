@@ -1,6 +1,6 @@
 'use strict';
 const researchGigs = Array.isArray(window.GIGS) ? window.GIGS.filter(window.GIG_SECURITY.validGig) : [];
-// Website-only editorial cap; calendar and playlist data are not modified.
+// Website-only editorial cap; the companion playlist may cover more researched shows.
 const allGigs = researchGigs.slice(0,15);
 let gigs=allGigs; let quickFilter=null;
 const $=s=>document.querySelector(s);
@@ -10,7 +10,7 @@ const dateLabel=d=>new Date(d+'T12:00:00Z').toLocaleDateString('en-AU',{weekday:
 const groups=['Metalcore','Heavy metal','Hardcore','Punk','Alternative','Industrial','Tributes'];
 const genreKey=g=>group(g).toLowerCase().replace(/ /g,'-');
 const group=g=>{/**** Editorial dominant sound; no numeric genre axes. ****/if(/tribute/i.test(g.style))return 'Tributes';if(/Metalcore|Deathcore/i.test(g.style))return 'Metalcore';if(/Doom|Sludge|Extreme|Death/i.test(g.style))return 'Heavy metal';if(/Hardcore|Crust/i.test(g.style))return 'Hardcore';if(/Industrial|Gothic/i.test(g.style))return 'Industrial';if(/Punk/i.test(g.style))return 'Punk';return 'Alternative';};
-const summaryPrices={"g01-1": "A$49.90", "g02-1": "A$34.20", "g03-1": "A$24.90", "g04-1": "Waitlist \u00b7 price unconfirmed", "g04-2": "A$50.87 adult", "g05-1": "Price unconfirmed", "g06-1": "A$19.88 incl. fee", "g07-1": "A$25 incl. fees", "g08-1": "Free", "g09-1": "A$15 incl. fees", "g10-1": "Price unconfirmed", "g11-1": "A$15 + booking fee", "g12-1": "A$19.90", "g13-1": "A$20.95", "g14-1": "A$12.50", "g15-1": "A$20 + fees", "g16-1": "A$58", "g16-2": "A$55.05 + A$2.95/order", "g17-1": "A$16.75", "g18-1": "A$15", "g19-1": "Price unconfirmed", "g20-1": "Price unconfirmed", "g20-2": "Price unconfirmed", "g21-1": "A$32.41 standard", "g22-1": "Price unconfirmed", "g23-1": "A$40.27\u201360.66 + fees \u00b7 tier unconfirmed", "g24-1": "Free \u00b7 18+", "g25-1": "Free", "g26-1": "Free", "g27-1": "Free \u00b7 RSVP", "g28-1": "Free \u00b7 RSVP", "g29-1": "A$30", "g30-1": "Price unconfirmed", "g31-1": "A$37.63 standard"};
+const summaryPrices={"g01-1": "A$49.90 + A$1.95/order", "g02-1": "A$34.20", "g03-1": "A$24.90", "g04-1": "Waitlist \u00b7 price unconfirmed", "g04-2": "A$50.87 adult", "g05-1": "Free", "g06-1": "A$19.88 incl. fee", "g07-1": "A$25 incl. fees", "g08-1": "Free", "g09-1": "A$15 incl. fees", "g10-1": "Free", "g11-1": "A$15 + booking fee", "g12-1": "A$19.90", "g13-1": "A$20.95", "g14-1": "A$12.50", "g15-1": "A$20 + fees", "g16-1": "A$58", "g16-2": "A$55.05 + A$2.95/order", "g17-1": "A$16.75", "g18-1": "A$15", "g19-1": "Price unconfirmed", "g20-1": "Price unconfirmed", "g20-2": "Price unconfirmed", "g21-1": "A$32.41 standard", "g22-1": "Price unconfirmed", "g23-1": "A$40.27\u201360.66 + fees \u00b7 tier unconfirmed", "g24-1": "Free \u00b7 18+", "g25-1": "Free", "g26-1": "Free", "g27-1": "Free \u00b7 RSVP", "g28-1": "Free \u00b7 RSVP", "g29-1": "A$30", "g30-1": "Price unconfirmed", "g31-1": "A$37.63 standard"};
 let selectedId=gigs[0]?.id;let mapWide=false;let openId=null;
 function outbound(url,text,cls=''){const safe=window.GIG_SECURITY.safeExternalURL(url);if(!safe)return el('span',cls,text+' (unavailable)');const a=el('a',cls,text);a.href=safe;a.target='_blank';a.rel='noopener noreferrer';a.append(icon());return a;}
 function selectGig(id,open=false){const g=gigs.find(v=>v.id===id);if(!g)return;selectedId=id;document.querySelectorAll('[data-gig-id]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.gigId===id)));if(open)openGig(id,false,true);}
@@ -59,10 +59,12 @@ function openGig(id,toggle=true,scroll=false){
  const mapsURL='https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(g.venue+', '+g.suburb+', NSW, Australia');
  info.append(outbound(mapsURL,g.venue+' · '+g.suburb+'','venue-location'));
  if(g.lineup.length>4){const full=el('details','full-lineup');const label=el('summary','','Full line-up');label.append(icon('chevron'));full.append(label,el('p','',g.lineup.join(' · ')));info.append(full);}
+ info.append(el('p','dialog-fit',g.fit),el('p','price-line',g.price+' · '+g.availability));
  const actions=el('div','detail-actions');actions.append(outbound(g.url,'Tickets / official'));
- const calendar=el('a','','Add to calendar');calendar.href=`calendar/${g.id}.ics`;calendar.download=`${g.id}.ics`;actions.append(calendar);
+ if(g.calendarAvailable!==false){const calendar=el('a','','Add to calendar');calendar.href=`calendar/${g.id}.ics`;calendar.download=`${g.id}.ics`;actions.append(calendar);}
  const head=(g.artists||[])[0];const lead=head&&head.url&&window.GIG_SECURITY.safeSpotifyURL(head.url,'artist')?head:null;
  if(lead)actions.append(outbound(lead.url,'Open Spotify'));
+ const missingArtists=(g.artists||[]).filter(a=>!a.url).map(a=>a.name);if(missingArtists.length)info.append(el('p','source-note','Spotify identity not verified: '+missingArtists.join(', ')+'.'));
  info.append(actions);layout.append(info);
  if(lead){const slot=el('div','spotify-slot');layout.append(slot);loadSpotify(lead.url,slot);}
  out.append(layout);
@@ -92,3 +94,4 @@ function applyQuickFilter(kind){
  $('.explorer').hidden=gigs.length===0;
 }
 document.querySelectorAll('[data-quick-filter]').forEach(b=>b.onclick=()=>applyQuickFilter(b.dataset.quickFilter));
+
