@@ -1,5 +1,5 @@
 SYDNEY GIGS — SOURCES AND ATTRIBUTION
-Week: 26 October–1 November 2026. Featured-show review: 30 October 2026, Sydney time. Earlier unfeatured source rows retain their original research snapshot.
+Week: 26 October–1 November 2026. Featured-show review: 31 October 2026, Sydney time. Earlier unfeatured source rows retain their original research snapshot unless specifically updated. Past event dates are marked as passed; TISM venue set times were checked against https://www.enmoretheatre.com.au/event/tism/.
 
 EVENTS AND ARTISTS
 The source research contains 35 individual shows from 32 taste-ranked groups. This website presents only the first 15 individual shows in that existing fit order. The existing Spotify companion playlist is not capped by this website setting. No calendar-service synchronization is performed. Every expanded card includes its verified official event/ticket link and source note. Different dates and support bills remain separate. Availability is a snapshot, not a guarantee or reservation; prices marked unconfirmed are not invented. Compact prices in closed rows are summaries; full tier/fee details remain in the expanded card. Existing optional calendar-download files are retained; no new calendar files or calendar-service entries are created by this refresh.
@@ -21,4 +21,5 @@ The MIT licence applies only to original application code and layout. Geographic
 
 PLAYLIST ART
 The cream/red 300px WebP is the exact existing user-generated Sydney Heavy Gigs cover, recovered from the public playlist header with the user's express reuse authorization. It is bundled locally, not requested from a third-party CDN at runtime. Source image: https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c051063e0632af0fe0aa41905 . Its printed IN ROTATION band names are part of the pre-existing branding, not the current week's line-up. This artwork is not represented as third-party Spotify artist artwork or relicensed under the application's MIT terms.
+
 
