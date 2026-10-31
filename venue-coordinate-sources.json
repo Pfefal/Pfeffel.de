@@ -254,5 +254,83 @@
     "verification": "Official venue contact page links the address Google map; exact address point verified 30 October 2026. No map imagery or tiles copied.",
     "source": "https://burdekin.com.au/hit-us-up/",
     "attribution": "Venue address map via Google Maps; this point is not asserted to be OSM-derived."
+  },
+  "Metro Theatre": {
+    "point": {
+      "lat": -33.8757544,
+      "lon": 151.206749,
+      "source": "https://www.openstreetmap.org/node/1912642784",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Metro Theatre, 624, George Street, Koreatown, Sydney, New South Wales, 2000, Australia",
+    "query": "Metro Theatre Sydney",
+    "license": "ODbL 1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "aliasNote": "Same verified venue building/precinct; official event uses Metro Theatre"
+  },
+  "Factory Theatre": {
+    "point": {
+      "lat": -33.9057026,
+      "lon": 151.1652639,
+      "source": "https://www.openstreetmap.org/way/702196095",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "The Factory Theatre, 105, Victoria Road, Marrickville, Inner West, Sydney, New South Wales, 2204, Australia",
+    "query": "Factory Theatre Marrickville NSW",
+    "license": "ODbL 1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "aliasNote": "Same verified venue building/precinct; official event uses Factory Theatre"
+  },
+  "Bootleggers": {
+    "point": {
+      "lat": -33.8963574,
+      "lon": 151.17982,
+      "source": "https://www.kellysnewtown.com.au/",
+      "accuracy": "Approximate venue/address point; official linked map feature, not viewport centre or entrance survey"
+    },
+    "matchedName": "Bootleggers, 285 King Street, Newtown NSW 2042",
+    "verified": "2026-11-01",
+    "coordinateBasis": "Place feature coordinates from the official venue linked map; not viewport centre",
+    "license": "Official venue-linked factual address point; not OSM-derived",
+    "attribution": "Official venue location source; no map imagery or tiles copied"
+  },
+  "Manning Bar": {
+    "point": {
+      "lat": -33.886892,
+      "lon": 151.1877853,
+      "source": "https://www.manningbar.com/contact-us/",
+      "accuracy": "Approximate venue/address point; official linked map feature, not viewport centre or entrance survey"
+    },
+    "matchedName": "Manning Bar, Manning House, Manning Road, University of Sydney, Camperdown",
+    "verified": "2026-11-01",
+    "coordinateBasis": "Place feature coordinates from the official venue linked map; not viewport centre",
+    "license": "Official venue-linked factual address point; not OSM-derived",
+    "attribution": "Official venue location source; no map imagery or tiles copied"
+  },
+  "Hordern Pavilion": {
+    "point": {
+      "lat": -33.894099,
+      "lon": 151.2242223,
+      "source": "https://thehordern.com.au/event/the-iron-gate-tattoo-convention/",
+      "accuracy": "Approximate venue/address point; official linked map feature, not viewport centre or entrance survey"
+    },
+    "matchedName": "Hordern Pavilion, 1 Driver Avenue, Moore Park NSW 2021",
+    "verified": "2026-11-01",
+    "coordinateBasis": "Place feature coordinates from the official venue linked map; not viewport centre",
+    "license": "Official venue-linked factual address point; not OSM-derived",
+    "attribution": "Official venue location source; no map imagery or tiles copied"
+  },
+  "Liberty Hall": {
+    "point": {
+      "lat": -33.8937908,
+      "lon": 151.2255878,
+      "source": "https://www.libertyhall.live/location/",
+      "accuracy": "Approximate venue/address point; official linked map feature, not viewport centre or entrance survey"
+    },
+    "matchedName": "Liberty Hall, 220 Errol Flynn Boulevard, Moore Park NSW 2021",
+    "verified": "2026-11-01",
+    "coordinateBasis": "Place feature coordinates from the official venue linked map; not viewport centre",
+    "license": "Official venue-linked factual address point; not OSM-derived",
+    "attribution": "Official venue location source; no map imagery or tiles copied"
   }
 }

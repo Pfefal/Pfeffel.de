@@ -1,4 +1,4 @@
-/* Venue-coordinate snapshot. Existing OSM-derived points © OpenStreetMap contributors, ODbL 1.0; Burdekin is the official venue-linked address point. See venue-coordinate-sources.json. */
+/* Venue-coordinate snapshot. Existing OSM-derived points retain ODbL attribution; additional official venue-linked address points are separately sourced. See venue-coordinate-sources.json. */
 window.GIG_GEO = {
   "bounds": {
     "city": {
@@ -146,6 +146,42 @@ window.GIG_GEO = {
       "lon": 151.2129535,
       "source": "https://burdekin.com.au/hit-us-up/",
       "accuracy": "Approximate address point from venue-linked Google map, 2–4 Oxford Street; not an entrance/navigation survey"
+    },
+    "Metro Theatre": {
+      "lat": -33.8757544,
+      "lon": 151.206749,
+      "source": "https://www.openstreetmap.org/node/1912642784",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "Factory Theatre": {
+      "lat": -33.9057026,
+      "lon": 151.1652639,
+      "source": "https://www.openstreetmap.org/way/702196095",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "Bootleggers": {
+      "lat": -33.8963574,
+      "lon": 151.17982,
+      "source": "https://www.kellysnewtown.com.au/",
+      "accuracy": "Approximate venue/address point; official linked map feature, not viewport centre or entrance survey"
+    },
+    "Manning Bar": {
+      "lat": -33.886892,
+      "lon": 151.1877853,
+      "source": "https://www.manningbar.com/contact-us/",
+      "accuracy": "Approximate venue/address point; official linked map feature, not viewport centre or entrance survey"
+    },
+    "Hordern Pavilion": {
+      "lat": -33.894099,
+      "lon": 151.2242223,
+      "source": "https://thehordern.com.au/event/the-iron-gate-tattoo-convention/",
+      "accuracy": "Approximate venue/address point; official linked map feature, not viewport centre or entrance survey"
+    },
+    "Liberty Hall": {
+      "lat": -33.8937908,
+      "lon": 151.2255878,
+      "source": "https://www.libertyhall.live/location/",
+      "accuracy": "Approximate venue/address point; official linked map feature, not viewport centre or entrance survey"
     }
   }
 };

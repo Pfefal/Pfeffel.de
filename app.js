@@ -9,8 +9,8 @@ function icon(kind='external'){const svg=document.createElementNS('http://www.w3
 const dateLabel=d=>new Date(d+'T12:00:00Z').toLocaleDateString('en-AU',{weekday:'short',day:'numeric',month:'short',timeZone:'UTC'});
 const groups=['Metalcore','Heavy metal','Hardcore','Punk','Alternative','Industrial','Tributes'];
 const genreKey=g=>group(g).toLowerCase().replace(/ /g,'-');
-const group=g=>{/**** Editorial dominant sound; no numeric genre axes. ****/if(/tribute/i.test(g.style))return 'Tributes';if(/Metalcore|Deathcore/i.test(g.style))return 'Metalcore';if(/Doom|Sludge|Extreme|Death/i.test(g.style))return 'Heavy metal';if(/Hardcore|Crust/i.test(g.style))return 'Hardcore';if(/Industrial|Gothic/i.test(g.style))return 'Industrial';if(/Punk/i.test(g.style))return 'Punk';return 'Alternative';};
-const summaryPrices={"g01-1": "A$49.90 + A$1.95/order", "g02-1": "A$34.20", "g03-1": "A$24.90", "g04-1": "Waitlist \u00b7 price unconfirmed", "g04-2": "A$50.87 adult", "g05-1": "Free", "g06-1": "A$19.88 incl. fee", "g07-1": "A$25 incl. fees", "g08-1": "Free", "g09-1": "A$15 incl. fees", "g10-1": "Free", "g11-1": "A$15 + booking fee", "g12-1": "A$19.90", "g13-1": "A$20.95", "g14-1": "A$12.50", "g15-1": "A$20 + fees", "g16-1": "A$58", "g16-2": "A$55.05 + A$2.95/order", "g17-1": "A$16.75", "g18-1": "A$15", "g19-1": "Price unconfirmed", "g20-1": "Price unconfirmed", "g20-2": "Price unconfirmed", "g21-1": "A$32.41 standard", "g22-1": "Price unconfirmed", "g23-1": "A$40.27\u201360.66 + fees \u00b7 tier unconfirmed", "g24-1": "Free \u00b7 18+", "g25-1": "Free", "g26-1": "Free", "g27-1": "Free \u00b7 RSVP", "g28-1": "Free \u00b7 RSVP", "g29-1": "A$30", "g30-1": "Price unconfirmed", "g31-1": "A$37.63 standard"};
+const group=g=>{/**** Editorial dominant sound; no numeric genre axes. ****/if(/tribute/i.test(g.style))return 'Tributes';if(/Metalcore|Deathcore/i.test(g.style))return 'Metalcore';if(/Doom|Sludge|Extreme|Death|Progressive metal|Alternative metal/i.test(g.style))return 'Heavy metal';if(/Hardcore|Crust/i.test(g.style))return 'Hardcore';if(/Industrial|Gothic/i.test(g.style))return 'Industrial';if(/Punk/i.test(g.style))return 'Punk';return 'Alternative';};
+const summaryPrices={"g01-1": "A$79.90 + A$3.95/order", "g02-1": "Price unconfirmed", "g03-1": "Price unconfirmed", "g04-1": "Price unconfirmed", "g05-1": "A$29.95 + A$2.10/order", "g06-1": "A$15–20 · tier unconfirmed", "g07-1": "A$61.22", "g08-1": "A$44.00", "g09-1": "A$50.87 final release", "g10-1": "A$34.95", "g11-1": "A$24.47 + A$2.10/order", "g12-1": "Free · RSVP", "g13-1": "A$15.00", "g14-1": "Free · RSVP", "g15-1": "A$23.75", "g16-1": "Price unconfirmed", "g17-1": "Price unconfirmed", "g18-1": "A$35 · fees unconfirmed", "g19-1": "A$12.50 · fees unconfirmed", "g20-1": "Price unconfirmed"};
 let selectedId=gigs[0]?.id;let mapWide=false;let openId=null;
 function outbound(url,text,cls=''){const safe=window.GIG_SECURITY.safeExternalURL(url);if(!safe)return el('span',cls,text+' (unavailable)');const a=el('a',cls,text);a.href=safe;a.target='_blank';a.rel='noopener noreferrer';a.append(icon());return a;}
 function selectGig(id,open=false){const g=gigs.find(v=>v.id===id);if(!g)return;selectedId=id;document.querySelectorAll('[data-gig-id]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.gigId===id)));if(open)openGig(id,false,true);}
@@ -64,7 +64,7 @@ function openGig(id,toggle=true,scroll=false){
  if(g.calendarAvailable!==false){const calendar=el('a','','Add to calendar');calendar.href=`calendar/${g.id}.ics`;calendar.download=`${g.id}.ics`;actions.append(calendar);}
  const head=(g.artists||[])[0];const lead=head&&head.url&&window.GIG_SECURITY.safeSpotifyURL(head.url,'artist')?head:null;
  if(lead)actions.append(outbound(lead.url,'Open Spotify'));
- const missingArtists=(g.artists||[]).filter(a=>!a.url).map(a=>a.name);if(missingArtists.length)info.append(el('p','source-note','Spotify identity not verified: '+missingArtists.join(', ')+'.'));
+ const missingArtists=(g.artists||[]).filter(a=>!a.url).map(a=>a.name);if(missingArtists.length)info.append(el('p','source-note','Spotify track unavailable or identity unverified: '+missingArtists.join(', ')+'.'));
  info.append(actions);layout.append(info);
  if(lead){const slot=el('div','spotify-slot');layout.append(slot);loadSpotify(lead.url,slot);}
  out.append(layout);
@@ -86,12 +86,13 @@ function applyQuickFilter(kind){
  const range=quickFilter?quickDateRange(quickFilter):null;
  gigs=allGigs.filter(g=>!range||(g.date>=range[0]&&g.date<=range[1]));openId=null;selectedId=gigs[0]?.id;$('.explorer').hidden=gigs.length===0;
  document.querySelectorAll('[data-quick-filter]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.quickFilter===(quickFilter||'week'))));
- const label=range?`${dateLabel(range[0])}${range[1]!==range[0]?' – '+dateLabel(range[1]):''}`:'26 Oct – 1 Nov';
+ const label=range?`${dateLabel(range[0])}${range[1]!==range[0]?' – '+dateLabel(range[1]):''}`:'2 – 8 Nov';
  $('#quick-range').textContent=label+' · Sydney time';
  renderList();renderGenres();renderLegend();renderMap();if(selectedId)selectGig(selectedId);
  $('#quick-empty').hidden=gigs.length!==0;
- $('#quick-empty').textContent=gigs.length?'':`No featured gigs ${quickFilter==='today'?'today':'this weekend'} (${label}). This selection covers 26 Oct – 1 Nov. Choose Featured week to see the line-up.`;
+ $('#quick-empty').textContent=gigs.length?'':`No featured gigs ${quickFilter==='today'?'today':'this weekend'} (${label}). This selection covers 2 – 8 Nov. Choose Featured week to see the line-up.`;
  $('.explorer').hidden=gigs.length===0;
 }
 document.querySelectorAll('[data-quick-filter]').forEach(b=>b.onclick=()=>applyQuickFilter(b.dataset.quickFilter));
+
 
