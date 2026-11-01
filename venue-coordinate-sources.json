@@ -332,5 +332,18 @@
     "coordinateBasis": "Place feature coordinates from the official venue linked map; not viewport centre",
     "license": "Official venue-linked factual address point; not OSM-derived",
     "attribution": "Official venue location source; no map imagery or tiles copied"
+  },
+  "City Recital Hall": {
+    "point": {
+      "lat": -33.866931,
+      "lon": 151.208074,
+      "source": "https://www.cityrecitalhall.com/contact-us",
+      "accuracy": "Approximate venue/address point from the official venue Apple Maps link; not an entrance or navigation survey"
+    },
+    "matchedName": "City Recital Hall, 2 Angel Place, Sydney NSW 2000",
+    "verified": "2026-11-02",
+    "coordinateBasis": "Exact coordinate in official Contact Us Apple Maps link: https://maps.apple.com/place?address=2+Angel+Pl%2C+Sydney+NSW+2000%2C+Australia&coordinate=-33.866931%2C151.208074&map=explore&name=City+Recital+Hall&place-id=I535EE916E6461757",
+    "license": "Official venue-linked factual address point; not OSM-derived",
+    "attribution": "Official venue location source; no map imagery or tiles copied"
   }
 }

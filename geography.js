@@ -182,6 +182,12 @@ window.GIG_GEO = {
       "lon": 151.2255878,
       "source": "https://www.libertyhall.live/location/",
       "accuracy": "Approximate venue/address point; official linked map feature, not viewport centre or entrance survey"
+    },
+    "City Recital Hall": {
+      "lat": -33.866931,
+      "lon": 151.208074,
+      "source": "https://www.cityrecitalhall.com/contact-us",
+      "accuracy": "Approximate venue/address point from the official venue Apple Maps link; not an entrance or navigation survey"
     }
   }
 };
