@@ -1,4 +1,4 @@
-/* Official-source snapshot, reviewed 2 November 2026, Australia/Sydney. Per-show notes retain evidence limitations. */
+/* Official-source snapshot, reviewed 3 November 2026, Australia/Sydney. Per-show notes retain evidence limitations. */
 window.GIGS = [
   {
     "lineup": [
@@ -338,6 +338,50 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "Clay J Gladstone",
+      "Father Deer Hands",
+      "Dreamcult"
+    ],
+    "date": "2026-11-06",
+    "time": "Doors 19:00",
+    "venue": "Elton Chong",
+    "suburb": "Penrith",
+    "price": "A$32.52 GA incl GST/service fees + A$1.95 transaction fee per order",
+    "availability": "GA listed; early bird closed. 18+. No checkout performed.",
+    "url": "https://www.moshtix.com.au/v2/event/clay-j-gladstone-pretty-in-penrith-w-father-deer-hands-dreamcult-fri-nov-6/200893",
+    "id": "g26-1",
+    "groupId": "group-26",
+    "rank": 8,
+    "dates": [
+      "2026-11-06"
+    ],
+    "style": "Post-hardcore / emo / alternative punk",
+    "fit": "Emotional punk hooks and post-hardcore weight, with Father Deer Hands and Dreamcult adding a melodic heavy edge.",
+    "source": "Official Moshtix listing and artist ticket link checked 3 Nov 2026. https://www.moshtix.com.au/v2/event/clay-j-gladstone-pretty-in-penrith-w-father-deer-hands-dreamcult-fri-nov-6/200893 https://linktr.ee/clayjgladstone https://www.eltonchong.com.au/",
+    "artists": [
+      {
+        "name": "Clay J Gladstone",
+        "url": "https://open.spotify.com/artist/5xHqj2YUaAmSq5FBWvCe73",
+        "trackUrl": "https://open.spotify.com/track/0yJ5WoLTi6jtkPn0EtYE4A",
+        "status": "Exact artist matched to verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Father Deer Hands",
+        "url": "https://open.spotify.com/artist/7EXpuGvoWlHJKzQyP1Wci3",
+        "trackUrl": "https://open.spotify.com/track/62h2QsK2GfGz5jpusMluIF",
+        "status": "Exact artist matched to verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Dreamcult",
+        "url": "https://open.spotify.com/artist/5GiPnsVJ0mGjr2u2Pfv0pG",
+        "trackUrl": "https://open.spotify.com/track/4JJ5KsO8YKpQ97bKzCrMQK",
+        "status": "Exact artist matched to verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "calendarAvailable": false
+  },
+  {
+    "lineup": [
       "Voyager"
     ],
     "date": "2026-11-08",
@@ -350,7 +394,7 @@ window.GIGS = [
     "fit": "Melodic prog-metal detour with synths and clean vocals; an intimate music/storytelling evening rather than a conventional heavy bill.",
     "source": "Official venue/ticket sources checked 1 Nov 2026. https://www.manningbar.com/event/voyager-3/ https://www.moshtix.com.au/v2/event/voyager/195790 Special guests still 'to be announced' on official venue page; do not invent support. Live Moshtix price, fee and accessibility notice reviewed 2 Nov 2026. https://www.moshtix.com.au/v2/event/voyager/195790 Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g07-1",
-    "rank": 8,
+    "rank": 9,
     "groupId": "group-07",
     "dates": [
       "2026-11-08"
@@ -381,7 +425,7 @@ window.GIGS = [
     "fit": "Cinematic instrumental build-ups and crushing guitars, with orchestra and choir; atmospheric heavy detour rather than a vocal metalcore bill.",
     "source": "Official sources checked 2 Nov 2026. https://www.cityrecitalhall.com/whats-on/events/we-lost-the-sea-ten-years-of-departure-songs/ https://www.welostthesea.com/shows/a-single-flower-eu-tour-pt-1-2026-g3che Musicians of The Metropolitan Orchestra and Vox choir accompany the main performance, not separate supports.",
     "id": "g22-1",
-    "rank": 9,
+    "rank": 10,
     "groupId": "group-22",
     "dates": [
       "2026-11-07"
@@ -424,7 +468,7 @@ window.GIGS = [
     "fit": "Strong heavy lineup inside a tattoo convention; compelling discovery but not a standalone Hellions concert.",
     "source": "Official venue/ticket sources checked 1 Nov 2026. https://thehordern.com.au/event/the-iron-gate-tattoo-convention/ https://www.theirongatetattooconvention.com.au/ https://ink-nurse.com/blogs/tattoo-info/iron-gate-tattoo-convention-interview https://www.instagram.com/p/DdnrcnVP-WU/ 10:00–23:00 are convention hours; band set times not verified. Do not use aggregator 19:00 as official. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g08-1",
-    "rank": 10,
+    "rank": 11,
     "groupId": "group-08",
     "dates": [
       "2026-11-07"
@@ -516,7 +560,7 @@ window.GIGS = [
     "fit": "DIY multi-stage bill; Totally Unicorn provides the closest chaotic heavy/post-hardcore point, with punk discovery across 20 acts.",
     "source": "Official venue/ticket listing checked 1 Nov 2026. 18+. Doors/courtyard 2:30pm; Factory Floor listing 3:30pm; Fusebox listing 4pm. Individual set times not shown. First release exhausted; second release closed; final-release selector present. Full lineup above reflects current official venue and Moshtix text. Older aggregator lists with Kidskin, Flight to Dubai, Julia Why?, Retail Therapy and Problem Green are stale. Dr Sure’s Unusual Practice has withdrawn streaming distribution; no available track was substituted. Kings Currency has no unambiguous Spotify track verified. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g09-1",
-    "rank": 11,
+    "rank": 12,
     "groupId": "group-09",
     "dates": [
       "2026-11-07"
@@ -662,7 +706,7 @@ window.GIGS = [
     "fit": "Left-field noisy live energy; a broader alternative discovery, not a metalcore sound-alike.",
     "source": "Official venue/ticket sources checked 1 Nov 2026. https://crowbarsyd.oztix.com.au/outlet/event/82712925-ed08-4cd9-8b2d-e27e85efb51e Live official Oztix price/fee and support header reviewed 2 Nov 2026. https://crowbarsyd.oztix.com.au/outlet/event/82712925-ed08-4cd9-8b2d-e27e85efb51e Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g10-1",
-    "rank": 12,
+    "rank": 13,
     "groupId": "group-10",
     "dates": [
       "2026-11-07"
@@ -706,7 +750,7 @@ window.GIGS = [
     "fit": "Riffy grunge and heavy guitar textures, strong free small-room discovery option.",
     "source": "Official sources checked 2 Nov 2026. https://deadsetdarlo.com.au/ https://deadsetdarlo.com.au/whats-on/swivelhead.html https://deadsetdarlo.com.au/media/gallery/1291_20261018183431_SINGLERELEASE-SYDNEY.webp",
     "id": "g23-1",
-    "rank": 13,
+    "rank": 14,
     "groupId": "group-23",
     "dates": [
       "2026-11-07"
@@ -750,7 +794,7 @@ window.GIGS = [
     "fit": "90s alternative weight and modern guitar grit; Toy Saints self-bio cites Basement and Title Fight alongside grunge influences.",
     "source": "Official sources checked 2 Nov 2026. https://www.moshtix.com.au/v2/event/toy-saints-free-entry/201498 https://open.spotify.com/artist/0o3J0MJAQpF4NNC8sJwSpc https://linktr.ee/toysaints",
     "id": "g24-1",
-    "rank": 14,
+    "rank": 15,
     "groupId": "group-24",
     "dates": [
       "2026-11-06"
@@ -794,7 +838,7 @@ window.GIGS = [
     "fit": "Abrasive guitars with melodic release; a lighter guitar-led alternative to the metalcore bills.",
     "source": "Official venue/ticket listing checked 1 Nov 2026. 18+. GA selector present. Spotify resolved from band-supplied triple j Unearthed profile. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g11-1",
-    "rank": 15,
+    "rank": 16,
     "groupId": "group-11",
     "dates": [
       "2026-11-06"
@@ -837,7 +881,7 @@ window.GIGS = [
     "fit": "Free spark-punk bill for an energetic, lighter pub option.",
     "source": "Official venue/ticket listing checked 1 Nov 2026. Primary page verified by live public HTTP fetch; HTML retained in research/evidence. Merivale says no bandroom reservations; get in early. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g12-1",
-    "rank": 16,
+    "rank": 17,
     "groupId": "group-12",
     "dates": [
       "2026-11-07"
@@ -875,7 +919,7 @@ window.GIGS = [
     "fit": "Cheap small-room garage-punk detour with grunge support, lower direct metalcore match.",
     "source": "Official venue/ticket sources checked 1 Nov 2026. https://tickets.oztix.com.au/outlet/event/09ea3ce6-540b-4716-88c5-5b6713507679 Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g13-1",
-    "rank": 17,
+    "rank": 18,
     "groupId": "group-13",
     "dates": [
       "2026-11-06"
@@ -918,7 +962,7 @@ window.GIGS = [
     "fit": "Light end: dreamy guitar textures and shoegaze influences; free local-pub discovery rather than a metalcore substitute.",
     "source": "Official venue/ticket listing checked 1 Nov 2026. Primary page verified by live public HTTP fetch; HTML retained in research/evidence. Merivale says no bandroom reservations; get in early. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g14-1",
-    "rank": 18,
+    "rank": 19,
     "groupId": "group-14",
     "dates": [
       "2026-11-06"
@@ -956,7 +1000,7 @@ window.GIGS = [
     "fit": "Small-room punk/EDM crossover; broader alternative discovery rather than heavy-metal core.",
     "source": "Official venue/ticket sources checked 1 Nov 2026. https://burdekinlive.oztix.com.au/outlet/event/2fce8778-c327-4f5c-ae36-280c3d004939 Official listed event time, not individual stage time. Artist PR confirms The Admired on all dates and Me Neither in Sydney: https://beehive-pr.com.au/2026/09/29/down-and-out-sign-to-unfd-release-new-single-buried-alive/ Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g15-1",
-    "rank": 19,
+    "rank": 20,
     "groupId": "group-15",
     "dates": [
       "2026-11-07"
@@ -1001,7 +1045,7 @@ window.GIGS = [
     "fit": "Local alternative guitar bill; Casual Slacks artist profile cites soaring harmonies and Fontaines DC/Wunderhorse. Less direct heavy fit.",
     "source": "Official sources checked 2 Nov 2026. https://botanyviewhotel.oztix.com.au/Default.aspx?Event=252313 https://www.abc.net.au/triplejunearthed/artist/the-casual-slacks/ Acts listed alphabetically, no headliner claimed.",
     "id": "g25-1",
-    "rank": 20,
+    "rank": 21,
     "groupId": "group-25",
     "dates": [
       "2026-11-07"
@@ -1043,7 +1087,7 @@ window.GIGS = [
     "fit": "Fast punk alternative; weaker match than core modern-heavy selections.",
     "source": "Official venue/ticket sources checked 1 Nov 2026. https://www.metrotheatre.com.au/event/frenzal-rhomb-2/ https://premier.ticketek.com.au/shows/show.aspx?sh=RHOZAL26 Venue title feed says special guest without naming; no confirmed support. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g16-1",
-    "rank": 21,
+    "rank": 22,
     "groupId": "group-16",
     "dates": [
       "2026-11-06"
@@ -1075,7 +1119,7 @@ window.GIGS = [
     "fit": "High-energy punk detour; useful broader playlist inclusion, lower heavy-taste priority.",
     "source": "Official venue/ticket sources checked 1 Nov 2026. https://www.enmoretheatre.com.au/event/less-than-jake-2/ Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g17-1",
-    "rank": 22,
+    "rank": 23,
     "groupId": "group-17",
     "dates": [
       "2026-11-05"
@@ -1106,7 +1150,8 @@ window.GIGS = [
   {
     "lineup": [
       "Necko",
-      "ALIBII"
+      "ALIBII",
+      "Charlie Farmer"
     ],
     "date": "2026-11-06",
     "time": "20:00 listed",
@@ -1116,9 +1161,9 @@ window.GIGS = [
     "availability": "Ticket selector available; 18+. Checkout not performed.",
     "url": "https://crowbarsyd.oztix.com.au/outlet/event/73444cb8-7fc3-41d9-82f4-4a93368bf247?Event=246682",
     "fit": "Lighter/classic-rock wildcard: theatrical vocals and snarling guitar; not a metalcore match.",
-    "source": "Official venue/ticket listing checked 1 Nov 2026. 18+. Ticket selection control listed. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
+    "source": "Official venue/ticket listing checked 1 Nov 2026. 18+. Ticket selection control listed. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated. Official Oztix header checked 3 Nov 2026 now confirms Charlie Farmer alongside ALIBII. https://crowbarsyd.oztix.com.au/outlet/event/73444cb8-7fc3-41d9-82f4-4a93368bf247?Event=246682",
     "id": "g18-1",
-    "rank": 23,
+    "rank": 24,
     "groupId": "group-18",
     "dates": [
       "2026-11-06"
@@ -1136,6 +1181,12 @@ window.GIGS = [
         "url": "https://open.spotify.com/artist/1JhpHzDTu6ZIDKBqEhMeJk",
         "trackUrl": "https://open.spotify.com/track/3jnOv0C7zkr0g606sfCZaY",
         "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Charlie Farmer",
+        "url": "https://open.spotify.com/artist/2sCuVt2Q9jNIUMEV1nJCwd",
+        "trackUrl": "https://open.spotify.com/track/66vdcNQldvJ56vJ7gFwi9q",
+        "status": "Exact artist matched to verified representative Spotify track; not a setlist guarantee"
       }
     ],
     "calendarAvailable": false
@@ -1155,7 +1206,7 @@ window.GIGS = [
     "fit": "Low-cost local guitar-band option; weaker taste evidence than the main picks.",
     "source": "Official venue/ticket listing checked 1 Nov 2026. 18+. Ticket selection control listed. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g19-1",
-    "rank": 24,
+    "rank": 25,
     "groupId": "group-19",
     "dates": [
       "2026-11-08"
@@ -1194,7 +1245,7 @@ window.GIGS = [
     "fit": "Small-room local-scene farewell/reunion lineup, but official sold-out status makes it a watch-only selection.",
     "source": "Official venue/ticket sources checked 1 Nov 2026. https://www.eventbrite.com/e/moshpit-we-salute-you-tickets-1998418881671",
     "id": "g20-1",
-    "rank": 25,
+    "rank": 26,
     "groupId": "group-20",
     "dates": [
       "2026-11-07"
