@@ -1,4 +1,4 @@
-/* Official-source snapshot, reviewed 4 November 2026, Australia/Sydney. Per-show notes retain evidence limitations. */
+/* Official-source snapshot, reviewed 5 November 2026, Australia/Sydney. Per-show notes retain evidence limitations. */
 window.GIGS = [
   {
     "lineup": [
@@ -190,14 +190,14 @@ window.GIGS = [
       "Seek Misery"
     ],
     "date": "2026-11-07",
-    "time": "19:00",
+    "time": "Doors 18:30; individual set times unconfirmed",
     "venue": "Bootleggers",
     "suburb": "Newtown",
     "price": "A$29.95 + A$2.10/order — Includes GST/service fees; $2.10 per-order transaction fee.",
     "availability": "GA selector shown; availability can change, checkout not completed. 18+.",
     "url": "https://www.moshtix.com.au/v2/event/a-night-in-texas-the-darkest-side-of-humanity-east-coast-tour/199040",
     "fit": "Small-room, much heavier pick for early-BMTH aggression; less melodic than the primary anchors.",
-    "source": "Official venue/ticket sources checked 1 Nov 2026. https://www.moshtix.com.au/v2/event/a-night-in-texas-the-darkest-side-of-humanity-east-coast-tour/199040 Listed event time, not confirmed individual stage time. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
+    "source": "Official venue/ticket sources checked 1 Nov 2026. https://www.moshtix.com.au/v2/event/a-night-in-texas-the-darkest-side-of-humanity-east-coast-tour/199040 Listed event time, not confirmed individual stage time. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated. Official Moshtix page checked 5 Nov 2026 confirms doors 18:30, replacing the earlier 19:00 listing; Body Prison and Seek Misery remain confirmed.",
     "id": "g05-1",
     "rank": 5,
     "groupId": "group-05",
