@@ -346,8 +346,8 @@ window.GIGS = [
     "time": "Doors 19:00",
     "venue": "Elton Chong",
     "suburb": "Penrith",
-    "price": "A$32.52 GA incl GST/service fees + A$1.95 transaction fee per order",
-    "availability": "GA listed; early bird closed. 18+. No checkout performed.",
+    "price": "A$35.00 final release incl GST/service fees + A$1.95 transaction fee per order",
+    "availability": "Final release selectable; general admission and early bird closed. 18+. No checkout performed.",
     "url": "https://www.moshtix.com.au/v2/event/clay-j-gladstone-pretty-in-penrith-w-father-deer-hands-dreamcult-fri-nov-6/200893",
     "id": "g26-1",
     "groupId": "group-26",
@@ -357,7 +357,7 @@ window.GIGS = [
     ],
     "style": "Post-hardcore / emo / alternative punk",
     "fit": "Emotional punk hooks and post-hardcore weight, with Father Deer Hands and Dreamcult adding a melodic heavy edge.",
-    "source": "Official Moshtix listing and artist ticket link checked 3 Nov 2026. https://www.moshtix.com.au/v2/event/clay-j-gladstone-pretty-in-penrith-w-father-deer-hands-dreamcult-fri-nov-6/200893 https://linktr.ee/clayjgladstone https://www.eltonchong.com.au/",
+    "source": "Official Moshtix listing and artist ticket link checked 3 Nov 2026. https://www.moshtix.com.au/v2/event/clay-j-gladstone-pretty-in-penrith-w-father-deer-hands-dreamcult-fri-nov-6/200893 https://linktr.ee/clayjgladstone https://www.eltonchong.com.au/ Live official Moshtix ticket selector checked 6 Nov 2026: final release A$35.00 available to select; previous GA and early-bird tiers closed. A$1.95 transaction fee per order.",
     "artists": [
       {
         "name": "Clay J Gladstone",
