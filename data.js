@@ -1,4 +1,4 @@
-/* Official-source snapshot, reviewed 5 November 2026, Australia/Sydney. Per-show notes retain evidence limitations. */
+/* Official-source snapshot, reviewed 7 November 2026, Australia/Sydney. Per-show notes retain evidence limitations. */
 window.GIGS = [
   {
     "lineup": [
@@ -1206,6 +1206,87 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "The Petrov Affair",
+      "Virgin Mary Disco Brawl",
+      "Stunts"
+    ],
+    "date": "2026-11-08",
+    "time": "17:00–20:00 advertised event window; individual sets unconfirmed",
+    "venue": "Gasoline Pony",
+    "suburb": "Marrickville",
+    "price": "A$11.00 + A$1.57 ticket fee",
+    "availability": "Official ticket quantity selector present; stock not guaranteed. No booking made.",
+    "url": "https://events.humanitix.com/virgin-petrov-stunt-fest-26",
+    "fit": "Small-room punk, post-punk and art rock; a lighter local-band alternative to the heavier main picks.",
+    "source": "Official venue-hosted Humanitix event and ticket pages checked 7 Nov 2026, Australia/Sydney. https://events.humanitix.com/virgin-petrov-stunt-fest-26 https://events.humanitix.com/virgin-petrov-stunt-fest-26/tickets",
+    "id": "g31-1",
+    "rank": 25,
+    "groupId": "group-31",
+    "dates": [
+      "2026-11-08"
+    ],
+    "style": "punk / post-punk / art rock",
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "The Petrov Affair",
+        "url": "https://open.spotify.com/artist/6t0RQySfskzXP5Rth7olH6",
+        "trackUrl": "https://open.spotify.com/track/2VGZVBIsNsl8hQ2W7klMxK",
+        "status": "Exact artist linked by official artist/Unearthed source; representative recording, not a setlist guarantee"
+      },
+      {
+        "name": "Virgin Mary Disco Brawl",
+        "url": null,
+        "trackUrl": null,
+        "status": "No unambiguous Spotify recording verified; omitted from companion playlist"
+      },
+      {
+        "name": "Stunts",
+        "url": "https://open.spotify.com/artist/1ytRYmJcCf1TZDzqakjiHU",
+        "trackUrl": "https://open.spotify.com/track/6Grt3ns1sddfTdJILuG4nA",
+        "status": "Exact artist linked by official artist/Unearthed source; representative recording, not a setlist guarantee"
+      }
+    ]
+  },
+  {
+    "lineup": [
+      "The Pharts",
+      "Fizzleheads"
+    ],
+    "date": "2026-11-07",
+    "time": "19:00–22:00 advertised event window; individual sets unconfirmed",
+    "venue": "Gasoline Pony",
+    "suburb": "Marrickville",
+    "price": "Free entry; donations optional",
+    "availability": "Official free-entry/donation ticket listing; capacity not guaranteed. No booking made.",
+    "url": "https://events.humanitix.com/the-pharts-fizzleheads",
+    "fit": "A lighter, free pub bill mixing psychedelic punk and garage rock with country/pop influences.",
+    "source": "Official venue-hosted Humanitix event and ticket pages checked 7 Nov 2026, Australia/Sydney. https://events.humanitix.com/the-pharts-fizzleheads https://events.humanitix.com/the-pharts-fizzleheads/tickets",
+    "id": "g32-1",
+    "rank": 26,
+    "groupId": "group-32",
+    "dates": [
+      "2026-11-07"
+    ],
+    "style": "psychedelic punk / garage rock / country pop",
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "The Pharts",
+        "url": null,
+        "trackUrl": null,
+        "status": "No unambiguous Spotify recording verified; omitted from companion playlist"
+      },
+      {
+        "name": "Fizzleheads",
+        "url": null,
+        "trackUrl": null,
+        "status": "No unambiguous Spotify recording verified; omitted from companion playlist"
+      }
+    ]
+  },
+  {
+    "lineup": [
       "Newtown Sound",
       "Bunny Bear",
       "Rotations",
@@ -1222,7 +1303,7 @@ window.GIGS = [
     "fit": "Local alternative guitar bill; Casual Slacks artist profile cites soaring harmonies and Fontaines DC/Wunderhorse. Less direct heavy fit.",
     "source": "Official sources checked 2 Nov 2026. https://botanyviewhotel.oztix.com.au/Default.aspx?Event=252313 https://www.abc.net.au/triplejunearthed/artist/the-casual-slacks/ Acts listed alphabetically, no headliner claimed. Live official Oztix page checked 4 Nov 2026 also lists Tallow alphabetically. https://botanyviewhotel.oztix.com.au/Default.aspx?Event=252313",
     "id": "g25-1",
-    "rank": 25,
+    "rank": 27,
     "groupId": "group-25",
     "dates": [
       "2026-11-07"
@@ -1270,7 +1351,7 @@ window.GIGS = [
     "fit": "Fast punk alternative; weaker match than core modern-heavy selections.",
     "source": "Official venue/ticket sources checked 1 Nov 2026. https://www.metrotheatre.com.au/event/frenzal-rhomb-2/ https://premier.ticketek.com.au/shows/show.aspx?sh=RHOZAL26 Venue title feed says special guest without naming; no confirmed support. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g16-1",
-    "rank": 26,
+    "rank": 28,
     "groupId": "group-16",
     "dates": [
       "2026-11-06"
@@ -1302,7 +1383,7 @@ window.GIGS = [
     "fit": "High-energy punk detour; useful broader playlist inclusion, lower heavy-taste priority.",
     "source": "Official venue/ticket sources checked 1 Nov 2026. https://www.enmoretheatre.com.au/event/less-than-jake-2/ Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g17-1",
-    "rank": 27,
+    "rank": 29,
     "groupId": "group-17",
     "dates": [
       "2026-11-05"
@@ -1346,7 +1427,7 @@ window.GIGS = [
     "fit": "Lighter/classic-rock wildcard: theatrical vocals and snarling guitar; not a metalcore match.",
     "source": "Official venue/ticket listing checked 1 Nov 2026. 18+. Ticket selection control listed. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated. Official Oztix header checked 3 Nov 2026 now confirms Charlie Farmer alongside ALIBII. https://crowbarsyd.oztix.com.au/outlet/event/73444cb8-7fc3-41d9-82f4-4a93368bf247?Event=246682",
     "id": "g18-1",
-    "rank": 28,
+    "rank": 30,
     "groupId": "group-18",
     "dates": [
       "2026-11-06"
@@ -1389,7 +1470,7 @@ window.GIGS = [
     "fit": "Low-cost local guitar-band option; weaker taste evidence than the main picks.",
     "source": "Official venue/ticket listing checked 1 Nov 2026. 18+. Ticket selection control listed. Relevant official venue or seller listing rechecked 2 Nov 2026; unresolved price/inventory and earlier support-source caveats remain as stated.",
     "id": "g19-1",
-    "rank": 29,
+    "rank": 31,
     "groupId": "group-19",
     "dates": [
       "2026-11-08"
@@ -1428,7 +1509,7 @@ window.GIGS = [
     "fit": "Small-room local-scene farewell/reunion lineup, but official sold-out status makes it a watch-only selection.",
     "source": "Official venue/ticket sources checked 1 Nov 2026. https://www.eventbrite.com/e/moshpit-we-salute-you-tickets-1998418881671",
     "id": "g20-1",
-    "rank": 30,
+    "rank": 32,
     "groupId": "group-20",
     "dates": [
       "2026-11-07"
