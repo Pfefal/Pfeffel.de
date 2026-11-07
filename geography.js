@@ -188,6 +188,30 @@ window.GIG_GEO = {
       "lon": 151.208074,
       "source": "https://www.cityrecitalhall.com/contact-us",
       "accuracy": "Approximate venue/address point from the official venue Apple Maps link; not an entrance or navigation survey"
+    },
+    "Wings and Tins Dee Why": {
+      "lat": -33.7537453,
+      "lon": 151.285469,
+      "source": "https://events.humanitix.com/avalon-w-a-decade-dying-and-for-your-safety",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "The Bridge Hotel": {
+      "lat": -33.8627761,
+      "lon": 151.1688939,
+      "source": "https://www.moshtix.com.au/v2/venues/the-bridge-hotel-nsw/2247",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "Allianz Stadium": {
+      "lat": -33.889067,
+      "lon": 151.225364,
+      "source": "https://www.allianzstadium.com.au/contact_us",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "Oxford Art Factory": {
+      "lat": -33.8779851,
+      "lon": 151.2137927,
+      "source": "https://www.openstreetmap.org/node/4813284527",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
     }
   }
 };

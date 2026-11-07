@@ -345,5 +345,57 @@
     "coordinateBasis": "Exact coordinate in official Contact Us Apple Maps link: https://maps.apple.com/place?address=2+Angel+Pl%2C+Sydney+NSW+2000%2C+Australia&coordinate=-33.866931%2C151.208074&map=explore&name=City+Recital+Hall&place-id=I535EE916E6461757",
     "license": "Official venue-linked factual address point; not OSM-derived",
     "attribution": "Official venue location source; no map imagery or tiles copied"
+  },
+  "Wings and Tins Dee Why": {
+    "point": {
+      "lat": -33.7537453,
+      "lon": 151.285469,
+      "source": "https://events.humanitix.com/avalon-w-a-decade-dying-and-for-your-safety",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Wings and Tins Dee Why, 3/866 Pittwater Rd, Dee Why NSW 2099",
+    "verified": "2026-11-08",
+    "coordinateBasis": "Official event Get directions link; exact place coordinates, not viewport centre. https://www.google.com/maps/search/?api=1&query=-33.7537453,151.285469&query_place_id=ChIJsyeoV1yrEmsRSshYOKbMU9E",
+    "license": "Factual public venue/address point; not OSM-derived",
+    "attribution": "Venue/seller address and linked/public map point; no map imagery or tiles copied"
+  },
+  "The Bridge Hotel": {
+    "point": {
+      "lat": -33.8627761,
+      "lon": 151.1688939,
+      "source": "https://www.moshtix.com.au/v2/venues/the-bridge-hotel-nsw/2247",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "The Bridge Hotel, 119 Victoria Rd, Rozelle NSW 2039",
+    "verified": "2026-11-08",
+    "coordinateBasis": "Official seller linked address map, then exact Bridge Hotel place feature; exact place coordinates, not viewport centre. https://www.google.com/maps/search/?api=1&query=119+Victoria+Rd,+Rozelle+NSW+2039",
+    "license": "Factual public venue/address point; not OSM-derived",
+    "attribution": "Venue/seller address and linked/public map point; no map imagery or tiles copied"
+  },
+  "Allianz Stadium": {
+    "point": {
+      "lat": -33.889067,
+      "lon": 151.225364,
+      "source": "https://www.allianzstadium.com.au/contact_us",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Allianz Stadium, 40/44 Driver Avenue, Moore Park NSW 2021",
+    "verified": "2026-11-08",
+    "coordinateBasis": "Public venue map point matched to official venue postal address; exact place coordinates, not viewport centre. https://www.google.com/maps/search/?api=1&query=Allianz+Stadium+44+Driver+Avenue+Moore+Park+NSW+2021",
+    "license": "Factual public venue/address point; not OSM-derived",
+    "attribution": "Venue/seller address and linked/public map point; no map imagery or tiles copied"
+  },
+  "Oxford Art Factory": {
+    "point": {
+      "lat": -33.8779851,
+      "lon": 151.2137927,
+      "source": "https://www.openstreetmap.org/node/4813284527",
+      "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Oxford Art Factory, Oxford Street Cycleway, Darlinghurst, Sydney, New South Wales, 2010, Australia",
+    "query": "Oxford Art Factory Sydney",
+    "license": "ODbL 1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "coordinateBasis": "Main Room shares the verified Oxford Art Factory building point with Gallery Bar."
   }
 }
