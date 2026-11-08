@@ -212,6 +212,12 @@ window.GIG_GEO = {
       "lon": 151.2137927,
       "source": "https://www.openstreetmap.org/node/4813284527",
       "accuracy": "Approximate venue/address point; not an entrance or navigation survey"
+    },
+    "Powerhouse Parramatta": {
+      "lat": -33.81213188865956,
+      "lon": 151.00608229637146,
+      "source": "https://powerhouse.com.au/visit/parramatta",
+      "accuracy": "Approximate venue/property point published by venue; not an entrance or navigation survey"
     }
   }
 };

@@ -1,4 +1,4 @@
-/* Official-source snapshot, reviewed 8 November 2026, Australia/Sydney. Per-show notes retain evidence limitations. */
+/* Official-source snapshot reviewed 9 November 2026, Australia/Sydney. Per-show notes retain evidence dates and limitations. */
 window.GIGS = [
   {
     "lineup": [
@@ -14,7 +14,7 @@ window.GIGS = [
     "availability": "Ticket selection offered; no sold-out label; checkout inventory not tested 18+.",
     "url": "https://crowbarsyd.oztix.com.au/outlet/event/4d5d0ebb-4907-4e05-8cd7-1fc29371fad5?Event=248614",
     "fit": "Closest melodic post-hardcore/metalcore package to the core taste: heavy sections, clean hooks and Wayside texture.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://crowbarsyd.oztix.com.au/outlet/event/4d5d0ebb-4907-4e05-8cd7-1fc29371fad5?Event=248614",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://crowbarsyd.oztix.com.au/outlet/event/4d5d0ebb-4907-4e05-8cd7-1fc29371fad5?Event=248614",
     "id": "g01-1",
     "rank": 1,
     "groupId": "group-01",
@@ -58,7 +58,7 @@ window.GIGS = [
     "availability": "General public allocation exhausted; venue waitlist, Ticketek Marketplace may have resale but not verified 18+.",
     "url": "https://premier.ticketek.com.au/shows/show.aspx?sh=CHEMIRA26",
     "fit": "Big melodic hardcore hooks and rough-edged alternative rock; a strong fit, with allocation exhausted clearly noted.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.metrotheatre.com.au/event/trophy-eyes-3/ https://premier.ticketek.com.au/shows/show.aspx?sh=CHEMIRA26",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.metrotheatre.com.au/event/trophy-eyes-3/ https://premier.ticketek.com.au/shows/show.aspx?sh=CHEMIRA26",
     "id": "g02-1",
     "rank": 2,
     "groupId": "group-02",
@@ -102,7 +102,7 @@ window.GIGS = [
     "availability": "GA ticket selector present",
     "url": "https://events.humanitix.com/avalon-w-a-decade-dying-and-for-your-safety",
     "fit": "Small-room local metalcore and heavy riffs, with a Sunday afternoon option on the Northern Beaches.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://events.humanitix.com/avalon-w-a-decade-dying-and-for-your-safety",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://events.humanitix.com/avalon-w-a-decade-dying-and-for-your-safety",
     "id": "g03-1",
     "rank": 3,
     "groupId": "group-03",
@@ -144,7 +144,7 @@ window.GIGS = [
     "availability": "GA selectable 18+.",
     "url": "https://moshtix.com.au/v2/event/flow-kobra-bootleggers-w-all-regards-akira-slide-face-the-martyr/200697",
     "fit": "Heavy local alternative bill with All Regards, Akira Slide and Face The Martyr; an intimate counterweight to the larger tours.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://moshtix.com.au/v2/event/flow-kobra-bootleggers-w-all-regards-akira-slide-face-the-martyr/200697",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://moshtix.com.au/v2/event/flow-kobra-bootleggers-w-all-regards-akira-slide-face-the-martyr/200697",
     "id": "g04-1",
     "rank": 4,
     "groupId": "group-04",
@@ -181,7 +181,8 @@ window.GIGS = [
   },
   {
     "lineup": [
-      "Ecca Vandal"
+      "Ecca Vandal",
+      "1300"
     ],
     "date": "2026-11-12",
     "time": "19:00 advertised; doors and sets not separately confirmed",
@@ -190,8 +191,8 @@ window.GIGS = [
     "price": "A$43.84 — 3.95 per order; single total 47.79",
     "availability": "Both dates allocation exhausted 18+.",
     "url": "https://www.moshtix.com.au/v2/event/ecca-vandal-%E2%80%98looking-for-people-to-unfollow%E2%80%99-album-tour-second-show-added/197300",
-    "fit": "Punk bite, heavy alternative crossover and Deftones-adjacent energy. Supports remain unconfirmed.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.moshtix.com.au/v2/event/ecca-vandal-%E2%80%98looking-for-people-to-unfollow%E2%80%99-album-tour-second-show-added/197300 https://www.moshtix.com.au/v2/event/ecca-vandal-%E2%80%98looking-for-people-to-unfollow%E2%80%99-album-tour/195987 Not confirmed in official checked pages",
+    "fit": "Punk bite, heavy alternative crossover and Deftones-adjacent energy. Support: 1300 confirmed by the promoter.",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/ecca-vandal-%E2%80%98looking-for-people-to-unfollow%E2%80%99-album-tour-second-show-added/197300 https://www.moshtix.com.au/v2/event/ecca-vandal-%E2%80%98looking-for-people-to-unfollow%E2%80%99-album-tour/195987 Not confirmed in official checked pages Support confirmed on official promoter poster: https://cultartists.com.au/tours/ecca-vandal-looking-for-people-to-unfollow-album-tour/",
     "id": "g05-1",
     "rank": 5,
     "groupId": "group-05",
@@ -205,13 +206,22 @@ window.GIGS = [
         "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf",
         "trackUrl": "https://open.spotify.com/track/4cErKi16sjFZOfd85t9dnt",
         "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "1300",
+        "spotifyName": "1300",
+        "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P",
+        "trackUrl": "https://open.spotify.com/track/2gYVQFPrjwcAdCbfz25EjE",
+        "trackName": "Rocksta",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
       }
     ],
     "calendarAvailable": false
   },
   {
     "lineup": [
-      "Ecca Vandal"
+      "Ecca Vandal",
+      "1300"
     ],
     "date": "2026-11-13",
     "time": "19:00 advertised; doors and sets not separately confirmed",
@@ -220,8 +230,8 @@ window.GIGS = [
     "price": "A$43.84 — 3.95 per order; single total 47.79",
     "availability": "Both dates allocation exhausted 18+.",
     "url": "https://www.moshtix.com.au/v2/event/ecca-vandal-%E2%80%98looking-for-people-to-unfollow%E2%80%99-album-tour/195987",
-    "fit": "Second Sydney date for the same punk/heavy-alternative crossover. Supports remain unconfirmed.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.moshtix.com.au/v2/event/ecca-vandal-%E2%80%98looking-for-people-to-unfollow%E2%80%99-album-tour-second-show-added/197300 https://www.moshtix.com.au/v2/event/ecca-vandal-%E2%80%98looking-for-people-to-unfollow%E2%80%99-album-tour/195987 Not confirmed in official checked pages",
+    "fit": "Second Sydney date for the same punk/heavy-alternative crossover. Support: 1300 confirmed by the promoter.",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/ecca-vandal-%E2%80%98looking-for-people-to-unfollow%E2%80%99-album-tour-second-show-added/197300 https://www.moshtix.com.au/v2/event/ecca-vandal-%E2%80%98looking-for-people-to-unfollow%E2%80%99-album-tour/195987 Not confirmed in official checked pages Support confirmed on official promoter poster: https://cultartists.com.au/tours/ecca-vandal-looking-for-people-to-unfollow-album-tour/",
     "id": "g06-1",
     "rank": 6,
     "groupId": "group-06",
@@ -235,9 +245,86 @@ window.GIGS = [
         "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf",
         "trackUrl": "https://open.spotify.com/track/4cErKi16sjFZOfd85t9dnt",
         "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "1300",
+        "spotifyName": "1300",
+        "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P",
+        "trackUrl": "https://open.spotify.com/track/2gYVQFPrjwcAdCbfz25EjE",
+        "trackName": "Rocksta",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
       }
     ],
     "calendarAvailable": false
+  },
+  {
+    "lineup": [
+      "SPEED",
+      "Justice for the Damned",
+      "Ends in Tragedy",
+      "Time Ends",
+      "Paid In Full"
+    ],
+    "date": "2026-11-13",
+    "time": "17:00–22:00 event window; individual sets unannounced",
+    "venue": "Powerhouse Parramatta",
+    "suburb": "Parramatta",
+    "price": "A$30 advertised standard; extra fees unverified",
+    "availability": "Official venue marks sold out. One sealed, in-date nonperishable food item or new unopened toy is required per ticket for Project Kindness. Age conditions unverified.",
+    "url": "https://powerhouse.com.au/program/opening-fest-speed",
+    "style": "Hardcore / metalcore",
+    "fit": "Sydney hardcore with Justice for the Damned adding heavier metalcore intensity; official allocation is sold out.",
+    "address": "Western Sydney University Forum, Level 1, Powerhouse Parramatta, 34 Phillip St, Parramatta NSW 2150",
+    "id": "g34-1",
+    "groupId": "group-34",
+    "dates": [
+      "2026-11-13"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "SPEED",
+        "spotifyName": "Speed",
+        "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn",
+        "trackUrl": "https://open.spotify.com/track/6rNjVOudfdBJKmWKLbz16p",
+        "trackName": "THE FIRST TEST",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Justice for the Damned",
+        "spotifyName": "Justice For The Damned",
+        "url": "https://open.spotify.com/artist/0lXAdLcUREgif33yNEmyf8",
+        "trackUrl": "https://open.spotify.com/track/6nFERKU8icsTTdXQHz2jI6",
+        "trackName": "Pain Is Power",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Ends in Tragedy",
+        "spotifyName": "Ends In Tragedy",
+        "url": "https://open.spotify.com/artist/6pOD0fG5OzdRVdAt52k1RR",
+        "trackUrl": "https://open.spotify.com/track/2vTEXttZkno8WRWGMwnh5H",
+        "trackName": "Beg For The Blood",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Time Ends",
+        "spotifyName": "Time Ends",
+        "url": "https://open.spotify.com/artist/3dPAw080cv4X9d7x4xTd6Y",
+        "trackUrl": "https://open.spotify.com/track/0O1igjyIXj45XssBQVSfFX",
+        "trackName": "The Sorrow",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Paid In Full",
+        "spotifyName": "Paid In Full",
+        "url": "https://open.spotify.com/artist/6Vdun6p5LeLzxj0siipKlS",
+        "trackUrl": "https://open.spotify.com/track/287WrQyooznPTO4g0JmRqc",
+        "trackName": "Wasted Breath",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "source": "Official sources checked 9 Nov 2026. https://powerhouse.com.au/program/opening-fest-speed",
+    "rank": 7
   },
   {
     "lineup": [
@@ -253,9 +340,9 @@ window.GIGS = [
     "availability": "Official event published; ticket inventory and entry conditions not independently verified.",
     "url": "https://www.oddculture.group/event/duke-gig-guide",
     "fit": "Local metal and thrash at the Duke; a heavier small-room option rather than another arena show.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.oddculture.group/event/duke-gig-guide",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.oddculture.group/event/duke-gig-guide",
     "id": "g07-1",
-    "rank": 7,
+    "rank": 8,
     "groupId": "group-07",
     "dates": [
       "2026-11-13"
@@ -307,9 +394,9 @@ window.GIGS = [
     "availability": "Ticket selection offered; no sold-out label 18+.",
     "url": "https://tickets.oztix.com.au/outlet/event/bdbe9352-e51f-4fd1-84c1-eb96dc3a44d8",
     "fit": "Thirteen Australian hardcore bands at The Real Hard Dark Hardcore 2; rawer and less melodic than the core metalcore anchors.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://tickets.oztix.com.au/outlet/event/bdbe9352-e51f-4fd1-84c1-eb96dc3a44d8 Official seller spelling Straightjacket Nation; band commonly styled Straitjacket Nation. Do not substitute American Spite.",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://tickets.oztix.com.au/outlet/event/bdbe9352-e51f-4fd1-84c1-eb96dc3a44d8 Official seller spelling Straightjacket Nation; band commonly styled Straitjacket Nation. Do not substitute American Spite.",
     "id": "g08-1",
-    "rank": 8,
+    "rank": 9,
     "groupId": "group-08",
     "dates": [
       "2026-11-14"
@@ -407,9 +494,9 @@ window.GIGS = [
     "availability": "Official event published; ticket inventory and entry conditions not independently verified.",
     "url": "https://deadsetdarlo.com.au/whats-on/the-doom-tomb.html",
     "fit": "The Doom Tomb brings slow, heavy doom and sludge to a small basement room.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://deadsetdarlo.com.au/whats-on/the-doom-tomb.html The Doom Tomb is event name, not an extra performer. SydneyMusic spells Void Mxchine.",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://deadsetdarlo.com.au/whats-on/the-doom-tomb.html The Doom Tomb is event name, not an extra performer. SydneyMusic spells Void Mxchine.",
     "id": "g09-1",
-    "rank": 9,
+    "rank": 10,
     "groupId": "group-09",
     "dates": [
       "2026-11-13"
@@ -454,12 +541,12 @@ window.GIGS = [
     "venue": "Crowbar",
     "suburb": "Leichhardt",
     "price": "A$74.90 — Additional fees not exposed",
-    "availability": "Ticket selection offered; no sold-out label 18+.",
+    "availability": "Promoter advertises FINAL TICKETS at A$74.90; seller inventory was not exposed in this check. 18+.",
     "url": "https://tickets.oztix.com.au/outlet/event/125a44eb-2227-4777-afde-fa0561e877f4",
     "fit": "A lighter emo/alternative choice with melodic guitars and strong local supports.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://tickets.oztix.com.au/outlet/event/125a44eb-2227-4777-afde-fa0561e877f4",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://tickets.oztix.com.au/outlet/event/125a44eb-2227-4777-afde-fa0561e877f4",
     "id": "g10-1",
-    "rank": 10,
+    "rank": 11,
     "groupId": "group-10",
     "dates": [
       "2026-11-12"
@@ -499,9 +586,9 @@ window.GIGS = [
     "availability": "Both dates allocation exhausted",
     "url": "https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18/197886",
     "fit": "Guitar-driven emo and alternative pop at Metro Social. Friday is 18+; supports unconfirmed.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.metrotheatre.com.au/event/daine/ https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18/197886 https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages/198643 Not confirmed",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.metrotheatre.com.au/event/daine/ https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18/197886 https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages/198643 Not confirmed",
     "id": "g11-1",
-    "rank": 11,
+    "rank": 12,
     "groupId": "group-11",
     "dates": [
       "2026-11-13"
@@ -529,9 +616,9 @@ window.GIGS = [
     "availability": "Both dates allocation exhausted",
     "url": "https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages/198643",
     "fit": "The all-ages Saturday daine date. Emo/alternative pop; supports unconfirmed.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.metrotheatre.com.au/event/daine/ https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18/197886 https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages/198643 Not confirmed",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.metrotheatre.com.au/event/daine/ https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18/197886 https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages/198643 Not confirmed",
     "id": "g12-1",
-    "rank": 12,
+    "rank": 13,
     "groupId": "group-12",
     "dates": [
       "2026-11-14"
@@ -561,9 +648,9 @@ window.GIGS = [
     "availability": "GA selector offered; inventory not reserved 18+.",
     "url": "https://moshtix.com.au/v2/event/the-mark-of-cain/197812",
     "fit": "Heavy, rhythmic alternative and noise rock with Budd and Witch Spit. Venue lift unavailable; see the official access notice.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.manningbar.com/event/the-mark-of-cain-2/ https://moshtix.com.au/v2/event/the-mark-of-cain/197812 Venue lift unavailable for show; ticket seller cannot accommodate bookings requiring lift.",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.manningbar.com/event/the-mark-of-cain-2/ https://moshtix.com.au/v2/event/the-mark-of-cain/197812 Venue lift unavailable for show; ticket seller cannot accommodate bookings requiring lift.",
     "id": "g13-1",
-    "rank": 13,
+    "rank": 14,
     "groupId": "group-13",
     "dates": [
       "2026-11-14"
@@ -613,9 +700,9 @@ window.GIGS = [
     "availability": "GA selectable 18+.",
     "url": "https://www.moshtix.com.au/v2/event/steel-assassins-2026-day-2/195545",
     "fit": "Steel Assassins Day 2: melodic hard rock, progressive and thrash metal across an eleven-band bill.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.moshtix.com.au/v2/event/steel-assassins-2026-day-2/195545",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/steel-assassins-2026-day-2/195545",
     "id": "g14-1",
-    "rank": 14,
+    "rank": 15,
     "groupId": "group-14",
     "dates": [
       "2026-11-14"
@@ -704,9 +791,9 @@ window.GIGS = [
     "availability": "Venue says on sale; Ticketmaster event accessible but live ticket list not exposed",
     "url": "https://www.ticketmaster.com.au/iron-maiden-run-for-your-lives-sydney-15-11-2026/event/2500645788A53CB3",
     "fit": "The classic heavy-metal stadium option with Megadeth, further from modern metalcore. Gates are not a band set time; transport is included per venue.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.allianzstadium.com.au/events/iron_maiden_run_for_your_lives_world_tour https://www.ticketmaster.com.au/iron-maiden-run-for-your-lives-sydney-15-11-2026/event/2500645788A53CB3 Public transport included according to venue.",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.allianzstadium.com.au/events/iron_maiden_run_for_your_lives_world_tour https://www.ticketmaster.com.au/iron-maiden-run-for-your-lives-sydney-15-11-2026/event/2500645788A53CB3 Public transport included according to venue.",
     "id": "g15-1",
-    "rank": 15,
+    "rank": 16,
     "groupId": "group-15",
     "dates": [
       "2026-11-15"
@@ -746,9 +833,9 @@ window.GIGS = [
     "availability": "GA selectable 18+.",
     "url": "https://www.moshtix.com.au/v2/event/steel-assassins-2026-day-1/195544",
     "fit": "Steel Assassins Day 1 leans toward old-school death and thrash metal across seven bands.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.moshtix.com.au/v2/event/steel-assassins-2026-day-1/195544",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/steel-assassins-2026-day-1/195544",
     "id": "g16-1",
-    "rank": 16,
+    "rank": 17,
     "groupId": "group-16",
     "dates": [
       "2026-11-13"
@@ -814,9 +901,9 @@ window.GIGS = [
     "availability": "GA selectable 18+.",
     "url": "https://www.moshtix.com.au/v2/event/steel-assassins-warm-up-show-w-rawtism-pestilent-doom-heathenspawn-shatterf/201008",
     "fit": "A small-room warm-up for Steel Assassins, featuring four metal acts.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.moshtix.com.au/v2/event/steel-assassins-warm-up-show-w-rawtism-pestilent-doom-heathenspawn-shatterf/201008",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/steel-assassins-warm-up-show-w-rawtism-pestilent-doom-heathenspawn-shatterf/201008",
     "id": "g17-1",
-    "rank": 17,
+    "rank": 18,
     "groupId": "group-17",
     "dates": [
       "2026-11-12"
@@ -852,6 +939,56 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "FVNERAL",
+      "Cry Club",
+      "Worm Girlz"
+    ],
+    "date": "2026-11-13",
+    "time": "19:30 advertised event time; individual sets unannounced",
+    "venue": "The Chippo Hotel",
+    "suburb": "Chippendale",
+    "price": "A$44.90 final release; extra fees unverified",
+    "availability": "Final release selector offered; early-bird and first release exhausted. 18+. Sunsick Daisy is explicitly not appearing in Sydney.",
+    "url": "https://tickets.oztix.com.au/outlet/event/2bc2bb13-1272-484c-b7f5-a252283d0da1",
+    "style": "Emo / alternative rock",
+    "fit": "Emotional alternative rock and high-energy hooks; a broader melodic choice beyond the heaviest bills.",
+    "id": "g35-1",
+    "groupId": "group-35",
+    "dates": [
+      "2026-11-13"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "FVNERAL",
+        "spotifyName": "FVNERAL",
+        "url": "https://open.spotify.com/artist/2qmnL8WsvCaZ6sEicAJPkA",
+        "trackUrl": "https://open.spotify.com/track/6l1Np73Yo0vBx9Cpp3LS93",
+        "trackName": "hate u",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Cry Club",
+        "spotifyName": "Cry Club",
+        "url": "https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3",
+        "trackUrl": "https://open.spotify.com/track/58Sxl2Rv3bHMXOGRDR90nH",
+        "trackName": "DFTM",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Worm Girlz",
+        "spotifyName": "Worm Girlz",
+        "url": "https://open.spotify.com/artist/7zL6LmEx4oQROcJUNrg90p",
+        "trackUrl": "https://open.spotify.com/track/5jbjCwavHaQsLWMQaWGUBw",
+        "trackName": "Kills Me Like You Do",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "source": "Official sources checked 9 Nov 2026. https://tickets.oztix.com.au/outlet/event/2bc2bb13-1272-484c-b7f5-a252283d0da1",
+    "rank": 19
+  },
+  {
+    "lineup": [
       "Crash & The Crapenters",
       "Revenant",
       "Electrik"
@@ -864,9 +1001,9 @@ window.GIGS = [
     "availability": "Official event published; ticket inventory and entry conditions not independently verified.",
     "url": "https://www.oddculture.group/event/duke-gig-guide",
     "fit": "Heavy local rock at the Duke, with confirmed running times.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.oddculture.group/event/duke-gig-guide",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.oddculture.group/event/duke-gig-guide",
     "id": "g18-1",
-    "rank": 18,
+    "rank": 20,
     "groupId": "group-18",
     "dates": [
       "2026-11-14"
@@ -894,6 +1031,38 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "HEADSEND"
+    ],
+    "date": "2026-11-14",
+    "time": "18:00 in retrieved seller page; newer secondary listing says 18:30. Recheck before going; set times unknown.",
+    "venue": "Oxford Art Factory",
+    "suburb": "Darlinghurst",
+    "price": "A$15 first release / A$20 GA + A$1.49 per order",
+    "availability": "Ticket page is now titled Good Music House Party; HEADSEND date corroborated by label publication. Seller selectors offered; inventory not tested. 18+. Sonic Reducer support remains secondary-only.",
+    "url": "https://www.moshtix.com.au/v2/event/good-music-house-party/199985",
+    "style": "Grunge / alternative rock",
+    "fit": "Guitar-heavy alternative/grunge option, with a clearly flagged advertised-time discrepancy.",
+    "id": "g43-1",
+    "groupId": "group-43",
+    "dates": [
+      "2026-11-14"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "HEADSEND",
+        "spotifyName": "HEADSEND",
+        "url": "https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1",
+        "trackUrl": "https://open.spotify.com/track/2qPsFrbn4G1ytL3YmBFhxf",
+        "trackName": "And Angel",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "source": "Official sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/good-music-presents-headsend/199985 https://www.moshtix.com.au/v2/event/good-music-house-party/199985 https://www.udiscovermusic.com/news/headsend-a-delicate-balance-out-now/",
+    "rank": 21
+  },
+  {
+    "lineup": [
       "Nursery Crimes",
       "GRYTT",
       "Blame",
@@ -904,12 +1073,12 @@ window.GIGS = [
     "venue": "Marrickville Bowling Club",
     "suburb": "Marrickville",
     "price": "A$44.90 listed; final fees unverified",
-    "availability": "GA selectable 18+.",
+    "availability": "Previous check offered GA tickets; current primary page unavailable on 9 Nov, so availability is unverified. 18+.",
     "url": "https://tickets.oztix.com.au/outlet/event/cc5ae436-5b9f-4551-9342-2868d119e9b3",
     "fit": "Melodic punk and stoner-fuzz support bands at the Marrickville Bowlo.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://tickets.oztix.com.au/outlet/event/cc5ae436-5b9f-4551-9342-2868d119e9b3",
+    "source": "Official venue/ticket sources checked 8 Nov 2026. https://tickets.oztix.com.au/outlet/event/cc5ae436-5b9f-4551-9342-2868d119e9b3 Refresh attempted 9 Nov; primary page unavailable, previous 8 Nov evidence retained.",
     "id": "g19-1",
-    "rank": 19,
+    "rank": 22,
     "groupId": "group-19",
     "dates": [
       "2026-11-14"
@@ -944,6 +1113,84 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "The Owen Guns",
+      "Steve Towson and the Conscripts",
+      "So I Says To Mabel"
+    ],
+    "date": "2026-11-13",
+    "time": "19:00 per SydneyMusic; primary artist page does not state time",
+    "suburb": "Erskineville",
+    "price": "A$15 artist-confirmed; door-sales-only per SydneyMusic",
+    "url": "https://www.stevetowson.com/gigs.html",
+    "venue": "MoshPit",
+    "style": "Punk / hard rock",
+    "fit": "Raw punk and hard-rock bill with both supports artist-confirmed.",
+    "availability": "Artist confirms date, venue, lineup and A$15 admission; 19:00 and door-only sales are secondary reports. Age conditions unverified.",
+    "id": "g39-1",
+    "groupId": "group-39",
+    "dates": [
+      "2026-11-13"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "The Owen Guns",
+        "spotifyName": "The Owen Guns",
+        "url": "https://open.spotify.com/artist/4t2CQRvzM0TTOTobQLSgum",
+        "trackUrl": "https://open.spotify.com/track/7HKiBV4bf0xib4rRisX7m3",
+        "trackName": "The Algorithm",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Steve Towson and the Conscripts",
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      },
+      {
+        "name": "So I Says To Mabel",
+        "spotifyName": "So I Says to Mabel",
+        "url": "https://open.spotify.com/artist/1sBA5MgpEnlNPKYyCcA8Qk",
+        "trackUrl": "https://open.spotify.com/track/4HPpkqsDrqSi0uxi4n9kWo",
+        "trackName": "They Say You Can't Play 3 Strings At Once On A Cello",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "source": "Official sources checked 9 Nov 2026. https://www.stevetowson.com/gigs.html https://sydneymusic.net/gig-guide/venues/moshpit-bar",
+    "rank": 23
+  },
+  {
+    "lineup": [
+      "total tommy"
+    ],
+    "date": "2026-11-13",
+    "time": "19:00 advertised; sets unpublished",
+    "suburb": "Surry Hills",
+    "price": "A$23.50 GA; additional fees not exposed",
+    "url": "https://tickets.oztix.com.au/outlet/event/db9c098b-ca46-40f0-be87-ae5be7dd1716",
+    "venue": "KR Studio 206 at Hibernian House",
+    "style": "Grunge / alternative rock",
+    "fit": "Grungy guitar-led alternative; current ticket listing confirms Friday, not older Saturday listings.",
+    "availability": "GA selector present; checkout inventory not tested 18+. YEARN support is secondary only and not listed here.",
+    "id": "g42-1",
+    "groupId": "group-42",
+    "dates": [
+      "2026-11-13"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "total tommy",
+        "spotifyName": "total tommy",
+        "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc",
+        "trackUrl": "https://open.spotify.com/track/5tBH0kxlAw4abWdR8b14lX",
+        "trackName": "Losing Out",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "source": "Official sources checked 9 Nov 2026. https://tickets.oztix.com.au/outlet/event/db9c098b-ca46-40f0-be87-ae5be7dd1716?utm_medium=Website&utm_source=Oztix https://themusic.com.au/gigs/total-tommy-trapezoid-album-tour/78lvNNLBE-0 https://gigtea.com.au/gigs",
+    "rank": 24
+  },
+  {
+    "lineup": [
       "Inpha One",
       "Paint The Air",
       "Visor Guy"
@@ -956,9 +1203,9 @@ window.GIGS = [
     "availability": "Official event published; ticket inventory and entry conditions not independently verified.",
     "url": "https://deadsetdarlo.com.au/whats-on/-inpha-one.html",
     "fit": "Three original acts at Dead Set; a broader alternative option with doors confirmed and stage times unpublished.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://deadsetdarlo.com.au/whats-on/-inpha-one.html",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://deadsetdarlo.com.au/whats-on/-inpha-one.html",
     "id": "g20-1",
-    "rank": 20,
+    "rank": 25,
     "groupId": "group-20",
     "dates": [
       "2026-11-14"
@@ -987,6 +1234,74 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "Dune Rats",
+      "Mac The Knife",
+      "Lazy Ghost",
+      "Ah Honey",
+      "The Leedhams"
+    ],
+    "date": "2026-11-13",
+    "time": "19:00 advertised; sets unpublished",
+    "suburb": "Bondi Beach",
+    "price": "A$37.75 first release GA; additional fees not exposed",
+    "url": "https://tickets.oztix.com.au/outlet/event/6f0a6c8e-f3ad-44d7-9a18-d06e8774df45",
+    "venue": "Beach Road Hotel",
+    "style": "Garage punk / alternative rock",
+    "fit": "Energetic garage-punk headline set with a broad original-band supporting bill.",
+    "availability": "First release GA selector present; checkout inventory not tested 18+.",
+    "id": "g40-1",
+    "groupId": "group-40",
+    "dates": [
+      "2026-11-13"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Dune Rats",
+        "spotifyName": "Dune Rats",
+        "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04",
+        "trackUrl": "https://open.spotify.com/track/73F6UcA1ajjLKNlYoPw7TX",
+        "trackName": "Scott Green",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Mac The Knife",
+        "spotifyName": "Mac The Knife",
+        "url": "https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb",
+        "trackUrl": "https://open.spotify.com/track/2Jlb8RDEDuObHS224aQOIo",
+        "trackName": "Outside",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Lazy Ghost",
+        "spotifyName": "LAZY GHOST",
+        "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz",
+        "trackUrl": "https://open.spotify.com/track/5EpwwP7Eb6Fsne66d6BDDi",
+        "trackName": "Holy Moly, Rock n' Rolly, Guacamole",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Ah Honey",
+        "spotifyName": "Ah Honey",
+        "url": "https://open.spotify.com/artist/3hmEKx5Fx8WhVP5QZwz1Xu",
+        "trackUrl": "https://open.spotify.com/track/1KvmLcttm4JYRcmDqK28KU",
+        "trackName": "Chelsea",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "The Leedhams",
+        "spotifyName": "The Leedhams",
+        "url": "https://open.spotify.com/artist/0PhpH5Ju7WPENEIhY7a22A",
+        "trackUrl": "https://open.spotify.com/track/6FcS10fwyx4szkznzD7jvD",
+        "trackName": "Things I Can't Say",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "source": "Official sources checked 9 Nov 2026. https://trackspartytour.com.au/events/beach-road-bondi-sydney/ https://tickets.oztix.com.au/outlet/event/6f0a6c8e-f3ad-44d7-9a18-d06e8774df45",
+    "rank": 26
+  },
+  {
+    "lineup": [
       "Sega Jade",
       "Sydney Water"
     ],
@@ -998,9 +1313,9 @@ window.GIGS = [
     "availability": "$0 RSVP selectable; RSVP does not guarantee entry at capacity. 18+.",
     "url": "https://tickets.oztix.com.au/outlet/event/f6cebdff-61cf-40ac-a3dd-7ee3ab330fbd",
     "fit": "Local punk/rock with free RSVP at the Vic.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://tickets.oztix.com.au/outlet/event/f6cebdff-61cf-40ac-a3dd-7ee3ab330fbd",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://tickets.oztix.com.au/outlet/event/f6cebdff-61cf-40ac-a3dd-7ee3ab330fbd",
     "id": "g21-1",
-    "rank": 21,
+    "rank": 27,
     "groupId": "group-21",
     "dates": [
       "2026-11-14"
@@ -1023,6 +1338,38 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "Dirty Fences"
+    ],
+    "date": "2026-11-12",
+    "time": "19:30 advertised; sets unpublished",
+    "suburb": "Marrickville",
+    "price": "A$51 GA; additional fees not exposed",
+    "url": "https://tickets.oztix.com.au/outlet/event/22286d39-b92d-440f-a74f-7efb68e76fb1",
+    "venue": "Marrickville Bowling Club",
+    "style": "Punk / power pop",
+    "fit": "Fast, hook-led garage punk and power pop; supports withheld pending primary confirmation.",
+    "availability": "GA selector present; checkout inventory not tested 18+. Supports not primary-confirmed.",
+    "id": "g41-1",
+    "groupId": "group-41",
+    "dates": [
+      "2026-11-12"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Dirty Fences",
+        "spotifyName": "Dirty Fences",
+        "url": "https://open.spotify.com/artist/0OjAFTY1QoefdkbcKper7S",
+        "trackUrl": "https://open.spotify.com/track/36qXB3unTCFECNtyMmdJTe",
+        "trackName": "White Lies",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "source": "Official sources checked 9 Nov 2026. https://tickets.oztix.com.au/outlet/event/22286d39-b92d-440f-a74f-7efb68e76fb1 https://sydneymusic.net/gig-guide/venues/marrickville-bowling-club",
+    "rank": 28
+  },
+  {
+    "lineup": [
       "Journey of Ew",
       "Reset The Fire",
       "Humanoid"
@@ -1035,9 +1382,9 @@ window.GIGS = [
     "availability": "GA ticket selector present",
     "url": "https://events.humanitix.com/reset-my-fire-w-journey-of-ew-and-humanoid",
     "fit": "A Northern Beaches alternative/punk night in a small venue.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://events.humanitix.com/reset-my-fire-w-journey-of-ew-and-humanoid",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://events.humanitix.com/reset-my-fire-w-journey-of-ew-and-humanoid",
     "id": "g22-1",
-    "rank": 22,
+    "rank": 29,
     "groupId": "group-22",
     "dates": [
       "2026-11-14"
@@ -1074,12 +1421,12 @@ window.GIGS = [
     "venue": "Botany View Hotel",
     "suburb": "Newtown",
     "price": "A$24 listed; final fees unverified",
-    "availability": "Event published; individual ticket page cached before onsale, current availability unverified",
+    "availability": "General-admission selector offered; both supports confirmed. Checkout inventory not tested. 18+.",
     "url": "https://tickets.oztix.com.au/outlet/event/b9199617-d2d2-43e6-adaa-662bb8cb6ff0",
     "fit": "Psych and classic-rock riffs; a lighter, retro-leaning alternative.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://botanyviewhotel.oztix.com.au/ https://tickets.oztix.com.au/outlet/event/b9199617-d2d2-43e6-adaa-662bb8cb6ff0 Supports verified on current venue ticket index; individual old cache says special guests.",
+    "source": "Official venue/seller checked 9 Nov 2026; prior stale-page uncertainty resolved. https://botanyviewhotel.oztix.com.au/outlet/event/b9199617-d2d2-43e6-adaa-662bb8cb6ff0?Event=249893",
     "id": "g23-1",
-    "rank": 23,
+    "rank": 30,
     "groupId": "group-23",
     "dates": [
       "2026-11-13"
@@ -1120,9 +1467,9 @@ window.GIGS = [
     "availability": "$0 RSVP selectable; RSVP does not guarantee entry at capacity. 18+.",
     "url": "https://tickets.oztix.com.au/outlet/event/a7fa0f0f-e1fa-432f-a75f-c67413c708d9",
     "fit": "A local rock bill with free RSVP at the Vic.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://tickets.oztix.com.au/outlet/event/a7fa0f0f-e1fa-432f-a75f-c67413c708d9",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://tickets.oztix.com.au/outlet/event/a7fa0f0f-e1fa-432f-a75f-c67413c708d9",
     "id": "g24-1",
-    "rank": 24,
+    "rank": 31,
     "groupId": "group-24",
     "dates": [
       "2026-11-13"
@@ -1158,9 +1505,9 @@ window.GIGS = [
     "availability": "GA selectable 18+.",
     "url": "https://botanyviewhotel.oztix.com.au/outlet/event/d755a213-227f-445d-bfb8-c1a6cb2b3c39?Event=250109",
     "fit": "Three local rock acts at the Botany View.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://botanyviewhotel.oztix.com.au/outlet/event/d755a213-227f-445d-bfb8-c1a6cb2b3c39?Event=250109",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://botanyviewhotel.oztix.com.au/outlet/event/d755a213-227f-445d-bfb8-c1a6cb2b3c39?Event=250109",
     "id": "g25-1",
-    "rank": 25,
+    "rank": 32,
     "groupId": "group-25",
     "dates": [
       "2026-11-14"
@@ -1197,12 +1544,12 @@ window.GIGS = [
     "venue": "Hordern Pavilion",
     "suburb": "Moore Park",
     "price": "GA A$129.90 / A-reserve A$139.90 — Additional fees unverified",
-    "availability": "AXS ticket offer active; inventory not tested Licensed all ages.",
+    "availability": "Venue links AXS as the authorised seller; live inventory not verified. Licensed all ages.",
     "url": "https://www.axs.com/au/events/1559524/death-cab-for-cutie-tickets/promos/1184332",
     "fit": "The softer melodic indie alternative in this edition, supported by Acopia.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://thehordern.com.au/event/deathcab/ https://www.axs.com/au/events/1559524/death-cab-for-cutie-tickets/promos/1184332",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://thehordern.com.au/event/deathcab/ https://www.axs.com/au/events/1559524/death-cab-for-cutie-tickets/promos/1184332",
     "id": "g26-1",
-    "rank": 26,
+    "rank": 33,
     "groupId": "group-26",
     "dates": [
       "2026-11-12"
@@ -1226,6 +1573,147 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "Foo Fighters",
+      "The Belair Lip Bombs",
+      "TEENS"
+    ],
+    "date": "2026-11-10",
+    "time": "Gates 16:30; event starts 18:00; individual artist set times unannounced",
+    "venue": "Accor Stadium",
+    "suburb": "Sydney Olympic Park",
+    "price": "A$99.90–249.90 standard; premium options cost more; additional fees unverified",
+    "availability": "Official AXS ticket offer active; section inventory not checked. Licensed all ages; 14 and under with responsible adult. Public transport included; post-show T2/T5/T8 trackwork may affect the trip home.",
+    "url": "https://www.axs.com/au/events/1328119/foo-fighters-sydney-tickets",
+    "style": "Alternative rock",
+    "fit": "Broader stadium-rock alternative with melodic hooks, with the Sydney supports confirmed separately from Newcastle.",
+    "id": "g44-1",
+    "groupId": "group-44",
+    "dates": [
+      "2026-11-10"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Foo Fighters",
+        "spotifyName": "Foo Fighters",
+        "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD",
+        "trackUrl": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk",
+        "trackName": "Everlong",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "The Belair Lip Bombs",
+        "spotifyName": "The Belair Lip Bombs",
+        "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT",
+        "trackUrl": "https://open.spotify.com/track/2wtPOLm0mVbf1OfOimj2rp",
+        "trackName": "Hey You",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "TEENS",
+        "spotifyName": "Teens",
+        "url": "https://open.spotify.com/artist/1DG7Lmc2gOopdbi7Y3e94B",
+        "trackUrl": "https://open.spotify.com/track/7AFk8EgZVXTkFtYx0WUYib",
+        "trackName": "Shallow Grave",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "source": "Official sources checked 9 Nov 2026. https://www.frontiertouring.com/foofighters https://www.accorstadium.com.au/events/foo_fighters_take_cover https://www.axs.com/au/events/1328119/foo-fighters-sydney-tickets?utm_medium=event+page&utm_source=accor+stadium https://www.sydneyolympicpark.nsw.gov.au/things-to-see-and-do/foo-fighters",
+    "rank": 34
+  },
+  {
+    "lineup": [
+      "Druid Fluids",
+      "Magic Machine"
+    ],
+    "date": "2026-11-13",
+    "time": "21:00 listed ticket event time; individual sets unannounced",
+    "venue": "Marrickville Bowling Club",
+    "suburb": "Marrickville",
+    "price": "A$34.70; extra fees unverified",
+    "availability": "General-admission selector offered; checkout inventory not tested. 18+. Additional supports remain unannounced.",
+    "url": "https://tickets.oztix.com.au/outlet/event/f6975333-dba8-486b-9980-8657b94380bc",
+    "style": "Psychedelic / garage rock",
+    "fit": "Fuzzed-out psychedelic co-headline show, a broader guitar-led alternative.",
+    "id": "g36-1",
+    "groupId": "group-36",
+    "dates": [
+      "2026-11-13"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Druid Fluids",
+        "spotifyName": "Druid Fluids",
+        "url": "https://open.spotify.com/artist/3wiQPB394GZZ2l5jGA4QCw",
+        "trackUrl": "https://open.spotify.com/track/5h5Pb49E9NLfmtyBSR2tjG",
+        "trackName": "Needles In Strawberries",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Magic Machine",
+        "spotifyName": "Magic Machine",
+        "url": "https://open.spotify.com/artist/7o1V3fBZ3L39Gy6kx58SAH",
+        "trackUrl": "https://open.spotify.com/track/0GxrGCyBPDHqC4BaxJ7jVP",
+        "trackName": "Escapism",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "source": "Official sources checked 9 Nov 2026. https://tickets.oztix.com.au/outlet/event/f6975333-dba8-486b-9980-8657b94380bc",
+    "rank": 35
+  },
+  {
+    "lineup": [
+      "Loose Bricks",
+      "Kyle Charles Hall",
+      "Bronte Alva"
+    ],
+    "date": "2026-11-13",
+    "time": "19:00 advertised event time; individual sets unannounced",
+    "venue": "Burdekin Hotel",
+    "suburb": "Darlinghurst",
+    "price": "A$29.90; extra fees unverified",
+    "availability": "General-admission selector offered; checkout inventory not tested. 18+.",
+    "url": "https://burdekinlive.oztix.com.au/outlet/event/c68da252-c131-4656-84c4-9badf4f0d4bb?Event=246172",
+    "style": "Alternative / indie rock",
+    "fit": "Melodic guitar-led indie rock with both local supports confirmed.",
+    "id": "g37-1",
+    "groupId": "group-37",
+    "dates": [
+      "2026-11-13"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Loose Bricks",
+        "spotifyName": "Loose Bricks",
+        "url": "https://open.spotify.com/artist/7vW2iVnPlJhSspuRIsSEZy",
+        "trackUrl": "https://open.spotify.com/track/57dd4Bw0zPcO1MkkMdp86w",
+        "trackName": "Colourman",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Kyle Charles Hall",
+        "spotifyName": "KCH",
+        "url": "https://open.spotify.com/artist/46uWTUVuDzfIAfiLA8Xfgb",
+        "trackUrl": "https://open.spotify.com/track/6JNh1KRU7J2TNCf9Uv0MYL",
+        "trackName": "see i'm OK",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Bronte Alva",
+        "spotifyName": "Bronte Alva",
+        "url": "https://open.spotify.com/artist/0pOi3jQPLxu1ruQahY1Twm",
+        "trackUrl": "https://open.spotify.com/track/5kEyWXpQE5hYbqmKHhehkp",
+        "trackName": "Hey...",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "source": "Official sources checked 9 Nov 2026. https://burdekinlive.oztix.com.au/outlet/event/c68da252-c131-4656-84c4-9badf4f0d4bb?Event=246172",
+    "rank": 36
+  },
+  {
+    "lineup": [
       "Nana's Pie",
       "Cali Rd",
       "Citruss"
@@ -1238,9 +1726,9 @@ window.GIGS = [
     "availability": "$20 early bird exhausted; first/final release selectable 18+.",
     "url": "https://www.moshtix.com.au/v2/event/nanas-pie-till-the-morning-tour/200850",
     "fit": "Melodic indie rock at Bootleggers; a lighter alternative to the heavy bills.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.moshtix.com.au/v2/event/nanas-pie-till-the-morning-tour/200850",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/nanas-pie-till-the-morning-tour/200850",
     "id": "g27-1",
-    "rank": 27,
+    "rank": 37,
     "groupId": "group-27",
     "dates": [
       "2026-11-14"
@@ -1270,6 +1758,47 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "Telopia",
+      "Memory Motel"
+    ],
+    "date": "2026-11-13",
+    "time": "20:00 advertised event time; individual sets unannounced",
+    "venue": "OAF Gallery",
+    "suburb": "Darlinghurst",
+    "price": "Free entry",
+    "availability": "Official event advertises free entry; admission capacity and age conditions not independently verified.",
+    "url": "https://www.moshtix.com.au/v2/event/telopia-rocks-tooproud-double-single-launch-free-entry/201400",
+    "style": "Alternative / dream pop",
+    "fit": "A lighter free alternative: electronic-leaning band music with dream-pop support.",
+    "id": "g38-1",
+    "groupId": "group-38",
+    "dates": [
+      "2026-11-13"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Telopia",
+        "spotifyName": "Telopia",
+        "url": "https://open.spotify.com/artist/5iFfH77PLlezN7MSW4gGOk",
+        "trackUrl": "https://open.spotify.com/track/1ifJbh7qNzvEEQIjrfKCdc",
+        "trackName": "Rocks",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Memory Motel",
+        "spotifyName": "MEMORY MOTEL",
+        "url": "https://open.spotify.com/artist/3kdwmEU0YnsQtd0dny21Y5",
+        "trackUrl": "https://open.spotify.com/track/0QjoRYTJCq2sWsJy3DYch1",
+        "trackName": "Get It Together",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "source": "Official sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/telopia-rocks-tooproud-double-single-launch-free-entry/201400",
+    "rank": 38
+  },
+  {
+    "lineup": [
       "The Exile Co.",
       "Cheetah Beat",
       "Tilly Divine"
@@ -1282,9 +1811,9 @@ window.GIGS = [
     "availability": "Official event published; ticket inventory and entry conditions not independently verified.",
     "url": "https://www.mixtapebrewing.com.au/whatson",
     "fit": "Free local garage rock at Mixtape; music begins at 19:30.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.mixtapebrewing.com.au/whatson",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.mixtapebrewing.com.au/whatson",
     "id": "g28-1",
-    "rank": 28,
+    "rank": 39,
     "groupId": "group-28",
     "dates": [
       "2026-11-12"
@@ -1323,9 +1852,9 @@ window.GIGS = [
     "availability": "GA selection offered 18+.",
     "url": "https://moshtix.com.au/v2/event/the-reverend-horton-heat-australian-tour-2026/193973",
     "fit": "Psychobilly and cowpunk: a broader rock fallback rather than a close metalcore match.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.factorytheatre.com.au/event/reverend-horton-heat/ https://moshtix.com.au/v2/event/the-reverend-horton-heat-australian-tour-2026/193973 Venue prose also confirms Pat Capocci opens, but running-times section omits his time. Do not invent.",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.factorytheatre.com.au/event/reverend-horton-heat/ https://moshtix.com.au/v2/event/the-reverend-horton-heat-australian-tour-2026/193973 Venue prose also confirms Pat Capocci opens, but running-times section omits his time. Do not invent.",
     "id": "g29-1",
-    "rank": 29,
+    "rank": 40,
     "groupId": "group-29",
     "dates": [
       "2026-11-13"
@@ -1366,9 +1895,9 @@ window.GIGS = [
     "availability": "Ticket selector present; no sold-out label on ticket type",
     "url": "https://events.humanitix.com/suburban-bukowskis-the-s-ft-f-cus",
     "fit": "Broader local garage/alternative discovery at the Gasoline Pony.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://events.humanitix.com/suburban-bukowskis-the-s-ft-f-cus",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://events.humanitix.com/suburban-bukowskis-the-s-ft-f-cus",
     "id": "g30-1",
-    "rank": 30,
+    "rank": 41,
     "groupId": "group-30",
     "dates": [
       "2026-11-12"
@@ -1403,9 +1932,9 @@ window.GIGS = [
     "availability": "Official event published; ticket inventory and entry conditions not independently verified.",
     "url": "https://www.goldenbarleyhotel.com.au/",
     "fit": "Pub-rock/country-leaning local option, lower in heavy-music fit.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.goldenbarleyhotel.com.au/",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.goldenbarleyhotel.com.au/",
     "id": "g31-1",
-    "rank": 31,
+    "rank": 42,
     "groupId": "group-31",
     "dates": [
       "2026-11-13"
@@ -1439,9 +1968,9 @@ window.GIGS = [
     "availability": "Official event published; ticket inventory and entry conditions not independently verified.",
     "url": "https://www.7thdaybrewery.com.au/gigs",
     "fit": "Brookvale alternative option; only the venue-confirmed headliner is included. Time, price and supports are unconfirmed.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.7thdaybrewery.com.au/gigs Official venue confirms date/headliner; secondary support, time and price claims withheld.",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.7thdaybrewery.com.au/gigs Official venue confirms date/headliner; secondary support, time and price claims withheld.",
     "id": "g32-1",
-    "rank": 32,
+    "rank": 43,
     "groupId": "group-32",
     "dates": [
       "2026-11-14"
@@ -1469,9 +1998,9 @@ window.GIGS = [
     "availability": "Official event published; ticket inventory and entry conditions not independently verified.",
     "url": "https://www.goldenbarleyhotel.com.au/",
     "fit": "Local alternative option. Unverified support claims are withheld.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://www.goldenbarleyhotel.com.au/ The Clean Break support appears only in secondary sources and is withheld.",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.goldenbarleyhotel.com.au/ The Clean Break support appears only in secondary sources and is withheld.",
     "id": "g33-1",
-    "rank": 33,
+    "rank": 44,
     "groupId": "group-33",
     "dates": [
       "2026-11-14"

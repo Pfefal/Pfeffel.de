@@ -397,5 +397,18 @@
     "license": "ODbL 1.0",
     "attribution": "© OpenStreetMap contributors",
     "coordinateBasis": "Main Room shares the verified Oxford Art Factory building point with Gallery Bar."
+  },
+  "Powerhouse Parramatta": {
+    "point": {
+      "lat": -33.81213188865956,
+      "lon": 151.00608229637146,
+      "source": "https://powerhouse.com.au/visit/parramatta",
+      "accuracy": "Approximate venue/property point published by venue; not an entrance or navigation survey"
+    },
+    "matchedName": "Powerhouse Parramatta, 34 Phillip St (1 Danyamada Place), Parramatta NSW 2150",
+    "verified": "2026-11-09",
+    "coordinateBasis": "Official venue page contains map block geopoint lat -33.81213188865956, lng 151.00608229637146. Venue-linked exact Google place point is -33.8120517, 151.0061138 (not viewport centre), corroborating the property.",
+    "license": "Factual public venue-published point; not OSM-derived",
+    "attribution": "Powerhouse published location fact; no map imagery, site design or code copied"
   }
 }
