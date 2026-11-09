@@ -1,4 +1,4 @@
-/* Official-source snapshot reviewed 9 November 2026, Australia/Sydney. Per-show notes retain evidence dates and limitations. */
+/* Official-source snapshot reviewed 10 November 2026, Australia/Sydney. Per-show notes retain evidence dates and limitations. */
 window.GIGS = [
   {
     "lineup": [
@@ -144,7 +144,7 @@ window.GIGS = [
     "availability": "GA selectable 18+.",
     "url": "https://moshtix.com.au/v2/event/flow-kobra-bootleggers-w-all-regards-akira-slide-face-the-martyr/200697",
     "fit": "Heavy local alternative bill with All Regards, Akira Slide and Face The Martyr; an intimate counterweight to the larger tours.",
-    "source": "Official venue/ticket sources checked 9 Nov 2026. https://moshtix.com.au/v2/event/flow-kobra-bootleggers-w-all-regards-akira-slide-face-the-martyr/200697",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://moshtix.com.au/v2/event/flow-kobra-bootleggers-w-all-regards-akira-slide-face-the-martyr/200697 Spotify artist identity and representative track verified 10 Nov 2026.",
     "id": "g04-1",
     "rank": 4,
     "groupId": "group-04",
@@ -173,8 +173,9 @@ window.GIGS = [
       },
       {
         "name": "Face The Martyr",
-        "url": null,
-        "status": "No unambiguously verified Spotify recording; no namesake substituted"
+        "url": "https://open.spotify.com/artist/6IWWlJnTgXXVoneqoUG6pn",
+        "trackUrl": "https://open.spotify.com/track/4NQm4wirJTrp8drQ8Nw8rt",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
       }
     ],
     "calendarAvailable": false
@@ -896,12 +897,12 @@ window.GIGS = [
     "date": "2026-11-12",
     "time": "19:30 advertised",
     "venue": "MoshPit",
-    "suburb": "Newtown",
+    "suburb": "Erskineville",
     "price": "A$15.29 including GST/service fees",
     "availability": "GA selectable 18+.",
     "url": "https://www.moshtix.com.au/v2/event/steel-assassins-warm-up-show-w-rawtism-pestilent-doom-heathenspawn-shatterf/201008",
     "fit": "A small-room warm-up for Steel Assassins, featuring four metal acts.",
-    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/steel-assassins-warm-up-show-w-rawtism-pestilent-doom-heathenspawn-shatterf/201008",
+    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/steel-assassins-warm-up-show-w-rawtism-pestilent-doom-heathenspawn-shatterf/201008 Venue suburb confirmed 10 Nov 2026 at https://www.moshpitbar.com.au/ .",
     "id": "g17-1",
     "rank": 18,
     "groupId": "group-17",
@@ -1073,10 +1074,10 @@ window.GIGS = [
     "venue": "Marrickville Bowling Club",
     "suburb": "Marrickville",
     "price": "A$44.90 listed; final fees unverified",
-    "availability": "Previous check offered GA tickets; current primary page unavailable on 9 Nov, so availability is unverified. 18+.",
+    "availability": "GA ticket selector offered; checkout inventory not tested. 18+.",
     "url": "https://tickets.oztix.com.au/outlet/event/cc5ae436-5b9f-4551-9342-2868d119e9b3",
     "fit": "Melodic punk and stoner-fuzz support bands at the Marrickville Bowlo.",
-    "source": "Official venue/ticket sources checked 8 Nov 2026. https://tickets.oztix.com.au/outlet/event/cc5ae436-5b9f-4551-9342-2868d119e9b3 Refresh attempted 9 Nov; primary page unavailable, previous 8 Nov evidence retained.",
+    "source": "Official seller rechecked 10 Nov 2026. https://tickets.oztix.com.au/outlet/event/cc5ae436-5b9f-4551-9342-2868d119e9b3 Date, lineup, advertised time and A$44.90 GA reconfirmed; earlier access failure resolved.",
     "id": "g19-1",
     "rank": 22,
     "groupId": "group-19",
@@ -1118,14 +1119,14 @@ window.GIGS = [
       "So I Says To Mabel"
     ],
     "date": "2026-11-13",
-    "time": "19:00 per SydneyMusic; primary artist page does not state time",
+    "time": "19:30 advertised on official weekly venue poster; individual sets unpublished",
     "suburb": "Erskineville",
-    "price": "A$15 artist-confirmed; door-sales-only per SydneyMusic",
+    "price": "A$15 artist- and venue-poster-confirmed; door-only sales remain a secondary report.",
     "url": "https://www.stevetowson.com/gigs.html",
     "venue": "MoshPit",
     "style": "Punk / hard rock",
     "fit": "Raw punk and hard-rock bill with both supports artist-confirmed.",
-    "availability": "Artist confirms date, venue, lineup and A$15 admission; 19:00 and door-only sales are secondary reports. Age conditions unverified.",
+    "availability": "Official venue and artist confirm date, lineup and A$15 admission. Venue is 18+ only; ticket inventory not verified.",
     "id": "g39-1",
     "groupId": "group-39",
     "dates": [
@@ -1154,7 +1155,7 @@ window.GIGS = [
         "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
       }
     ],
-    "source": "Official sources checked 9 Nov 2026. https://www.stevetowson.com/gigs.html https://sydneymusic.net/gig-guide/venues/moshpit-bar",
+    "source": "Official artist and venue posters checked 10 Nov 2026. https://www.stevetowson.com/gigs.html https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/e806e297-b2bd-4b22-a143-7772c13feae3/261115%2BMP%2BGig%2BGuide_edited.jpg https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/38655790-477f-4f17-9ace-1d6f4028580b/13.11.26.jpg",
     "rank": 23
   },
   {
@@ -1243,12 +1244,12 @@ window.GIGS = [
     "date": "2026-11-13",
     "time": "19:00 advertised; sets unpublished",
     "suburb": "Bondi Beach",
-    "price": "A$37.75 first release GA; additional fees not exposed",
+    "price": "A$53.05 final release GA; additional fees not exposed",
     "url": "https://tickets.oztix.com.au/outlet/event/6f0a6c8e-f3ad-44d7-9a18-d06e8774df45",
     "venue": "Beach Road Hotel",
     "style": "Garage punk / alternative rock",
     "fit": "Energetic garage-punk headline set with a broad original-band supporting bill.",
-    "availability": "First release GA selector present; checkout inventory not tested 18+.",
+    "availability": "First release exhausted; final release GA selector present. Checkout inventory not tested. 18+.",
     "id": "g40-1",
     "groupId": "group-40",
     "dates": [
@@ -1297,7 +1298,7 @@ window.GIGS = [
         "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
       }
     ],
-    "source": "Official sources checked 9 Nov 2026. https://trackspartytour.com.au/events/beach-road-bondi-sydney/ https://tickets.oztix.com.au/outlet/event/6f0a6c8e-f3ad-44d7-9a18-d06e8774df45",
+    "source": "Official seller checked 10 Nov 2026. https://tickets.oztix.com.au/outlet/event/6f0a6c8e-f3ad-44d7-9a18-d06e8774df45",
     "rank": 26
   },
   {
@@ -1958,7 +1959,9 @@ window.GIGS = [
   },
   {
     "lineup": [
-      "Glass Media"
+      "Glass Media",
+      "RegiKay",
+      "The Smashed Avocados"
     ],
     "date": "2026-11-14",
     "time": "Time unconfirmed",
@@ -1967,8 +1970,8 @@ window.GIGS = [
     "price": "Price unconfirmed",
     "availability": "Official event published; ticket inventory and entry conditions not independently verified.",
     "url": "https://www.7thdaybrewery.com.au/gigs",
-    "fit": "Brookvale alternative option; only the venue-confirmed headliner is included. Time, price and supports are unconfirmed.",
-    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.7thdaybrewery.com.au/gigs Official venue confirms date/headliner; secondary support, time and price claims withheld.",
+    "fit": "Brookvale alternative-rock option with RegiKay and The Smashed Avocados confirmed on the venue poster. DJ Pat Taylor is also advertised; time and admission price remain unconfirmed.",
+    "source": "Official venue text and linked November poster checked 10 Nov 2026. https://www.7thdaybrewery.com.au/gigs https://static.wixstatic.com/media/b30c24_cc9ee36a5d4b4c8f9877d7fa27f7c118~mv2.png Time and free-entry claims remain secondary-only; not asserted here.",
     "id": "g32-1",
     "rank": 43,
     "groupId": "group-32",
@@ -1982,13 +1985,26 @@ window.GIGS = [
         "url": "https://open.spotify.com/artist/3zyifnbwdV1WrVYJ9ibm5I",
         "trackUrl": "https://open.spotify.com/track/1nwYI6sJS6r741WItdflO6",
         "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "RegiKay",
+        "url": "https://open.spotify.com/artist/60ySaVk2w2HA2LxNqycNnZ",
+        "trackUrl": "https://open.spotify.com/track/3DAZWYCooqDeAw4s4rczzz",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "The Smashed Avocados",
+        "url": "https://open.spotify.com/artist/54sgzqeGGYyio23IYX9RZr",
+        "trackUrl": "https://open.spotify.com/track/5emZ7x5W8PyQXEgPzpbYGX",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
       }
     ],
     "calendarAvailable": false
   },
   {
     "lineup": [
-      "Queen Juno"
+      "Queen Juno",
+      "The Clean Break"
     ],
     "date": "2026-11-14",
     "time": "20:00 venue listing",
@@ -1997,8 +2013,8 @@ window.GIGS = [
     "price": "Price unconfirmed — official source does not state admission price.",
     "availability": "Official event published; ticket inventory and entry conditions not independently verified.",
     "url": "https://www.goldenbarleyhotel.com.au/",
-    "fit": "Local alternative option. Unverified support claims are withheld.",
-    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.goldenbarleyhotel.com.au/ The Clean Break support appears only in secondary sources and is withheld.",
+    "fit": "Local alternative-rock option with The Clean Break confirmed on the venue poster.",
+    "source": "Official venue and linked poster checked 10 Nov 2026. https://www.goldenbarleyhotel.com.au/ https://images.squarespace-cdn.com/content/v1/691bdb7f5f7ee703b6488a58/412bfb75-ab01-4734-b2b8-e290808097b4/Queen%2BJuno_%2BGolden%2BBarley%2BGig%2BPoster.png The Clean Break Spotify recording remains unverified.",
     "id": "g33-1",
     "rank": 44,
     "groupId": "group-33",
@@ -2011,6 +2027,138 @@ window.GIGS = [
         "name": "Queen Juno",
         "url": "https://open.spotify.com/artist/5JiAcuJjIuQ85FDByVc5uw",
         "trackUrl": "https://open.spotify.com/track/6bgZMwTXPH9E9o7bVqEXvq",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "The Clean Break",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      }
+    ],
+    "calendarAvailable": false
+  },
+  {
+    "lineup": [
+      "The Paper Crown",
+      "Rudy Meant",
+      "Fantasy Grade Stink"
+    ],
+    "date": "2026-11-10",
+    "time": "19:00 advertised; individual sets unpublished",
+    "venue": "MoshPit",
+    "suburb": "Erskineville",
+    "price": "Free entry",
+    "availability": "Official venue poster confirms bill. 18+ only; entry capacity and ticket inventory unverified.",
+    "url": "https://www.moshpitbar.com.au/",
+    "fit": "Free midweek guitar bill; Rudy Meant brings indie, grunge and punk. Additional guests are advertised but unnamed. Broader fit than the featured heavy bills.",
+    "source": "Official venue weekly poster checked 10 Nov 2026. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/e806e297-b2bd-4b22-a143-7772c13feae3/261115%2BMP%2BGig%2BGuide_edited.jpg",
+    "id": "g45-1",
+    "rank": 45,
+    "groupId": "group-45",
+    "dates": [
+      "2026-11-10"
+    ],
+    "style": "Indie / grunge / punk rock",
+    "artists": [
+      {
+        "name": "The Paper Crown",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      },
+      {
+        "name": "Rudy Meant",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      },
+      {
+        "name": "Fantasy Grade Stink",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      }
+    ],
+    "calendarAvailable": false
+  },
+  {
+    "lineup": [
+      "Wild Ginger",
+      "Doll Parts",
+      "The Cunning Linguists"
+    ],
+    "date": "2026-11-14",
+    "time": "14:30 weekly venue poster / 15:00 individual poster; recheck before going, doors and sets not separated",
+    "venue": "MoshPit",
+    "suburb": "Erskineville",
+    "price": "Price unconfirmed",
+    "availability": "Official venue poster confirms bill. 18+ only; entry capacity and ticket inventory unverified.",
+    "url": "https://www.moshpitbar.com.au/",
+    "fit": "Afternoon local-rock alternative. Wild Ginger mixes originals and female-rock covers; advertised time conflicts are unresolved.",
+    "source": "Official venue weekly poster checked 10 Nov 2026. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/e806e297-b2bd-4b22-a143-7772c13feae3/261115%2BMP%2BGig%2BGuide_edited.jpg Individual poster: https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/3e24b34f-34f1-4751-808c-321c2aec0732/14.11.26%2BArvo.jpg Poster links https://www.stickytickets.com.au/RB2CRU ; seller could not be independently retrieved.",
+    "id": "g46-1",
+    "rank": 46,
+    "groupId": "group-46",
+    "dates": [
+      "2026-11-14"
+    ],
+    "style": "Rock",
+    "artists": [
+      {
+        "name": "Wild Ginger",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      },
+      {
+        "name": "Doll Parts",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      },
+      {
+        "name": "The Cunning Linguists",
+        "url": "https://open.spotify.com/artist/2BGVLqYwSvx46qhOkYAYbV",
+        "trackUrl": "https://open.spotify.com/track/1LJgT5AiFnGA8O12Owurdd",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "calendarAvailable": false
+  },
+  {
+    "lineup": [
+      "Gostwyck",
+      "Solomon Steele",
+      "Gracie Jean"
+    ],
+    "date": "2026-11-15",
+    "time": "15:30 advertised; individual sets unpublished",
+    "venue": "MoshPit",
+    "suburb": "Erskineville",
+    "price": "Price unconfirmed",
+    "availability": "Official venue poster confirms bill. 18+ only; entry capacity and ticket inventory unverified.",
+    "url": "https://www.moshpitbar.com.au/",
+    "fit": "Lower-ranked Sunday guitar option led by Gostwyck, whose artist profile cites The Cure, The War on Drugs and Gang of Youths.",
+    "source": "Official venue weekly poster checked 10 Nov 2026. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/e806e297-b2bd-4b22-a143-7772c13feae3/261115%2BMP%2BGig%2BGuide_edited.jpg",
+    "id": "g47-1",
+    "rank": 47,
+    "groupId": "group-47",
+    "dates": [
+      "2026-11-15"
+    ],
+    "style": "Indie rock / alternative",
+    "artists": [
+      {
+        "name": "Gostwyck",
+        "url": "https://open.spotify.com/artist/44ojpfciEPUhwx0faXW0W6",
+        "trackUrl": "https://open.spotify.com/track/1WHSNANCu6dU9HoueWxPon",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Solomon Steele",
+        "url": "https://open.spotify.com/artist/73ZRSRbIsBpyMODmJKzTaP",
+        "trackUrl": "https://open.spotify.com/track/4pXJfRMcwJbDfkN1cpc1nq",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Gracie Jean",
+        "url": "https://open.spotify.com/artist/696SigfMbbMWWtWWdihhao",
+        "trackUrl": "https://open.spotify.com/track/5jrGTn1JDV7AH6sWB4W4Iz",
         "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
       }
     ],

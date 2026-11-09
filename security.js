@@ -1,7 +1,7 @@
 /* Original, dependency-free validation for the locally maintained gig snapshot. */
 (function (root) {
   'use strict';
-  const hosts = new Set(["aucentury.sales.ticketsearch.com", "botanyviewhotel.oztix.com.au", "burdekinlive.oztix.com.au", "crowbarsyd.oztix.com.au", "deadsetdarlo.com.au", "events.humanitix.com", "moshtix.com.au", "open.spotify.com", "powerhouse.com.au", "premier.ticketek.com.au", "tattersallshotel.oztix.com.au", "tickets.oztix.com.au", "www.7thdaybrewery.com.au", "www.axs.com", "www.cityrecitalhall.com", "www.enmoretheatre.com.au", "www.eventbrite.com", "www.factorytheatre.com.au", "www.goldenbarleyhotel.com.au", "www.google.com", "www.instagram.com", "www.metrotheatre.com.au", "www.mixtapebrewing.com.au", "www.moshtix.com.au", "www.oddculture.group", "www.stickytickets.com.au", "www.stevetowson.com", "www.ticketmaster.com.au"]);
+  const hosts = new Set(["aucentury.sales.ticketsearch.com", "botanyviewhotel.oztix.com.au", "burdekinlive.oztix.com.au", "crowbarsyd.oztix.com.au", "deadsetdarlo.com.au", "events.humanitix.com", "moshtix.com.au", "open.spotify.com", "powerhouse.com.au", "premier.ticketek.com.au", "tattersallshotel.oztix.com.au", "tickets.oztix.com.au", "www.7thdaybrewery.com.au", "www.axs.com", "www.cityrecitalhall.com", "www.enmoretheatre.com.au", "www.eventbrite.com", "www.factorytheatre.com.au", "www.goldenbarleyhotel.com.au", "www.google.com", "www.instagram.com", "www.metrotheatre.com.au", "www.mixtapebrewing.com.au", "www.moshtix.com.au", "www.moshpitbar.com.au", "www.oddculture.group", "www.stickytickets.com.au", "www.stevetowson.com", "www.ticketmaster.com.au"]);
   function safeExternalURL(value) {
     if (typeof value !== 'string' || value.length > 2048 || /[\u0000-\u0020\u007f]/.test(value)) return null;
     try { const u = new URL(value); return u.protocol === 'https:' && !u.username && !u.password && !u.port && hosts.has(u.hostname) ? u.href : null; } catch { return null; }
@@ -22,4 +22,5 @@
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   else root.GIG_SECURITY = api;
 })(typeof window !== 'undefined' ? window : globalThis);
+
 
