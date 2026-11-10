@@ -1,4 +1,4 @@
-/* Official-source snapshot reviewed 10 November 2026, Australia/Sydney. Per-show notes retain evidence dates and limitations. */
+/* Official-source snapshot reviewed 11 November 2026, Australia/Sydney. Per-show notes retain evidence dates and limitations. */
 window.GIGS = [
   {
     "lineup": [
@@ -1192,6 +1192,49 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "Local Tough Guy",
+      "Motion Sickness",
+      "Mouse Trap"
+    ],
+    "date": "2026-11-13",
+    "time": "19:00–22:00 event window; individual sets unannounced",
+    "venue": "Gifts Of Mercy Emporium",
+    "suburb": "Petersham",
+    "price": "Price unconfirmed; seller does not expose price or fees",
+    "availability": "Official seller lists all ages; no drugs or alcohol. Inventory unverified.",
+    "url": "https://www.eventbrite.com/e/local-tough-guy-motion-sickness-mouse-trap-gifts-of-mercy-emporium-tickets-2002513612120",
+    "style": "Shoegaze / noise / alternative rock",
+    "fit": "Small-room Sydney shoegaze/noise discovery with Motion Sickness and Mouse Trap. Broader atmospheric fit rather than metalcore.",
+    "source": "Official seller checked 11 Nov 2026: https://www.eventbrite.com/e/local-tough-guy-motion-sickness-mouse-trap-gifts-of-mercy-emporium-tickets-2002513612120 Current page repeats Friday 13 November, 19:00–22:00; stale search result says 14 November. Venue address: 452 Parramatta Road, Petersham. Genre and exact Sydney artist: https://localtoughguy.bandcamp.com/album/iloveyougoodnight https://www.abc.net.au/triplejunearthed/artist/local-tough-guy/",
+    "id": "g48-1",
+    "groupId": "group-48",
+    "dates": [
+      "2026-11-13"
+    ],
+    "artists": [
+      {
+        "name": "Local Tough Guy",
+        "url": "https://open.spotify.com/artist/6hoHZyZeAtfCC9dEnBjkN9",
+        "trackUrl": "https://open.spotify.com/track/24sqUv2qWlgTJ3IycOunIr",
+        "trackName": "otica was everywhere",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Motion Sickness",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      },
+      {
+        "name": "Mouse Trap",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      }
+    ],
+    "calendarAvailable": false,
+    "rank": 25
+  },
+  {
+    "lineup": [
       "Inpha One",
       "Paint The Air",
       "Visor Guy"
@@ -1206,7 +1249,7 @@ window.GIGS = [
     "fit": "Three original acts at Dead Set; a broader alternative option with doors confirmed and stage times unpublished.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://deadsetdarlo.com.au/whats-on/-inpha-one.html",
     "id": "g20-1",
-    "rank": 25,
+    "rank": 26,
     "groupId": "group-20",
     "dates": [
       "2026-11-14"
@@ -1299,7 +1342,7 @@ window.GIGS = [
       }
     ],
     "source": "Official seller checked 10 Nov 2026. https://tickets.oztix.com.au/outlet/event/6f0a6c8e-f3ad-44d7-9a18-d06e8774df45",
-    "rank": 26
+    "rank": 27
   },
   {
     "lineup": [
@@ -1316,7 +1359,7 @@ window.GIGS = [
     "fit": "Local punk/rock with free RSVP at the Vic.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://tickets.oztix.com.au/outlet/event/f6cebdff-61cf-40ac-a3dd-7ee3ab330fbd",
     "id": "g21-1",
-    "rank": 27,
+    "rank": 28,
     "groupId": "group-21",
     "dates": [
       "2026-11-14"
@@ -1367,7 +1410,7 @@ window.GIGS = [
       }
     ],
     "source": "Official sources checked 9 Nov 2026. https://tickets.oztix.com.au/outlet/event/22286d39-b92d-440f-a74f-7efb68e76fb1 https://sydneymusic.net/gig-guide/venues/marrickville-bowling-club",
-    "rank": 28
+    "rank": 29
   },
   {
     "lineup": [
@@ -1385,7 +1428,7 @@ window.GIGS = [
     "fit": "A Northern Beaches alternative/punk night in a small venue.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://events.humanitix.com/reset-my-fire-w-journey-of-ew-and-humanoid",
     "id": "g22-1",
-    "rank": 29,
+    "rank": 30,
     "groupId": "group-22",
     "dates": [
       "2026-11-14"
@@ -1427,7 +1470,7 @@ window.GIGS = [
     "fit": "Psych and classic-rock riffs; a lighter, retro-leaning alternative.",
     "source": "Official venue/seller checked 9 Nov 2026; prior stale-page uncertainty resolved. https://botanyviewhotel.oztix.com.au/outlet/event/b9199617-d2d2-43e6-adaa-662bb8cb6ff0?Event=249893",
     "id": "g23-1",
-    "rank": 30,
+    "rank": 31,
     "groupId": "group-23",
     "dates": [
       "2026-11-13"
@@ -1470,7 +1513,7 @@ window.GIGS = [
     "fit": "A local rock bill with free RSVP at the Vic.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://tickets.oztix.com.au/outlet/event/a7fa0f0f-e1fa-432f-a75f-c67413c708d9",
     "id": "g24-1",
-    "rank": 31,
+    "rank": 32,
     "groupId": "group-24",
     "dates": [
       "2026-11-13"
@@ -1508,7 +1551,7 @@ window.GIGS = [
     "fit": "Three local rock acts at the Botany View.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://botanyviewhotel.oztix.com.au/outlet/event/d755a213-227f-445d-bfb8-c1a6cb2b3c39?Event=250109",
     "id": "g25-1",
-    "rank": 32,
+    "rank": 33,
     "groupId": "group-25",
     "dates": [
       "2026-11-14"
@@ -1550,7 +1593,7 @@ window.GIGS = [
     "fit": "The softer melodic indie alternative in this edition, supported by Acopia.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://thehordern.com.au/event/deathcab/ https://www.axs.com/au/events/1559524/death-cab-for-cutie-tickets/promos/1184332",
     "id": "g26-1",
-    "rank": 33,
+    "rank": 34,
     "groupId": "group-26",
     "dates": [
       "2026-11-12"
@@ -1620,7 +1663,7 @@ window.GIGS = [
       }
     ],
     "source": "Official sources checked 9 Nov 2026. https://www.frontiertouring.com/foofighters https://www.accorstadium.com.au/events/foo_fighters_take_cover https://www.axs.com/au/events/1328119/foo-fighters-sydney-tickets?utm_medium=event+page&utm_source=accor+stadium https://www.sydneyolympicpark.nsw.gov.au/things-to-see-and-do/foo-fighters",
-    "rank": 34
+    "rank": 35
   },
   {
     "lineup": [
@@ -1661,7 +1704,7 @@ window.GIGS = [
       }
     ],
     "source": "Official sources checked 9 Nov 2026. https://tickets.oztix.com.au/outlet/event/f6975333-dba8-486b-9980-8657b94380bc",
-    "rank": 35
+    "rank": 36
   },
   {
     "lineup": [
@@ -1711,7 +1754,38 @@ window.GIGS = [
       }
     ],
     "source": "Official sources checked 9 Nov 2026. https://burdekinlive.oztix.com.au/outlet/event/c68da252-c131-4656-84c4-9badf4f0d4bb?Event=246172",
-    "rank": 36
+    "rank": 37
+  },
+  {
+    "lineup": [
+      "The Tullamarines"
+    ],
+    "date": "2026-11-13",
+    "time": "19:00 advertised; doors and sets not separately confirmed",
+    "venue": "The Lansdowne Hotel",
+    "suburb": "Chippendale",
+    "price": "A$30 incl GST/service fees + A$2.95/order; single ticket total A$32.95",
+    "availability": "GA allocation exhausted. 18+. Supports unannounced in checked seller page.",
+    "url": "https://www.moshtix.com.au/v2/event/the-tullamarines-2026-tour/199368",
+    "style": "Indie rock / pop",
+    "fit": "Lighter indie-rock option from Adelaide; outside the featured heavy selection and currently exhausted.",
+    "source": "Official seller checked 11 Nov 2026. https://www.moshtix.com.au/v2/event/the-tullamarines-2026-tour/199368",
+    "id": "g49-1",
+    "groupId": "group-49",
+    "dates": [
+      "2026-11-13"
+    ],
+    "artists": [
+      {
+        "name": "The Tullamarines",
+        "url": "https://open.spotify.com/artist/4XD21vbRKQgevcDpWaDRw5",
+        "trackUrl": "https://open.spotify.com/track/0XiJyhqf5EpBkCXydRUBdk",
+        "trackName": "Flight Path",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      }
+    ],
+    "calendarAvailable": false,
+    "rank": 38
   },
   {
     "lineup": [
@@ -1729,7 +1803,7 @@ window.GIGS = [
     "fit": "Melodic indie rock at Bootleggers; a lighter alternative to the heavy bills.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/nanas-pie-till-the-morning-tour/200850",
     "id": "g27-1",
-    "rank": 37,
+    "rank": 39,
     "groupId": "group-27",
     "dates": [
       "2026-11-14"
@@ -1756,6 +1830,47 @@ window.GIGS = [
       }
     ],
     "calendarAvailable": false
+  },
+  {
+    "lineup": [
+      "Congette",
+      "The Low Dogs",
+      "The Money"
+    ],
+    "date": "2026-11-11",
+    "time": "Doors/restaurant 18:00; event header 19:00; bands from 19:30; individual sets unannounced",
+    "venue": "Lazybones Lounge",
+    "suburb": "Marrickville",
+    "price": "A$22.13 incl GST/service fees + A$1.10/order; single ticket total A$23.23",
+    "availability": "GA selector shown in retrieved seller page; online sales close 19:00 on 11 Nov. Checkout inventory unverified. Venue permits under-18s with a responsible adult.",
+    "url": "https://www.moshtix.com.au/v2/event/congette-the-low-dogs-the-money/201100",
+    "style": "Alternative / indie / punk rock",
+    "fit": "Midweek alternative guitar bill: Congette plus Central Coast punk band The Low Dogs and new-wave/pop support The Money.",
+    "source": "Official seller and venue checked 11 Nov 2026. https://www.moshtix.com.au/v2/event/congette-the-low-dogs-the-money/201100 https://lazyboneslounge.com.au/gigs/ Seller crawl was two days old; selector is not a guarantee of live inventory.",
+    "id": "g50-1",
+    "groupId": "group-50",
+    "dates": [
+      "2026-11-11"
+    ],
+    "artists": [
+      {
+        "name": "Congette",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      },
+      {
+        "name": "The Low Dogs",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      },
+      {
+        "name": "The Money",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      }
+    ],
+    "calendarAvailable": false,
+    "rank": 40
   },
   {
     "lineup": [
@@ -1796,7 +1911,7 @@ window.GIGS = [
       }
     ],
     "source": "Official sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/telopia-rocks-tooproud-double-single-launch-free-entry/201400",
-    "rank": 38
+    "rank": 41
   },
   {
     "lineup": [
@@ -1814,7 +1929,7 @@ window.GIGS = [
     "fit": "Free local garage rock at Mixtape; music begins at 19:30.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.mixtapebrewing.com.au/whatson",
     "id": "g28-1",
-    "rank": 39,
+    "rank": 42,
     "groupId": "group-28",
     "dates": [
       "2026-11-12"
@@ -1855,7 +1970,7 @@ window.GIGS = [
     "fit": "Psychobilly and cowpunk: a broader rock fallback rather than a close metalcore match.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.factorytheatre.com.au/event/reverend-horton-heat/ https://moshtix.com.au/v2/event/the-reverend-horton-heat-australian-tour-2026/193973 Venue prose also confirms Pat Capocci opens, but running-times section omits his time. Do not invent.",
     "id": "g29-1",
-    "rank": 40,
+    "rank": 43,
     "groupId": "group-29",
     "dates": [
       "2026-11-13"
@@ -1898,7 +2013,7 @@ window.GIGS = [
     "fit": "Broader local garage/alternative discovery at the Gasoline Pony.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://events.humanitix.com/suburban-bukowskis-the-s-ft-f-cus",
     "id": "g30-1",
-    "rank": 41,
+    "rank": 44,
     "groupId": "group-30",
     "dates": [
       "2026-11-12"
@@ -1935,7 +2050,7 @@ window.GIGS = [
     "fit": "Pub-rock/country-leaning local option, lower in heavy-music fit.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.goldenbarleyhotel.com.au/",
     "id": "g31-1",
-    "rank": 42,
+    "rank": 45,
     "groupId": "group-31",
     "dates": [
       "2026-11-13"
@@ -1967,13 +2082,13 @@ window.GIGS = [
     "time": "Time unconfirmed",
     "venue": "7th Day Brewery",
     "suburb": "Brookvale",
-    "price": "Price unconfirmed",
-    "availability": "Official event published; ticket inventory and entry conditions not independently verified.",
+    "price": "Free entry",
+    "availability": "Official November venue guide says all gigs are free; entry capacity and age conditions unverified.",
     "url": "https://www.7thdaybrewery.com.au/gigs",
-    "fit": "Brookvale alternative-rock option with RegiKay and The Smashed Avocados confirmed on the venue poster. DJ Pat Taylor is also advertised; time and admission price remain unconfirmed.",
-    "source": "Official venue text and linked November poster checked 10 Nov 2026. https://www.7thdaybrewery.com.au/gigs https://static.wixstatic.com/media/b30c24_cc9ee36a5d4b4c8f9877d7fa27f7c118~mv2.png Time and free-entry claims remain secondary-only; not asserted here.",
+    "fit": "Brookvale alternative-rock option with RegiKay and The Smashed Avocados confirmed on the venue poster. DJ Pat Taylor is also advertised; start time remains unconfirmed.",
+    "source": "Official venue text checked 11 Nov 2026 confirms free entry for the November gig programme: https://www.7thdaybrewery.com.au/gigs Lineup poster verified 10 Nov 2026: https://static.wixstatic.com/media/b30c24_cc9ee36a5d4b4c8f9877d7fa27f7c118~mv2.png Start time remains unverified.",
     "id": "g32-1",
-    "rank": 43,
+    "rank": 46,
     "groupId": "group-32",
     "dates": [
       "2026-11-14"
@@ -2003,6 +2118,87 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "Goldfish Smarts",
+      "Drunk Honey"
+    ],
+    "date": "2026-11-13",
+    "time": "From 19:00; individual sets unannounced",
+    "venue": "7th Day Brewery",
+    "suburb": "Brookvale",
+    "price": "Free entry",
+    "availability": "Official November guide says all gigs are free. Entry capacity and age conditions unverified.",
+    "url": "https://www.7thdaybrewery.com.au/gigs",
+    "style": "Indie / surf / pub rock",
+    "fit": "Free Northern Beaches guitar option with Goldfish Smarts and guest Drunk Honey; lighter than the featured heavy bills.",
+    "source": "Official venue checked 11 Nov 2026. https://www.7thdaybrewery.com.au/gigs Artist identity: https://goldfishsmarts.com/bio",
+    "id": "g51-1",
+    "groupId": "group-51",
+    "dates": [
+      "2026-11-13"
+    ],
+    "artists": [
+      {
+        "name": "Goldfish Smarts",
+        "url": "https://open.spotify.com/artist/2Yr77DIgoT6rAsKoqjnhtG",
+        "trackUrl": "https://open.spotify.com/track/3X5fY9QQIw4oEgLnCdrnmV",
+        "trackName": "Man About Town",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "Drunk Honey",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      }
+    ],
+    "calendarAvailable": false,
+    "rank": 47
+  },
+  {
+    "lineup": [
+      "Speaking of Which",
+      "The Casual Slacks",
+      "Lestray"
+    ],
+    "date": "2026-11-13",
+    "time": "19:00 advertised; individual sets unannounced",
+    "venue": "Burdekin Hotel",
+    "suburb": "Darlinghurst",
+    "price": "A$13.55 advertised presale; fees and door price unverified",
+    "availability": "Online sales closed; seller says door tickets only if available. 18+.",
+    "url": "https://burdekinlive.oztix.com.au/outlet/event/0d237204-6535-4b38-bcb5-1b2f03d368f6?Event=252264",
+    "style": "Indie / surf rock",
+    "fit": "Lower-ranked local guitar bill with The Casual Slacks and Lestray; a broader indie/surf-rock alternative.",
+    "source": "Official venue seller checked 11 Nov 2026. https://burdekinlive.oztix.com.au/outlet/event/0d237204-6535-4b38-bcb5-1b2f03d368f6?Event=252264",
+    "id": "g52-1",
+    "groupId": "group-52",
+    "dates": [
+      "2026-11-13"
+    ],
+    "artists": [
+      {
+        "name": "Speaking of Which",
+        "url": "https://open.spotify.com/artist/1ZwEC4RCCIedNH5BugVLlA",
+        "trackUrl": "https://open.spotify.com/track/67ltpiPgYUwDbHwbjXXl8b",
+        "trackName": "Pressure",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee",
+        "spotifyName": "Speaking Of Which"
+      },
+      {
+        "name": "The Casual Slacks",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      },
+      {
+        "name": "Lestray",
+        "url": null,
+        "status": "No exact Spotify recording verified; omitted rather than substituting a namesake"
+      }
+    ],
+    "calendarAvailable": false,
+    "rank": 48
+  },
+  {
+    "lineup": [
       "Queen Juno",
       "The Clean Break"
     ],
@@ -2016,7 +2212,7 @@ window.GIGS = [
     "fit": "Local alternative-rock option with The Clean Break confirmed on the venue poster.",
     "source": "Official venue and linked poster checked 10 Nov 2026. https://www.goldenbarleyhotel.com.au/ https://images.squarespace-cdn.com/content/v1/691bdb7f5f7ee703b6488a58/412bfb75-ab01-4734-b2b8-e290808097b4/Queen%2BJuno_%2BGolden%2BBarley%2BGig%2BPoster.png The Clean Break Spotify recording remains unverified.",
     "id": "g33-1",
-    "rank": 44,
+    "rank": 49,
     "groupId": "group-33",
     "dates": [
       "2026-11-14"
@@ -2053,7 +2249,7 @@ window.GIGS = [
     "fit": "Free midweek guitar bill; Rudy Meant brings indie, grunge and punk. Additional guests are advertised but unnamed. Broader fit than the featured heavy bills.",
     "source": "Official venue weekly poster checked 10 Nov 2026. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/e806e297-b2bd-4b22-a143-7772c13feae3/261115%2BMP%2BGig%2BGuide_edited.jpg",
     "id": "g45-1",
-    "rank": 45,
+    "rank": 50,
     "groupId": "group-45",
     "dates": [
       "2026-11-10"
@@ -2094,7 +2290,7 @@ window.GIGS = [
     "fit": "Afternoon local-rock alternative. Wild Ginger mixes originals and female-rock covers; advertised time conflicts are unresolved.",
     "source": "Official venue weekly poster checked 10 Nov 2026. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/e806e297-b2bd-4b22-a143-7772c13feae3/261115%2BMP%2BGig%2BGuide_edited.jpg Individual poster: https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/3e24b34f-34f1-4751-808c-321c2aec0732/14.11.26%2BArvo.jpg Poster links https://www.stickytickets.com.au/RB2CRU ; seller could not be independently retrieved.",
     "id": "g46-1",
-    "rank": 46,
+    "rank": 51,
     "groupId": "group-46",
     "dates": [
       "2026-11-14"
@@ -2136,7 +2332,7 @@ window.GIGS = [
     "fit": "Lower-ranked Sunday guitar option led by Gostwyck, whose artist profile cites The Cure, The War on Drugs and Gang of Youths.",
     "source": "Official venue weekly poster checked 10 Nov 2026. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/e806e297-b2bd-4b22-a143-7772c13feae3/261115%2BMP%2BGig%2BGuide_edited.jpg",
     "id": "g47-1",
-    "rank": 47,
+    "rank": 52,
     "groupId": "group-47",
     "dates": [
       "2026-11-15"

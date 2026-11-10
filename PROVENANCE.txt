@@ -1,11 +1,20 @@
 SYDNEY GIGS — SOURCES AND ATTRIBUTION
-Week: 9–15 November 2026. Latest official-source updates: 10 November 2026, Sydney time. Per-show notes retain their actual evidence dates.
+Week: 9–15 November 2026. Latest official-source updates: 11 November 2026, Sydney time. Per-show notes retain their actual evidence dates.
 
 EVENTS AND ARTISTS
+11 NOVEMBER UPDATE
+The featured top 15 and all previous valid shows remain in their existing order. The wider research now has 52 shows. Five verified guitar bills are added: Local Tough Guy/Motion Sickness/Mouse Trap at Gifts Of Mercy Emporium; The Tullamarines at the Lansdowne; Congette/The Low Dogs/The Money at Lazybones; Goldfish Smarts/Drunk Honey at 7th Day Brewery; and Speaking of Which/The Casual Slacks/Lestray at the Burdekin. Their exact official seller or venue links and evidence limitations are in each row. Local Tough Guy's current seller page resolves a stale search-date conflict in favour of Friday 13 November, 19:00–22:00. Its Sydney shoegaze/noise identity is verified through the artist's Bandcamp and triple j profile, not an American namesake. Tullamarines allocation is exhausted. Speaking of Which online sales are closed, with door tickets conditional on availability. Congette's online sales are advertised to close at 19:00 on 11 November; its cached selector is not represented as guaranteed live inventory.
+
+The 7th Day Brewery's November guide now provides primary evidence that Glass Media's bill is free; its start time remains unverified. The same page confirms Goldfish Smarts with Drunk Honey from 19:00 on 13 November. Existing top-15 ticket statuses and published running orders were rechecked without a substantive verified change. The Metro's conflicting generic 15:00 fields for daine are not treated as confirmed new set times. Northlane remains postponed with no replacement date. No new cancellation was verified. Vic on the Park, Duke, Dead Set, MoshPit, Botany View, Golden Barley, Mixtape, Gasoline Pony, Northern Beaches, Metro, Manning, Hordern, Enmore and other official seller sources were reviewed. Some seller pages were unavailable or cached; unchanged rows keep their prior evidence dates. No checkout inventory was tested. YEARN for total tommy and Sonic Reducer for HEADSEND remain unconfirmed. MoshPit's Skamurai event is a DJ night, not a new live-band bill.
+
+The existing companion playlist adds eight verified recordings from Local Tough Guy, The Tullamarines, Goldfish Smarts and Speaking Of Which, with all 148 prior tracks retained in order. The other new-bill artists remain unlinked where an exact recording could not be verified.
+
+Only gig data, the data/source cache references and source notes are changed. The existing page design, top-15 cap, player behavior, calendar files, Kaff game, CNAME, robots policy, map assets and all unrelated paths are preserved.
+
 10 NOVEMBER UPDATE
 Official venue posters confirm RegiKay and The Smashed Avocados with Glass Media at 7th Day Brewery, and The Clean Break with Queen Juno at Golden Barley. Glass Media admission/time remain unverified; DJ Pat Taylor is not treated as a live-band playlist entry. The Owen Guns MoshPit bill is advertised at 19:30, replacing the earlier secondary 19:00 claim; the venue confirms 18+ and Erskineville. Dune Rats first release is exhausted, with A$53.05 final release offered. Face The Martyr now has an exact verified Spotify artist/track link. The Clean Break remains unlinked rather than substituting a namesake. Three lower-ranked MoshPit guitar bills are added: The Paper Crown/Rudy Meant/Fantasy Grade Stink (10 Nov, 19:00, free), Wild Ginger/Doll Parts/The Cunning Linguists (14 Nov, unresolved 14:30 versus 15:00 advertised times), and Gostwyck/Solomon Steele/Gracie Jean (15 Nov, 15:30). The latter two admission prices remain unverified. Only the verified venue host is added to outbound-link validation. Top-15 order, all existing valid shows, layout, map and calendar files are preserved.
 
-The 9–15 November edition now contains 47 distinct shows in musical-fit order. Only the first 15 individual shows are displayed; the companion playlist covers the broader ranked research. Different dates remain separate cards. Per-show sources retain evidence limitations and previous review dates where a refresh failed. Advertised event times, doors, gates and artist sets are distinguished. Prices and extra-fee gaps are labeled. Availability is never a reservation or guarantee.
+The earlier 10 November snapshot contained 47 distinct shows in musical-fit order. Only the first 15 individual shows are displayed; the companion playlist covers the broader ranked research. Different dates remain separate cards. Per-show sources retain evidence limitations and previous review dates where a refresh failed. Advertised event times, doors, gates and artist sets are distinguished. Prices and extra-fee gaps are labeled. Availability is never a reservation or guarantee.
 
 The featured selection adds SPEED at Powerhouse Parramatta, with Justice for the Damned, Ends in Tragedy, Time Ends and Paid In Full. Its official allocation is sold out; ticket holders must bring one sealed, in-date nonperishable food item or new unopened toy for Project Kindness. Ecca Vandal's support 1300 is confirmed for both Sydney dates by the official Cult Artists poster. Trophy Eyes, both Ecca Vandal dates and both daine dates remain exhausted. Tigers Jaw's promoter advertises final tickets; seller inventory is unverified. The Mark of Cain venue lift outage remains disclosed. Iron Maiden moves into the broader research because of the website-only 15-show cap.
 
@@ -33,8 +42,3 @@ The MIT licence applies only to original application code and layout. Geographic
 
 PLAYLIST ART
 The cream/red 300px WebP is the exact existing user-generated Sydney Heavy Gigs cover, recovered from the public playlist header with the user's express reuse authorization. It is bundled locally, not requested from a third-party CDN at runtime. Source image: https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c051063e0632af0fe0aa41905 . Its printed IN ROTATION band names are part of the pre-existing branding, not the current week's line-up. This artwork is not represented as third-party Spotify artist artwork or relicensed under the application's MIT terms.
-
-
-
-
-
