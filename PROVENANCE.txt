@@ -1,7 +1,18 @@
 SYDNEY GIGS — SOURCES AND ATTRIBUTION
-Week: 9–15 November 2026. Latest official-source updates: 11 November 2026, Sydney time. Per-show notes retain their actual evidence dates.
+Week: 9–15 November 2026. Latest official-source updates: 12 November 2026, Sydney time. Per-show notes retain their actual evidence dates.
 
 EVENTS AND ARTISTS
+12 NOVEMBER UPDATE
+The existing featured top 15 and relative order of all previous valid shows are preserved. The broader ranked research now contains 55 shows. New official bills: Grass Goo/Kurve/Skirtless at the Chippo (14 November), PARK RD at Waywards (14 November; support unannounced), and Moon Brain/Fringe/Enamel at Petersham Bowling Club (13 November). Exact artist matches are linked where verified; Kurve, Fringe and Enamel remain unlinked rather than substituting namesakes. Representative recordings are not promised setlists. Moon Brain's seller shows A$15 plus A$0.88, rather than secondary sites' lower price, and discloses stair-only access.
+
+Flow Kobra's fresh official Moshtix HTML lists a 'General Admission - 2 FOR 1 TIX' tier at A$29.57 plus A$2.10 per order. The advertised cutoff is 12:00am Friday 13 November (midnight at the start of Friday). Standard GA remains A$29.57. Both selectors were present, but checkout inventory and the offer's admission mechanics were not tested. Cached search versions sometimes omit the offer; the fresh canonical response was checked separately.
+
+The top-15 prices, supports and published running orders were rechecked without another substantive verified change. Trophy Eyes, Ecca Vandal, SPEED and daine remain exhausted. Tigers Jaw's search snippets mix multiple cities and hidden labels; they do not establish a new Sydney sellout. Northlane remains postponed with the Sydney replacement date unconfirmed. Vic on the Park, Duke, Dead Set, MoshPit, Botany View, Golden Barley, Mixtape, Gasoline Pony, the Northern Beaches, major venues and official sellers were reviewed. No new cancellation was verified. Last Words is a DJ-only emo night, not a live-band addition. YEARN, Sonic Reducer and the Good Music Fridays lineup remain secondary-only claims in this check; they were not added as confirmed supports. Some sources were cached or inaccessible, and unchanged rows retain their actual earlier evidence dates.
+
+The existing companion playlist now has 162 unique tracks. Its previous 156 tracks retain their exact order, followed by six verified recordings from grass goo, Skirtless, PARK RD and Moon Brain. Identity, title, public status and cover are unchanged; the printed cover names remain branding.
+
+Only gig data, its cache reference, the checked date and source notes change. Layout, the 15-show cap, player behavior, map and artwork, calendar files, Kaff, CNAME, robots policy and every unrelated path stay unchanged. No calendar service was used.
+
 11 NOVEMBER UPDATE
 The featured top 15 and all previous valid shows remain in their existing order. The wider research now has 52 shows. Five verified guitar bills are added: Local Tough Guy/Motion Sickness/Mouse Trap at Gifts Of Mercy Emporium; The Tullamarines at the Lansdowne; Congette/The Low Dogs/The Money at Lazybones; Goldfish Smarts/Drunk Honey at 7th Day Brewery; and Speaking of Which/The Casual Slacks/Lestray at the Burdekin. Their exact official seller or venue links and evidence limitations are in each row. Local Tough Guy's current seller page resolves a stale search-date conflict in favour of Friday 13 November, 19:00–22:00. Its Sydney shoegaze/noise identity is verified through the artist's Bandcamp and triple j profile, not an American namesake. Tullamarines allocation is exhausted. Speaking of Which online sales are closed, with door tickets conditional on availability. Congette's online sales are advertised to close at 19:00 on 11 November; its cached selector is not represented as guaranteed live inventory.
 
