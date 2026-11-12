@@ -1,7 +1,18 @@
 SYDNEY GIGS — SOURCES AND ATTRIBUTION
-Week: 9–15 November 2026. Latest official-source updates: 12 November 2026, Sydney time. Per-show notes retain their actual evidence dates.
+Week: 9–15 November 2026. Latest official-source updates: 13 November 2026, Sydney time. Per-show notes retain their actual evidence dates.
 
 EVENTS AND ARTISTS
+13 NOVEMBER UPDATE
+Flow Kobra's advertised 2-for-1 deadline has passed (00:00 Friday); the price now describes standard GA only, A$29.57 plus A$2.10/order. The expired tier remains in seller HTML but is not presented as a live offer. Checkout inventory was not tested.
+
+The Metro's fresh canonical page confirms Headaches and August Lawrence for both daine shows, with separate running orders: Friday doors 19:30, Headaches 20:00, August Lawrence 20:45, daine 21:30; Saturday doors 18:00, Headaches 18:20, August Lawrence 19:10, daine 20:00. Older cached pages omit August Lawrence. Both allocations remain exhausted in the last verified seller evidence.
+
+The broader research adds Good Things Band Competition, Sydney Heat #3, at Burdekin Hotel on 15 November. Its five co-billed acts are Cøsmix, Flannel Flower, POLYBIUS, CATPISS and blake williams; no headliner hierarchy is implied. The official festival page confirms the bill and date; secondary claims of 14:30 and free entry remain explicitly unverified. This lighter grassroots bill does not displace the featured heavy selection.
+
+The featured top 15 and prior shows' relative order are unchanged. Official checks of core ticket/venue pages and a wider pub sweep including Vic on the Park found no further verified cancellation or material change. Some sources were cached or inaccessible; unchanged rows retain their actual evidence dates. Northlane's Sydney replacement remains unconfirmed. DJ-only events remain excluded.
+
+Only necessary gig data, the source notes/check date/cache hashes and the verified festival host allowlist change. Layout, filter/map logic, player behavior, artwork, calendar files, Kaff, CNAME, robots policy and unrelated repository contents are preserved. No calendar service was used.
+
 12 NOVEMBER UPDATE
 The existing featured top 15 and relative order of all previous valid shows are preserved. The broader ranked research now contains 55 shows. New official bills: Grass Goo/Kurve/Skirtless at the Chippo (14 November), PARK RD at Waywards (14 November; support unannounced), and Moon Brain/Fringe/Enamel at Petersham Bowling Club (13 November). Exact artist matches are linked where verified; Kurve, Fringe and Enamel remain unlinked rather than substituting namesakes. Representative recordings are not promised setlists. Moon Brain's seller shows A$15 plus A$0.88, rather than secondary sites' lower price, and discloses stair-only access.
 

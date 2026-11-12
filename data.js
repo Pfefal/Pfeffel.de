@@ -1,4 +1,4 @@
-/* Official-source snapshot reviewed 12 November 2026, Australia/Sydney. Per-show notes retain evidence dates and limitations. */
+/* Official-source snapshot reviewed 13 November 2026, Australia/Sydney. Per-show notes retain evidence dates and limitations. */
 window.GIGS = [
   {
     "lineup": [
@@ -140,11 +140,11 @@ window.GIGS = [
     "time": "19:00 advertised; sets unpublished",
     "venue": "Bootleggers",
     "suburb": "Newtown",
-    "price": "A$29.57 incl GST/service fees + A$2.10/order. Seller also lists '2 FOR 1 TIX' at A$29.57; offer closes 00:00 Fri 13 Nov.",
-    "availability": "Standard GA and seller-labelled 2-for-1 selectors offered when checked 12 Nov; offer conditions and checkout inventory not tested. 18+.",
+    "price": "A$29.57 incl GST/service fees + A$2.10/order.",
+    "availability": "Standard GA selector listed; checkout inventory untested. Advertised 2-for-1 deadline passed at 00:00 Fri 13 Nov. 18+.",
     "url": "https://moshtix.com.au/v2/event/flow-kobra-bootleggers-w-all-regards-akira-slide-face-the-martyr/200697",
     "fit": "Heavy local alternative bill with All Regards, Akira Slide and Face The Martyr; an intimate counterweight to the larger tours.",
-    "source": "Official Moshtix page freshly retrieved 12 Nov 2026. https://moshtix.com.au/v2/event/flow-kobra-bootleggers-w-all-regards-akira-slide-face-the-martyr/200697 The 2-for-1 tier is labelled to close at 12:00am Friday 13 November, not Friday night. Admission mechanics not independently tested. Spotify identity verified 10 Nov 2026.",
+    "source": "Official Moshtix HTML checked 13 Nov 2026. https://moshtix.com.au/v2/event/flow-kobra-bootleggers-w-all-regards-akira-slide-face-the-martyr/200697 The still-displayed 2-for-1 tier states sales close 12:00am Friday 13 November; that deadline has passed. Standard GA closes 19:00 Friday. No offer extension or checkout availability verified. Spotify identity verified 10 Nov 2026.",
     "id": "g04-1",
     "rank": 4,
     "groupId": "group-04",
@@ -577,17 +577,19 @@ window.GIGS = [
   },
   {
     "lineup": [
-      "daine"
+      "daine",
+      "August Lawrence",
+      "Headaches"
     ],
     "date": "2026-11-13",
-    "time": "19:30 advertised (18+); sets unconfirmed",
+    "time": "Doors 19:30; Headaches 20:00; August Lawrence 20:45; daine 21:30",
     "venue": "Metro Social",
     "suburb": "Sydney CBD",
     "price": "A$39.66 — Includes GST/service fees; no separate order fee shown",
     "availability": "Both dates allocation exhausted",
     "url": "https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18/197886",
-    "fit": "Guitar-driven emo and alternative pop at Metro Social. Friday is 18+; supports unconfirmed.",
-    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.metrotheatre.com.au/event/daine/ https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18/197886 https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages/198643 Not confirmed",
+    "fit": "Guitar-driven emo and alternative pop at Metro Social. Friday is 18+; August Lawrence and Headaches complete the bill.",
+    "source": "Official Metro Theatre page freshly retrieved 13 Nov 2026 confirms both supports and separate running orders for Friday and Saturday. https://www.metrotheatre.com.au/event/daine/ Official venue/ticket sources checked 9 Nov 2026. https://www.metrotheatre.com.au/event/daine/ https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18/197886 https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages/198643",
     "id": "g11-1",
     "rank": 12,
     "groupId": "group-11",
@@ -601,23 +603,37 @@ window.GIGS = [
         "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG",
         "trackUrl": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO",
         "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "August Lawrence",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee",
+        "url": "https://open.spotify.com/artist/4Dkr3XzEDLEP28w7fLEmvc",
+        "trackUrl": "https://open.spotify.com/track/6aeuRGv5U8tOdGbZL2g7xz"
+      },
+      {
+        "name": "Headaches",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee",
+        "url": "https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl",
+        "trackUrl": "https://open.spotify.com/track/7CRuydlDS3Jm8g4OVQJ7Z1"
       }
     ],
     "calendarAvailable": false
   },
   {
     "lineup": [
-      "daine"
+      "daine",
+      "August Lawrence",
+      "Headaches"
     ],
     "date": "2026-11-14",
-    "time": "18:00 advertised (all ages); sets unconfirmed",
+    "time": "Doors 18:00; Headaches 18:20; August Lawrence 19:10; daine 20:00",
     "venue": "Metro Social",
     "suburb": "Sydney CBD",
     "price": "A$39.66 — Includes GST/service fees; no separate order fee shown",
     "availability": "Both dates allocation exhausted",
     "url": "https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages/198643",
-    "fit": "The all-ages Saturday daine date. Emo/alternative pop; supports unconfirmed.",
-    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.metrotheatre.com.au/event/daine/ https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18/197886 https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages/198643 Not confirmed",
+    "fit": "The all-ages Saturday daine date. Emo/alternative pop with August Lawrence and Headaches.",
+    "source": "Official Metro Theatre page freshly retrieved 13 Nov 2026 confirms both supports and separate running orders for Friday and Saturday. https://www.metrotheatre.com.au/event/daine/ Official venue/ticket sources checked 9 Nov 2026. https://www.metrotheatre.com.au/event/daine/ https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18/197886 https://moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages/198643",
     "id": "g12-1",
     "rank": 13,
     "groupId": "group-12",
@@ -631,6 +647,18 @@ window.GIGS = [
         "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG",
         "trackUrl": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO",
         "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
+      },
+      {
+        "name": "August Lawrence",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee",
+        "url": "https://open.spotify.com/artist/4Dkr3XzEDLEP28w7fLEmvc",
+        "trackUrl": "https://open.spotify.com/track/6aeuRGv5U8tOdGbZL2g7xz"
+      },
+      {
+        "name": "Headaches",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee",
+        "url": "https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl",
+        "trackUrl": "https://open.spotify.com/track/7CRuydlDS3Jm8g4OVQJ7Z1"
       }
     ],
     "calendarAvailable": false
@@ -1862,6 +1890,62 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "Cøsmix",
+      "Flannel Flower",
+      "POLYBIUS",
+      "CATPISS",
+      "blake williams"
+    ],
+    "date": "2026-11-15",
+    "time": "Start time unverified; secondary listings suggest 14:30",
+    "venue": "Burdekin Hotel",
+    "suburb": "Darlinghurst",
+    "price": "Admission price unverified; free-entry claim not confirmed by primary source",
+    "availability": "Official festival lists Sydney Heat #3; entry process/capacity unverified. Five co-billed competition acts, not a headliner/support hierarchy.",
+    "url": "https://goodthingsfest.com.au/band-comp",
+    "fit": "A grassroots guitar-band discovery afternoon: Cøsmix adds rock grooves and pop hooks. A lighter, exploratory choice than the core-heavy bills.",
+    "source": "Official Good Things festival page freshly retrieved 13 Nov 2026 confirms venue, 15 Nov date and all five acts. https://goodthingsfest.com.au/band-comp No primary time or admission price found; secondary 14:30/free claims are not treated as confirmed. Cøsmix musical identity: https://www.factorytheatre.com.au/event/cosmix/",
+    "id": "g56-1",
+    "rank": 41,
+    "groupId": "group-56",
+    "dates": [
+      "2026-11-15"
+    ],
+    "style": "Alternative rock / guitar-band competition",
+    "artists": [
+      {
+        "name": "Cøsmix",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee",
+        "url": "https://open.spotify.com/artist/55o1OjRCdxyfgXinxPI9MD",
+        "trackUrl": "https://open.spotify.com/track/3CHWaYb2kWWmyK6MmY6hlu"
+      },
+      {
+        "name": "Flannel Flower",
+        "status": "No exact Sydney artist recording verified on Spotify; unrelated namesakes omitted"
+      },
+      {
+        "name": "POLYBIUS",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee",
+        "url": "https://open.spotify.com/artist/48qLPwnqlgyAqrvSQZ7UAb",
+        "trackUrl": "https://open.spotify.com/track/5leIo0jhLlKxt6XLLsaBvZ"
+      },
+      {
+        "name": "CATPISS",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee",
+        "url": "https://open.spotify.com/artist/5Ll0JgZLLDTgq7EXQfT46p",
+        "trackUrl": "https://open.spotify.com/track/18cmELbDOeNVXg9G9DsbU8"
+      },
+      {
+        "name": "blake williams",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee",
+        "url": "https://open.spotify.com/artist/2pLkURQNRJJdXxizjXyyup",
+        "trackUrl": "https://open.spotify.com/track/1sD7WeONbRmKWsimRTL97Z"
+      }
+    ],
+    "calendarAvailable": false
+  },
+  {
+    "lineup": [
       "Nana's Pie",
       "Cali Rd",
       "Citruss"
@@ -1876,7 +1960,7 @@ window.GIGS = [
     "fit": "Melodic indie rock at Bootleggers; a lighter alternative to the heavy bills.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/nanas-pie-till-the-morning-tour/200850",
     "id": "g27-1",
-    "rank": 41,
+    "rank": 42,
     "groupId": "group-27",
     "dates": [
       "2026-11-14"
@@ -1943,7 +2027,7 @@ window.GIGS = [
       }
     ],
     "calendarAvailable": false,
-    "rank": 42
+    "rank": 43
   },
   {
     "lineup": [
@@ -1984,7 +2068,7 @@ window.GIGS = [
       }
     ],
     "source": "Official sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/telopia-rocks-tooproud-double-single-launch-free-entry/201400",
-    "rank": 43
+    "rank": 44
   },
   {
     "id": "g55-1",
@@ -2026,7 +2110,7 @@ window.GIGS = [
       "2026-11-13"
     ],
     "calendarAvailable": false,
-    "rank": 44
+    "rank": 45
   },
   {
     "lineup": [
@@ -2044,7 +2128,7 @@ window.GIGS = [
     "fit": "Free local garage rock at Mixtape; music begins at 19:30.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.mixtapebrewing.com.au/whatson",
     "id": "g28-1",
-    "rank": 45,
+    "rank": 46,
     "groupId": "group-28",
     "dates": [
       "2026-11-12"
@@ -2085,7 +2169,7 @@ window.GIGS = [
     "fit": "Psychobilly and cowpunk: a broader rock fallback rather than a close metalcore match.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.factorytheatre.com.au/event/reverend-horton-heat/ https://moshtix.com.au/v2/event/the-reverend-horton-heat-australian-tour-2026/193973 Venue prose also confirms Pat Capocci opens, but running-times section omits his time. Do not invent.",
     "id": "g29-1",
-    "rank": 46,
+    "rank": 47,
     "groupId": "group-29",
     "dates": [
       "2026-11-13"
@@ -2128,7 +2212,7 @@ window.GIGS = [
     "fit": "Broader local garage/alternative discovery at the Gasoline Pony.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://events.humanitix.com/suburban-bukowskis-the-s-ft-f-cus",
     "id": "g30-1",
-    "rank": 47,
+    "rank": 48,
     "groupId": "group-30",
     "dates": [
       "2026-11-12"
@@ -2165,7 +2249,7 @@ window.GIGS = [
     "fit": "Pub-rock/country-leaning local option, lower in heavy-music fit.",
     "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.goldenbarleyhotel.com.au/",
     "id": "g31-1",
-    "rank": 48,
+    "rank": 49,
     "groupId": "group-31",
     "dates": [
       "2026-11-13"
@@ -2203,7 +2287,7 @@ window.GIGS = [
     "fit": "Brookvale alternative-rock option with RegiKay and The Smashed Avocados confirmed on the venue poster. DJ Pat Taylor is also advertised; start time remains unconfirmed.",
     "source": "Official venue text checked 11 Nov 2026 confirms free entry for the November gig programme: https://www.7thdaybrewery.com.au/gigs Lineup poster verified 10 Nov 2026: https://static.wixstatic.com/media/b30c24_cc9ee36a5d4b4c8f9877d7fa27f7c118~mv2.png Start time remains unverified.",
     "id": "g32-1",
-    "rank": 49,
+    "rank": 50,
     "groupId": "group-32",
     "dates": [
       "2026-11-14"
@@ -2266,7 +2350,7 @@ window.GIGS = [
       }
     ],
     "calendarAvailable": false,
-    "rank": 50
+    "rank": 51
   },
   {
     "lineup": [
@@ -2310,7 +2394,7 @@ window.GIGS = [
       }
     ],
     "calendarAvailable": false,
-    "rank": 51
+    "rank": 52
   },
   {
     "lineup": [
@@ -2327,7 +2411,7 @@ window.GIGS = [
     "fit": "Local alternative-rock option with The Clean Break confirmed on the venue poster.",
     "source": "Official venue and linked poster checked 10 Nov 2026. https://www.goldenbarleyhotel.com.au/ https://images.squarespace-cdn.com/content/v1/691bdb7f5f7ee703b6488a58/412bfb75-ab01-4734-b2b8-e290808097b4/Queen%2BJuno_%2BGolden%2BBarley%2BGig%2BPoster.png The Clean Break Spotify recording remains unverified.",
     "id": "g33-1",
-    "rank": 52,
+    "rank": 53,
     "groupId": "group-33",
     "dates": [
       "2026-11-14"
@@ -2364,7 +2448,7 @@ window.GIGS = [
     "fit": "Free midweek guitar bill; Rudy Meant brings indie, grunge and punk. Additional guests are advertised but unnamed. Broader fit than the featured heavy bills.",
     "source": "Official venue weekly poster checked 10 Nov 2026. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/e806e297-b2bd-4b22-a143-7772c13feae3/261115%2BMP%2BGig%2BGuide_edited.jpg",
     "id": "g45-1",
-    "rank": 53,
+    "rank": 54,
     "groupId": "group-45",
     "dates": [
       "2026-11-10"
@@ -2405,7 +2489,7 @@ window.GIGS = [
     "fit": "Afternoon local-rock alternative. Wild Ginger mixes originals and female-rock covers; advertised time conflicts are unresolved.",
     "source": "Official venue weekly poster checked 10 Nov 2026. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/e806e297-b2bd-4b22-a143-7772c13feae3/261115%2BMP%2BGig%2BGuide_edited.jpg Individual poster: https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/3e24b34f-34f1-4751-808c-321c2aec0732/14.11.26%2BArvo.jpg Poster links https://www.stickytickets.com.au/RB2CRU ; seller could not be independently retrieved.",
     "id": "g46-1",
-    "rank": 54,
+    "rank": 55,
     "groupId": "group-46",
     "dates": [
       "2026-11-14"
@@ -2447,7 +2531,7 @@ window.GIGS = [
     "fit": "Lower-ranked Sunday guitar option led by Gostwyck, whose artist profile cites The Cure, The War on Drugs and Gang of Youths.",
     "source": "Official venue weekly poster checked 10 Nov 2026. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/e806e297-b2bd-4b22-a143-7772c13feae3/261115%2BMP%2BGig%2BGuide_edited.jpg",
     "id": "g47-1",
-    "rank": 55,
+    "rank": 56,
     "groupId": "group-47",
     "dates": [
       "2026-11-15"
