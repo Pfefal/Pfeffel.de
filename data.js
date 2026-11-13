@@ -1,4 +1,4 @@
-/* Official-source snapshot reviewed 13 November 2026, Australia/Sydney. Per-show notes retain evidence dates and limitations. */
+/* Official-source snapshot reviewed 14 November 2026, Australia/Sydney. Per-show notes retain evidence dates and limitations. */
 window.GIGS = [
   {
     "lineup": [
@@ -726,10 +726,10 @@ window.GIGS = [
     "venue": "The Bridge Hotel",
     "suburb": "Rozelle",
     "price": "A$49.03 including GST/service fees",
-    "availability": "GA selectable 18+.",
+    "availability": "GA selector listed; advertised online sales close 10:30 Sat 14 Nov, three hours before the event. Checkout inventory and door sales unverified. 18+.",
     "url": "https://www.moshtix.com.au/v2/event/steel-assassins-2026-day-2/195545",
     "fit": "Steel Assassins Day 2: melodic hard rock, progressive and thrash metal across an eleven-band bill.",
-    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.moshtix.com.au/v2/event/steel-assassins-2026-day-2/195545",
+    "source": "Official Moshtix page checked 14 Nov 2026 confirms unchanged bill, 13:30 event start, A$49.03 and advertised online-sales cutoff 10:30 Saturday. https://www.moshtix.com.au/v2/event/steel-assassins-2026-day-2/195545 Individual set times unpublished; a listed selector is not a reservation.",
     "id": "g14-1",
     "rank": 15,
     "groupId": "group-14",
@@ -813,14 +813,14 @@ window.GIGS = [
       "Megadeth"
     ],
     "date": "2026-11-15",
-    "time": "Gates 17:30; artist set times unconfirmed",
+    "time": "Gates 17:30; venue lists 19:20 start; individual artist set times unconfirmed",
     "venue": "Allianz Stadium",
     "suburb": "Moore Park",
     "price": "Price unconfirmed — live official Ticketmaster tiers and fees not exposed; unverified promotional prices omitted.",
     "availability": "Venue says on sale; Ticketmaster event accessible but live ticket list not exposed",
     "url": "https://www.ticketmaster.com.au/iron-maiden-run-for-your-lives-sydney-15-11-2026/event/2500645788A53CB3",
     "fit": "The classic heavy-metal stadium option with Megadeth, further from modern metalcore. Gates are not a band set time; transport is included per venue.",
-    "source": "Official venue/ticket sources checked 9 Nov 2026. https://www.allianzstadium.com.au/events/iron_maiden_run_for_your_lives_world_tour https://www.ticketmaster.com.au/iron-maiden-run-for-your-lives-sydney-15-11-2026/event/2500645788A53CB3 Public transport included according to venue.",
+    "source": "Official Allianz Stadium page checked 14 Nov 2026: gates 17:30 and event start 19:20; no individual artist running order verified. https://www.allianzstadium.com.au/events/iron_maiden_run_for_your_lives_world_tour Ticketmaster price/inventory limitation retains 9 Nov evidence: https://www.ticketmaster.com.au/iron-maiden-run-for-your-lives-sydney-15-11-2026/event/2500645788A53CB3 Public transport included according to venue.",
     "id": "g15-1",
     "rank": 16,
     "groupId": "group-15",
@@ -1695,6 +1695,45 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "All India Radio",
+      "USER"
+    ],
+    "date": "2026-11-14",
+    "time": "19:00 advertised event time; doors and individual sets not separately confirmed",
+    "venue": "The Vanguard",
+    "suburb": "Newtown",
+    "price": "A$25 incl GST/service fees + A$2.95/order (A$27.95 for one)",
+    "availability": "GA selector listed; premium mezzanine packages exhausted. GA sales advertised to close at 17:00 on show day. Checkout inventory not tested. 18+.",
+    "url": "https://www.moshtix.com.au/v2/event/all-india-radio-user/196511",
+    "fit": "Atmospheric instrumental guitar music alongside darker electro-post-punk; a textured alternative to the heavy-core picks. Two co-billed record launches, not a confirmed headliner/support hierarchy.",
+    "source": "Official Moshtix event page checked 14 Nov 2026 confirms date, bill, venue, advertised time, ticket tiers and order fee. https://www.moshtix.com.au/v2/event/all-india-radio-user/196511 No individual set times verified.",
+    "id": "g57-1",
+    "rank": 36,
+    "groupId": "group-57",
+    "dates": [
+      "2026-11-14"
+    ],
+    "style": "Post-rock / electro-post-punk",
+    "artists": [
+      {
+        "name": "All India Radio",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee",
+        "url": "https://open.spotify.com/artist/6abfAcMcC3hYJcaxzLeiCW",
+        "trackUrl": "https://open.spotify.com/track/7GraNeuFPEK0slh0AZ4Mgc",
+        "trackName": "Four Three"
+      },
+      {
+        "name": "USER",
+        "status": "Exact artist USERAUS matched via band-member link and verified Extinction recording; not a setlist guarantee",
+        "url": "https://open.spotify.com/artist/6zAOW86p336OETXW0GRXjd",
+        "trackUrl": "https://open.spotify.com/track/5jaPXifsfOIL3lLssRPLA8",
+        "trackName": "Extinction"
+      }
+    ],
+    "calendarAvailable": false
+  },
+  {
+    "lineup": [
       "Druid Fluids",
       "Magic Machine"
     ],
@@ -1732,7 +1771,7 @@ window.GIGS = [
       }
     ],
     "source": "Official sources checked 9 Nov 2026. https://tickets.oztix.com.au/outlet/event/f6975333-dba8-486b-9980-8657b94380bc",
-    "rank": 36
+    "rank": 37
   },
   {
     "id": "g53-1",
@@ -1775,7 +1814,7 @@ window.GIGS = [
       "2026-11-14"
     ],
     "calendarAvailable": false,
-    "rank": 37
+    "rank": 38
   },
   {
     "lineup": [
@@ -1825,7 +1864,7 @@ window.GIGS = [
       }
     ],
     "source": "Official sources checked 9 Nov 2026. https://burdekinlive.oztix.com.au/outlet/event/c68da252-c131-4656-84c4-9badf4f0d4bb?Event=246172",
-    "rank": 38
+    "rank": 39
   },
   {
     "lineup": [
@@ -1854,36 +1893,6 @@ window.GIGS = [
         "trackName": "Flight Path",
         "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
       }
-    ],
-    "calendarAvailable": false,
-    "rank": 39
-  },
-  {
-    "id": "g54-1",
-    "groupId": "group-54",
-    "lineup": [
-      "PARK RD"
-    ],
-    "date": "2026-11-14",
-    "time": "19:00 advertised; doors and sets not separately confirmed",
-    "venue": "Waywards Ballroom",
-    "suburb": "Newtown",
-    "price": "A$31.60 incl GST/service fees + A$1.95/order; single total A$33.55",
-    "availability": "GA selector offered; checkout inventory not tested. 18+. Supports unannounced in official seller listing.",
-    "url": "https://www.moshtix.com.au/v2/event/park-rd-%E2%80%93-boyhood-tour/200998",
-    "fit": "Melodic indie/alt-pop rather than a heavy show, with a guitar-led sound that makes a lower-ranked alternative for Saturday.",
-    "source": "Official seller checked 12 Nov 2026. https://www.moshtix.com.au/v2/event/park-rd-%E2%80%93-boyhood-tour/200998 Official label confirms Sydney date: https://www.loop.co.nz/events/park-rd-boyhood-album-release-tour-sydney/ No unannounced supports inferred.",
-    "style": "Indie rock / alt-pop",
-    "artists": [
-      {
-        "name": "PARK RD",
-        "url": "https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo",
-        "trackUrl": "https://open.spotify.com/track/7dduyo9MVWpKSYjrQGoCcP",
-        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee"
-      }
-    ],
-    "dates": [
-      "2026-11-14"
     ],
     "calendarAvailable": false,
     "rank": 40
@@ -2517,6 +2526,37 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "Kristin Hersh"
+    ],
+    "date": "2026-11-15",
+    "time": "19:00 advertised event time; doors and individual sets not separately confirmed",
+    "venue": "The Vanguard",
+    "suburb": "Newtown",
+    "price": "A$62.70 incl GST/service fees + A$2.95/order (A$65.65 for one)",
+    "availability": "GA selector listed; premium mezzanine packages exhausted. GA sales advertised to close at 17:00 on show day. Checkout inventory not tested. 18+.",
+    "url": "https://www.moshtix.com.au/v2/event/an-evening-with-kristin-hersh-us/196005",
+    "fit": "An intimate alternative-songwriting option from the Throwing Muses artist, rather than a heavy bill. No support announced in the official listing.",
+    "source": "Official Moshtix event page checked 14 Nov 2026 confirms date, bill, venue, advertised time, ticket tiers and order fee. https://www.moshtix.com.au/v2/event/an-evening-with-kristin-hersh-us/196005 No individual set times verified.",
+    "id": "g58-1",
+    "rank": 56,
+    "groupId": "group-58",
+    "dates": [
+      "2026-11-15"
+    ],
+    "style": "Alternative rock / singer-songwriter",
+    "artists": [
+      {
+        "name": "Kristin Hersh",
+        "status": "Exact artist matched to a verified representative Spotify track; not a setlist guarantee",
+        "url": "https://open.spotify.com/artist/6ZWUhhSv3IahZyW5keNSxK",
+        "trackUrl": "https://open.spotify.com/track/0rUZpqm9KyKBZmAGn2A5sl",
+        "trackName": "Dark Eyed Junco"
+      }
+    ],
+    "calendarAvailable": false
+  },
+  {
+    "lineup": [
       "Gostwyck",
       "Solomon Steele",
       "Gracie Jean"
@@ -2531,7 +2571,7 @@ window.GIGS = [
     "fit": "Lower-ranked Sunday guitar option led by Gostwyck, whose artist profile cites The Cure, The War on Drugs and Gang of Youths.",
     "source": "Official venue weekly poster checked 10 Nov 2026. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/e806e297-b2bd-4b22-a143-7772c13feae3/261115%2BMP%2BGig%2BGuide_edited.jpg",
     "id": "g47-1",
-    "rank": 56,
+    "rank": 57,
     "groupId": "group-47",
     "dates": [
       "2026-11-15"

@@ -1,7 +1,20 @@
 SYDNEY GIGS — SOURCES AND ATTRIBUTION
-Week: 9–15 November 2026. Latest official-source updates: 13 November 2026, Sydney time. Per-show notes retain their actual evidence dates.
+Week: 9–15 November 2026. Latest official-source updates: 14 November 2026, Sydney time. Per-show notes retain their actual evidence dates.
 
 EVENTS AND ARTISTS
+14 NOVEMBER UPDATE
+PARK RD's Waywards show has moved out of this week to 3 April 2027. The official label explicitly announces the postponement, corroborated by the updated Moshtix event. Its former 14 November row is removed, not carried forward as a current-week show. Sources: https://www.loop.co.nz/events/park-rd-boyhood-album-release-tour-sydney/ and https://www.moshtix.com.au/v2/event/park-rd-%E2%80%93-boyhood-tour/200998 .
+
+Allianz Stadium now publishes a 19:20 event start for Iron Maiden on Sunday, with gates still 17:30; separate artist set times remain unverified. Steel Assassins Day 2 now explicitly notes the seller's 10:30 Saturday online-sales cutoff, three hours before its 13:30 start; no door-ticket availability is inferred.
+
+Two lower-ranked Vanguard bills are added: All India Radio + USER on Saturday 14 November (post-rock/electro-post-punk, A$25 plus A$2.95/order) and Kristin Hersh on Sunday 15 November (alternative songwriting, A$62.70 plus A$2.95/order). Both list 19:00 and GA selectors, with only premium packages exhausted. Individual set times and checkout inventory are unverified. The ranked research now contains 57 shows; the featured top 15 and relative order of all remaining valid shows are unchanged.
+
+The remaining weekend featured bills and broad official pub sources, including Vic on the Park, Duke, Dead Set, MoshPit, Botany View, Golden Barley, Mixtape, Gasoline Pony and 7th Day Brewery, were checked. No other material change was verified. Nursery Crimes and Grass Goo's official sellers were freshly retrieved and unchanged. Northlane's Sydney replacement remains unconfirmed. HEADSEND support/time discrepancies, Wild Ginger's time conflict and Glass Media's start time remain unresolved rather than guessed. DJ-only events remain excluded. Some pages were cached or inaccessible; unchanged rows retain their actual earlier evidence dates.
+
+The existing companion playlist now has 172 unique playable tracks: two PARK RD recordings were removed because its only researched show moved out of the week; six verified recordings were added from All India Radio, USER (listed on Spotify as USERAUS) and Kristin Hersh. All 166 retained tracks preserve their exact relative order. DJ guests are not treated as live-band recordings, and ambiguous identities remain unlinked. Playlist identity, title, public status and artwork are unchanged.
+
+Only gig data, its source notes, the checked date and cache hashes change. Layout, filters, player behavior, artwork, map, calendar files, Kaff, CNAME, robots policy and all unrelated paths are preserved. No calendar service was used.
+
 13 NOVEMBER UPDATE
 Flow Kobra's advertised 2-for-1 deadline has passed (00:00 Friday); the price now describes standard GA only, A$29.57 plus A$2.10/order. The expired tier remains in seller HTML but is not presented as a live offer. Checkout inventory was not tested.
 
