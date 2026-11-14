@@ -218,6 +218,30 @@ window.GIG_GEO = {
       "lon": 151.00608229637146,
       "source": "https://powerhouse.com.au/visit/parramatta",
       "accuracy": "Approximate venue/property point published by venue; not an entrance or navigation survey"
+    },
+    "Jura Books": {
+      "lat": -33.8880794,
+      "lon": 151.1596278,
+      "source": "https://events.humanitix.com/jenny-and-the-hanivers-at-jura-books",
+      "accuracy": "Approximate official seller-linked venue/address point; not an entrance or navigation survey"
+    },
+    "Trocadero Room": {
+      "lat": -33.8991172,
+      "lon": 151.1731527,
+      "source": "https://events.humanitix.com/channel-zero-world-tour",
+      "accuracy": "Approximate official seller-linked venue/address point; not an entrance or navigation survey"
+    },
+    "Waywards Ballroom": {
+      "lat": -33.8974865,
+      "lon": 151.1792614,
+      "source": "https://events.humanitix.com/mouthtrap-at-the-bank",
+      "accuracy": "Approximate official seller-linked venue/address point; not an entrance or navigation survey"
+    },
+    "Hunters Hill Town Hall": {
+      "lat": -33.8343891,
+      "lon": 151.152973,
+      "source": "https://events.humanitix.com/haywire-winnerz-circle-and-bleach-to-death-sydney-all-ages",
+      "accuracy": "Approximate official seller-linked venue/address point; not an entrance or navigation survey"
     }
   }
 };

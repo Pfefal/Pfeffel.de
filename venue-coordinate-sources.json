@@ -410,5 +410,65 @@
     "coordinateBasis": "Official venue page contains map block geopoint lat -33.81213188865956, lng 151.00608229637146. Venue-linked exact Google place point is -33.8120517, 151.0061138 (not viewport centre), corroborating the property.",
     "license": "Factual public venue-published point; not OSM-derived",
     "attribution": "Powerhouse published location fact; no map imagery, site design or code copied"
+  },
+  "Jura Books": {
+    "point": {
+      "lat": -33.8880794,
+      "lon": 151.1596278,
+      "source": "https://events.humanitix.com/jenny-and-the-hanivers-at-jura-books",
+      "accuracy": "Approximate official seller-linked venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "440 Parramatta Road, Petersham NSW 2049",
+    "sourceUrl": "https://events.humanitix.com/jenny-and-the-hanivers-at-jura-books",
+    "addressSource": "https://www.trybooking.com/events/landing/1672694",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=-33.8880794,151.1596278&query_place_id=ChIJlX5GExewEmsRiXttB2WqX5g",
+    "method": "Coordinates explicitly in Get directions link on official event seller; address cross-checked against current requested seller or venue.",
+    "checked": "2026-11-15",
+    "attribution": "Factual venue coordinates from official seller-linked directions; no map imagery, tiles, code or listings copied."
+  },
+  "Trocadero Room": {
+    "point": {
+      "lat": -33.8991172,
+      "lon": 151.1731527,
+      "source": "https://events.humanitix.com/channel-zero-world-tour",
+      "accuracy": "Approximate official seller-linked venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "156 Enmore Road, Enmore NSW 2042",
+    "sourceUrl": "https://events.humanitix.com/channel-zero-world-tour",
+    "addressSource": "https://www.moshtix.com.au/v2/venues/the-trocadero-room-nsw/9716",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=-33.8991172,151.1731527&query_place_id=ChIJH3kSPQuxEmsRZdvTRNMoMpo",
+    "method": "Coordinates explicitly in Get directions link on official event seller; address cross-checked against current requested seller or venue.",
+    "checked": "2026-11-15",
+    "attribution": "Factual venue coordinates from official seller-linked directions; no map imagery, tiles, code or listings copied."
+  },
+  "Waywards Ballroom": {
+    "point": {
+      "lat": -33.8974865,
+      "lon": 151.1792614,
+      "source": "https://events.humanitix.com/mouthtrap-at-the-bank",
+      "accuracy": "Approximate official seller-linked venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "Upstairs, 324 King Street, Newtown NSW 2042",
+    "sourceUrl": "https://events.humanitix.com/mouthtrap-at-the-bank",
+    "addressSource": "https://bankhotel.com.au/contact-us",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=-33.8974865,151.1792614&query_place_id=ChIJtRkqxTawEmsRlXVE5CkdA3w",
+    "method": "Coordinates explicitly in Get directions link on official event seller; address cross-checked against current requested seller or venue.",
+    "checked": "2026-11-15",
+    "attribution": "Factual venue coordinates from official seller-linked directions; no map imagery, tiles, code or listings copied."
+  },
+  "Hunters Hill Town Hall": {
+    "point": {
+      "lat": -33.8343891,
+      "lon": 151.152973,
+      "source": "https://events.humanitix.com/haywire-winnerz-circle-and-bleach-to-death-sydney-all-ages",
+      "accuracy": "Approximate official seller-linked venue/address point; not an entrance or navigation survey"
+    },
+    "matchedName": "22 Alexandra Street, Hunters Hill NSW 2110",
+    "sourceUrl": "https://events.humanitix.com/haywire-winnerz-circle-and-bleach-to-death-sydney-all-ages",
+    "addressSource": "https://events.humanitix.com/haywire-winnerz-circle-and-bleach-to-death-sydney-all-ages",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=-33.8343891,151.152973&query_place_id=ChIJwz7NW52vEmsRhRpsOCTVK6E",
+    "method": "Factual coordinates explicitly in the official event seller Get directions link.",
+    "checked": "2026-11-15",
+    "attribution": "Factual venue coordinates from official seller-linked directions; no map imagery, tiles, code or listings copied."
   }
 }
