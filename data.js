@@ -1,4 +1,4 @@
-/* Official-source snapshot reviewed 15 November 2026, Australia/Sydney. Source notes retain availability limitations. */
+/* Official-source snapshot reviewed 16 November 2026, Australia/Sydney. Row-level source notes retain dates and limitations. */
 window.GIGS = [
   {
     "lineup": [
@@ -208,9 +208,9 @@ window.GIGS = [
     "style": "Hardcore",
     "url": "https://www.moshtix.com.au/v2/event/new-date-haywire-usa-australian-tour-sydney/197273",
     "price": "A$44.86 + A$1.95/order; one A$46.81",
-    "availability": "GA allocation exhausted; All ages; U18 accompanied by legal guardian 25+, up to three minors per guardian; checkout inventory not tested.",
-    "fit": "The evening hardcore option. Rescheduled to 22 November; the general-public allocation is exhausted. The official event is all ages with guardian conditions.",
-    "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Rescheduled to 22 November; existing tickets valid. https://www.moshtix.com.au/v2/event/new-date-haywire-usa-australian-tour-sydney/197273",
+    "availability": "GA selector offered; online sales advertised to close 22:30 on show day. All ages; U18 accompanied by legal guardian 25+, up to three minors per guardian. Checkout inventory not tested. Room allocation unconfirmed: Mouseatouille is separately listed at the same venue and time.",
+    "fit": "The evening hardcore option. Rescheduled to 22 November; a GA selector is offered again after the earlier exhausted allocation. The official event is all ages with guardian conditions. Confirm the room with the venue.",
+    "source": "Official Moshtix page checked 16 Nov 2026: GA selector now offered, A$44.86 plus A$1.95/order unchanged, 22:30 sales cutoff; existing tickets valid for the rescheduled date. Separate Mouseatouille listing at the same venue/time does not establish a cancellation or a move. https://www.moshtix.com.au/v2/event/new-date-haywire-usa-australian-tour-sydney/197273 https://www.moshtix.com.au/v2/venues/the-lansdowne-hotel-sydney-nsw/4775",
     "id": "g05-1",
     "rank": 5,
     "groupId": "group-05",
@@ -329,6 +329,50 @@ window.GIGS = [
     ]
   },
   {
+    "id": "g54-1",
+    "lineup": [
+      "ADRIAAAN",
+      "Face to Foot",
+      "Six Month Search Party"
+    ],
+    "date": "2026-11-19",
+    "time": "Doors 19:00; weekly guide lists 19:30 without a doors/set label; individual sets unconfirmed",
+    "venue": "MoshPit",
+    "suburb": "Erskineville",
+    "price": "Free",
+    "availability": "Official venue advertises free entry; no cancellation notice seen. No booking inventory tested.",
+    "style": "Metalcore / hardcore / thrash",
+    "fit": "A free small-room metalcore/hardcore bill with Face to Foot. The closest new match to the heavy-guitar brief, with three confirmed bands.",
+    "url": "https://www.moshpitbar.com.au/",
+    "source": "Official venue homepage and individual/weekly posters checked 16 Nov 2026. 19:00 is explicitly doors; weekly guide lists19:30 without a set/doors label. Previous secondary20:00 should not be carried forward. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/237ec11d-4512-410e-ad9c-4bf199e0e731/19.11.26.jpg https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/dbba4108-341f-4a46-a429-56f990d773f7/261122+MP+Gig+Guide.jpg",
+    "groupId": "group-54",
+    "dates": [
+      "2026-11-19"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "ADRIAAAN",
+        "url": "https://open.spotify.com/artist/6VNnX4CscAfl4a5lzs7fii",
+        "trackUrl": "https://open.spotify.com/track/1o7WKabyYF1aYdkcf4yDRq",
+        "trackName": "Futures",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "Face to Foot",
+        "url": "https://open.spotify.com/artist/1bVpuRcAXdCYcwOCqRI32v",
+        "trackUrl": "https://open.spotify.com/track/1iMzOzwKO7wT3beIKxY2Dh",
+        "trackName": "Shirt Ripper",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "Six Month Search Party",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      }
+    ],
+    "rank": 8
+  },
+  {
     "lineup": [
       "Failsafe",
       "Organs",
@@ -346,7 +390,7 @@ window.GIGS = [
     "fit": "A four-band local grunge/alternative-rock bill, for distortion and smaller-room discovery rather than metalcore.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026.  https://www.moshtix.com.au/v2/event/failsafe-organs-spinner-service-centre/202222",
     "id": "g08-1",
-    "rank": 8,
+    "rank": 9,
     "groupId": "group-08",
     "dates": [
       "2026-11-21"
@@ -398,7 +442,7 @@ window.GIGS = [
     "fit": "Complex, dynamic math rock and experimental heavy guitars. Four named acts; less conventional than the core metalcore picks.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026.  https://tickets.oztix.com.au/outlet/event/d9450ee5-be8d-4f22-b30d-d99724dc7b2c",
     "id": "g09-1",
-    "rank": 9,
+    "rank": 10,
     "groupId": "group-09",
     "dates": [
       "2026-11-20"
@@ -450,7 +494,7 @@ window.GIGS = [
     "fit": "Free punk and power rock. Junk Brain is the single title, not another act; S.O.W. remains the spelling on the bill.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Junk Brain is single title, not additional band. Poster free entry. https://deadsetdarlo.com.au/whats-on/king-machete.html https://deadsetdarlo.com.au/media/gallery/1291_20261020154924_InstaPortrait-junk.webp",
     "id": "g10-1",
-    "rank": 10,
+    "rank": 11,
     "groupId": "group-10",
     "dates": [
       "2026-11-21"
@@ -496,7 +540,7 @@ window.GIGS = [
     "fit": "A low-cost punk/post-punk four-band bill. Current organizer text names Alex Fears; an older embedded poster instead names Second Idol, so confirm before travelling.",
     "source": "Official sources checked 15 Nov 2026. https://www.trybooking.com/au/event/1672694 Current organiser text names Alex Fears; older poster still names Second Idol. Current text used, poster discrepancy disclosed.",
     "id": "g11-1",
-    "rank": 11,
+    "rank": 12,
     "groupId": "group-11",
     "dates": [
       "2026-11-19"
@@ -549,7 +593,7 @@ window.GIGS = [
     "fit": "A free Vic on the Park option with wiry post-punk energy and Dollhouse supporting.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Free18+RSVP available; advertised time not identified as doors. https://tickets.oztix.com.au/outlet/event/95d211d4-3da7-41b7-9be1-0f0141588919",
     "id": "g12-1",
-    "rank": 12,
+    "rank": 13,
     "groupId": "group-12",
     "dates": [
       "2026-11-20"
@@ -596,7 +640,7 @@ window.GIGS = [
     "fit": "LOUD WOMEN Fest: a broad punk, post-punk, grunge and riot-grrrl discovery day. The 13-act bill is alphabetical, not a headliner or set-order claim.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Alphabetical lineup, not running order. Sydney Saturday 21 Nov; Melbourne is Sunday 22. https://www.moshtix.com.au/v2/event/loud-women-fest-sydney-gadigal-2026/200973",
     "id": "g13-1",
-    "rank": 13,
+    "rank": 14,
     "groupId": "group-13",
     "dates": [
       "2026-11-21"
@@ -709,7 +753,7 @@ window.GIGS = [
     "fit": "An intimate alternative-guitar option. Only Select All is currently named by the official seller; secondary support claims remain unconfirmed.",
     "source": "Official sources checked 15 Nov 2026. https://www.moshtix.com.au/v2/event/select-all/201949 Conflicting secondary support lists not promoted as confirmed.",
     "id": "g14-1",
-    "rank": 14,
+    "rank": 15,
     "groupId": "group-14",
     "dates": [
       "2026-11-19"
@@ -742,7 +786,7 @@ window.GIGS = [
     "fit": "Fast, rough-edged garage-punk with Crocodylus and Cammy Cautious and the Wrestlers; the third Crowbar night has a different support bill.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026.  https://crowbarsyd.oztix.com.au/outlet/event/bef1361e-893d-469c-b130-e4bf8df270a3",
     "id": "g15-1",
-    "rank": 15,
+    "rank": 16,
     "groupId": "group-15",
     "dates": [
       "2026-11-21"
@@ -789,7 +833,7 @@ window.GIGS = [
     "fit": "Garage punk. ",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026.  https://crowbarsyd.oztix.com.au/outlet/event/e2a09695-2fea-4843-8c5a-e2865b28e415",
     "id": "g16-1",
-    "rank": 16,
+    "rank": 17,
     "groupId": "group-16",
     "dates": [
       "2026-11-19"
@@ -836,7 +880,7 @@ window.GIGS = [
     "fit": "Garage punk. ",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026.  https://crowbarsyd.oztix.com.au/outlet/event/515b5349-3d47-42f7-8a65-868818ed75e8",
     "id": "g17-1",
-    "rank": 17,
+    "rank": 18,
     "groupId": "group-17",
     "dates": [
       "2026-11-20"
@@ -881,7 +925,7 @@ window.GIGS = [
     "fit": "post-punk/noise rock. 18+. Special guests not yet named in primary source; additional checkout fees unknown.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. 18+. Special guests not yet named in primary source; additional checkout fees unknown. https://botanyviewhotel.oztix.com.au/outlet/event/2225c9ae-06a3-4c8e-800a-5c0b97f5fb8b",
     "id": "g18-1",
-    "rank": 18,
+    "rank": 19,
     "groupId": "group-18",
     "dates": [
       "2026-11-20"
@@ -898,6 +942,66 @@ window.GIGS = [
     ]
   },
   {
+    "id": "g55-1",
+    "lineup": [
+      "Medusa’s Wake",
+      "Goldfish Smarts",
+      "Handsome Young Strangers",
+      "Looch Lewis and the Press Gangsters",
+      "The Black Pints"
+    ],
+    "date": "2026-11-20",
+    "time": "Time conflict: weekly guide 17:00; individual poster 18:00. Doors and sets unconfirmed",
+    "venue": "MoshPit",
+    "suburb": "Erskineville",
+    "price": "Free",
+    "availability": "Official venue advertises free entry; no cancellation notice seen. No booking inventory tested.",
+    "style": "Celtic folk-punk / pub rock",
+    "fit": "A five-band free pub bill led by Celtic folk-rock, with punk energy and local guitar bands. Confirm the conflicting advertised start times.",
+    "url": "https://www.moshpitbar.com.au/",
+    "source": "Official venue homepage and individual/weekly posters checked 16 Nov 2026. Official time conflict: weekly guide17:00 vs individual poster18:00. Neither explicitly labels doors or music start. HYS resolves to Handsome Young Strangers on the primary poster. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/7ddadf86-385f-43a3-b25c-867e701a44a9/20.11.26.png https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/dbba4108-341f-4a46-a429-56f990d773f7/261122+MP+Gig+Guide.jpg",
+    "groupId": "group-55",
+    "dates": [
+      "2026-11-20"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Medusa’s Wake",
+        "url": "https://open.spotify.com/artist/0vfBC96W9TqJVpCbrm4CSo",
+        "trackUrl": "https://open.spotify.com/track/0sLBtUj6nzvESBVzoqHXps",
+        "trackName": "Creeper",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "Goldfish Smarts",
+        "url": "https://open.spotify.com/artist/2Yr77DIgoT6rAsKoqjnhtG",
+        "trackUrl": "https://open.spotify.com/track/3X5fY9QQIw4oEgLnCdrnmV",
+        "trackName": "Man About Town",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "Handsome Young Strangers",
+        "url": "https://open.spotify.com/artist/2PxXEq4QsgxNZsWOXVVm1M",
+        "trackUrl": "https://open.spotify.com/track/00J65UNZiHZd62RY86jYw6",
+        "trackName": "The Black Dog Kicker",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "Looch Lewis and the Press Gangsters",
+        "url": "https://open.spotify.com/artist/6giBuxDBcftCMHBm8omJFp",
+        "trackUrl": "https://open.spotify.com/track/5sAwArh2GvHHLWz6mdEWF7",
+        "trackName": "Crocodile",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "The Black Pints",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      }
+    ],
+    "rank": 20
+  },
+  {
     "lineup": [
       "Regurgitator"
     ],
@@ -912,7 +1016,7 @@ window.GIGS = [
     "fit": "An energetic, eccentric guitar-and-electronics option in Bondi, rather than another arena booking. No support announced in the retrieved seller text.",
     "source": "Official sources checked 15 Nov 2026. https://www.moshtix.com.au/v2/event/regurgitator-live-at-beach-road-bondi/199179",
     "id": "g19-1",
-    "rank": 19,
+    "rank": 21,
     "groupId": "group-19",
     "dates": [
       "2026-11-20"
@@ -944,7 +1048,7 @@ window.GIGS = [
     "fit": "Y2K pop-rock/pop-punk. ",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026.  https://tickets.oztix.com.au/outlet/event/ee5052a6-2d28-4489-b85b-e7482f83889f",
     "id": "g20-1",
-    "rank": 20,
+    "rank": 22,
     "groupId": "group-20",
     "dates": [
       "2026-11-21"
@@ -982,7 +1086,7 @@ window.GIGS = [
     "fit": "Alternative rock / noise pop. No support announced in checked primary text.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. No support announced in checked primary text. https://www.moshtix.com.au/v2/event/ratcat/202178",
     "id": "g21-1",
-    "rank": 21,
+    "rank": 23,
     "groupId": "group-21",
     "dates": [
       "2026-11-20"
@@ -1014,7 +1118,7 @@ window.GIGS = [
     "fit": "alternative/grunge. Primary indexed Eventbrite title and description verified; direct fetch inaccessible; price unknown.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Primary indexed Eventbrite title and description verified; direct fetch inaccessible; price unknown. https://www.eventbrite.com.au/e/metanoia-live-at-the-gladstone-tickets-2003686453119?aff=ebdssbcategorybrowse",
     "id": "g22-1",
-    "rank": 22,
+    "rank": 24,
     "groupId": "group-22",
     "dates": [
       "2026-11-20"
@@ -1048,7 +1152,7 @@ window.GIGS = [
     "fit": "A smaller experimental guitar bill, useful for discovery beyond the core-heavy shortlist.",
     "source": "Official sources checked 15 Nov 2026. https://low302.oztix.com.au/outlet/event/b5f926bc-b8d4-484a-821f-8fa7e2e8142b Complete three-act bill confirmed by official seller.",
     "id": "g23-1",
-    "rank": 23,
+    "rank": 25,
     "groupId": "group-23",
     "dates": [
       "2026-11-20"
@@ -1092,7 +1196,7 @@ window.GIGS = [
     "fit": "alternative rock. Album launch; National/Echo&Bunnymen/Saints comparisons. Acoustic opening duo.11 inclGST+1.57fee.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Album launch; National/Echo&Bunnymen/Saints comparisons. Acoustic opening duo.11 inclGST+1.57fee. https://events.humanitix.com/el-duende-album-launch https://events.humanitix.com/el-duende-album-launch/tickets",
     "id": "g24-1",
-    "rank": 24,
+    "rank": 26,
     "groupId": "group-24",
     "dates": [
       "2026-11-20"
@@ -1120,6 +1224,42 @@ window.GIGS = [
     ]
   },
   {
+    "id": "g56-1",
+    "lineup": [
+      "CrimesOnArt",
+      "Three Out Change"
+    ],
+    "date": "2026-11-17",
+    "time": "19:00 advertised; doors and individual sets unconfirmed",
+    "venue": "MoshPit",
+    "suburb": "Erskineville",
+    "price": "Free",
+    "availability": "Official venue advertises free entry; no cancellation notice seen. Additional support conflict: individual poster names Allan & Grant, weekly guide Motordose; neither is treated as confirmed.",
+    "style": "Alternative rock / indie / funk",
+    "fit": "A free midweek alternative-guitar discovery with a funk edge. Three Out Change is confirmed by both venue posters; the additional support slot is disputed.",
+    "url": "https://www.moshpitbar.com.au/",
+    "source": "Official venue homepage and individual/weekly posters checked 16 Nov 2026. Support conflict: individual event poster names Allan & Grant; weekly guide names Motordose. Both agree Three Out Change. Do not silently merge Allan & Grant and Motordose or claim a confirmed replacement. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/ed72d355-02f1-48b2-a53d-6a629510c415/17.11.26.jpg https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/dbba4108-341f-4a46-a429-56f990d773f7/261122+MP+Gig+Guide.jpg",
+    "groupId": "group-56",
+    "dates": [
+      "2026-11-17"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "CrimesOnArt",
+        "url": "https://open.spotify.com/artist/2oKkHhmVfjLBmc9eOPDKme",
+        "trackUrl": "https://open.spotify.com/track/1MC2GVFbtp5N4DqdExtfA5",
+        "trackName": "Poison Garden",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "Three Out Change",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      }
+    ],
+    "rank": 27
+  },
+  {
     "lineup": [
       "Almost Strangers",
       "Bughouse",
@@ -1136,7 +1276,7 @@ window.GIGS = [
     "fit": "rock. Price not stated.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Price not stated. https://www.oddculture.group/event/duke-gig-guide",
     "id": "g25-1",
-    "rank": 25,
+    "rank": 28,
     "groupId": "group-25",
     "dates": [
       "2026-11-20"
@@ -1174,7 +1314,7 @@ window.GIGS = [
     "fit": "glam/garage rock/punk. 18+.35+BF = displayed39.80; further fees unverified.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. 18+.35+BF = displayed39.80; further fees unverified. https://tickets.oztix.com.au/outlet/event/66b15bab-02ca-48b0-acba-4f8be5c734e4",
     "id": "g26-1",
-    "rank": 26,
+    "rank": 29,
     "groupId": "group-26",
     "dates": [
       "2026-11-21"
@@ -1202,6 +1342,44 @@ window.GIGS = [
     ]
   },
   {
+    "id": "g53-1",
+    "lineup": [
+      "ELECTRIK",
+      "RIPLEY BAND",
+      "KINGSCOTE"
+    ],
+    "date": "2026-11-20",
+    "time": "Live bands 20:00–23:00; individual sets unconfirmed; later DJs are not included",
+    "venue": "The Lansdowne",
+    "suburb": "Chippendale",
+    "price": "Free",
+    "availability": "Free GA selector; 18+. Seller start and venue index say Fri 20 Nov, but end date and sales cutoff instead show 27–28 Nov, conflicting with the advertised 20 Nov start. Confirm with venue; no week-long or repeated performance is assumed.",
+    "style": "Rock / indie",
+    "fit": "Three local live bands at a free pub night. The separate DJ session after 23:00 is not treated as another gig or artist entry.",
+    "url": "https://www.moshtix.com.au/v2/event/after-dark-w-electrik-ripley-band-kingscote/201587",
+    "source": "Official Lansdowne/Moshtix event and venue index checked 16 Nov 2026: free entry, 18+, Friday 20 November start and live bands 20:00–23:00. Seller end-date and sales-cutoff inconsistency retained explicitly. https://www.moshtix.com.au/v2/event/after-dark-w-electrik-ripley-band-kingscote/201587 https://www.moshtix.com.au/v2/venues/the-lansdowne-hotel-sydney-nsw/4775",
+    "groupId": "group-53",
+    "dates": [
+      "2026-11-20"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "ELECTRIK",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      },
+      {
+        "name": "RIPLEY BAND",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      },
+      {
+        "name": "KINGSCOTE",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      }
+    ],
+    "rank": 30
+  },
+  {
     "lineup": [
       "The Sugar Beats",
       "The Coolz",
@@ -1218,7 +1396,7 @@ window.GIGS = [
     "fit": "garage rock. Split7inch single launch. Official poster confirms free entry.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Split7inch single launch. Official poster confirms free entry. https://www.goldenbarleyhotel.com.au/ https://images.squarespace-cdn.com/content/v1/691bdb7f5f7ee703b6488a58/c9389296-b753-4d72-af72-9bd4f50936fd/COOLZ-SB-SOCIALS-POSTER.jpg",
     "id": "g27-1",
-    "rank": 27,
+    "rank": 31,
     "groupId": "group-27",
     "dates": [
       "2026-11-20"
@@ -1257,7 +1435,7 @@ window.GIGS = [
     "fit": "Riff-heavy psychedelic guitar music at a small room. Tabloid and Postcards From Pluto appear in secondary listings but are not yet primary-confirmed supports.",
     "source": "Official sources checked 15 Nov 2026. https://www.moshtix.com.au/v2/event/the-jam-sandwiches-infinite-launch/201092 Retrieved seller snapshot is older; the expired early-bird price is not presented as current.",
     "id": "g28-1",
-    "rank": 28,
+    "rank": 32,
     "groupId": "group-28",
     "dates": [
       "2026-11-20"
@@ -1293,7 +1471,7 @@ window.GIGS = [
     "fit": "punk/indie. Brookie Music Fest. Poster includes Vertigo absent from page prose. No times published on poster.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Brookie Music Fest. Poster includes Vertigo absent from page prose. No times published on poster. https://www.7thdaybrewery.com.au/gigs https://static.wixstatic.com/media/b30c24_1e408bccdc5e482292eb7ca4a8802da7~mv2.png",
     "id": "g29-1",
-    "rank": 29,
+    "rank": 33,
     "groupId": "group-29",
     "dates": [
       "2026-11-21"
@@ -1339,6 +1517,105 @@ window.GIGS = [
     ]
   },
   {
+    "id": "g57-1",
+    "lineup": [
+      "White Knuckle Fever",
+      "Soft Plastic",
+      "SXY XMS",
+      "Distant Nephew",
+      "Beijing Bikini",
+      "Fowl Weather Vein",
+      "Ben Aylward",
+      "Peter Black (Hard Ons)",
+      "WhatEva",
+      "Delusions of Grandeur",
+      "Balkan Grill",
+      "Donna Amini"
+    ],
+    "date": "2026-11-21",
+    "time": "Doors 13:30; music 14:00 per event poster; weekly guide instead lists 13:00. Individual sets unconfirmed",
+    "venue": "MoshPit",
+    "suburb": "Erskineville",
+    "price": "Free",
+    "availability": "Official venue advertises free entry; no cancellation notice seen. No booking inventory tested.",
+    "style": "Alternative rock / punk / pub rock",
+    "fit": "A broad twelve-act local-guitar farewell celebration, rather than a single headliner. Detailed event-poster doors/music times take precedence with the weekly-guide discrepancy disclosed. This title is not evidence of the venue’s final operating day.",
+    "url": "https://www.moshpitbar.com.au/",
+    "source": "Official venue homepage and individual/weekly posters checked 16 Nov 2026. Detailed event poster explicitly doors13:30/music14:00; weekly guide instead says13:00. Prefer explicit poster with discrepancy noted. Individual set timetable is secondary-only and not verified here. Farewell title does not establish this as the venue’s final operating date. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/806fdbef-4ca0-4c97-a90b-9df6a7bc8f27/21.11.26.jpg https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/dbba4108-341f-4a46-a429-56f990d773f7/261122+MP+Gig+Guide.jpg",
+    "eventTitle": "Farewell to MoshPit",
+    "groupId": "group-57",
+    "dates": [
+      "2026-11-21"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "White Knuckle Fever",
+        "url": "https://open.spotify.com/artist/1t4sZQ6sX5yrv66a9Tgzih",
+        "trackUrl": "https://open.spotify.com/track/3ErQ7W1CALzVuyi2qGrjMz",
+        "trackName": "My Pussy",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "Soft Plastic",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      },
+      {
+        "name": "SXY XMS",
+        "url": "https://open.spotify.com/artist/54FyVCj8PJottR6S5aQTBt",
+        "trackUrl": "https://open.spotify.com/track/6Tv171nnXCNB6NKUqujDCe",
+        "trackName": "Uneasy",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "Distant Nephew",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      },
+      {
+        "name": "Beijing Bikini",
+        "url": "https://open.spotify.com/artist/0ZLSCAhYmZ99hxBjDu5GJT",
+        "trackUrl": "https://open.spotify.com/track/2iWIHzv6POCUVpThXxl5nD",
+        "trackName": "Big Cheese",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "Fowl Weather Vein",
+        "url": "https://open.spotify.com/artist/6f3WSuTagBI0ufzKUnudUm",
+        "trackUrl": "https://open.spotify.com/track/2X6TkHA1wjYUi5iuuZD1ZL",
+        "trackName": "What You Can Remember",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "Ben Aylward",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      },
+      {
+        "name": "Peter Black (Hard Ons)",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      },
+      {
+        "name": "WhatEva",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      },
+      {
+        "name": "Delusions of Grandeur",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      },
+      {
+        "name": "Balkan Grill",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      },
+      {
+        "name": "Donna Amini",
+        "url": "https://open.spotify.com/artist/0r0yk981ag7TVJ2hedspzQ",
+        "trackUrl": "https://open.spotify.com/track/5RCCxGyvuF7lGiecAVqYHn",
+        "trackName": "Pilots",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      }
+    ],
+    "rank": 34
+  },
+  {
     "lineup": [
       "Fool Nelson",
       "Miramar",
@@ -1356,7 +1633,7 @@ window.GIGS = [
     "fit": "indie/alternative. T-PARTY. Stalls12:00; music14:30. Primary header22Nov2026 but body mistakenly says Sunday23Nov; retain warning. Merch-stall artists not performers.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. T-PARTY. Stalls12:00; music14:30. Primary header22Nov2026 but body mistakenly says Sunday23Nov; retain warning. Merch-stall artists not performers. https://tickets.oztix.com.au/outlet/event/7fad592d-99d4-498b-9b8e-8fd592d20da5",
     "id": "g30-1",
-    "rank": 30,
+    "rank": 35,
     "groupId": "group-30",
     "dates": [
       "2026-11-22"
@@ -1410,7 +1687,7 @@ window.GIGS = [
     "fit": "Dark ambient / dungeon synth / pagan folk / industrial-adjacent. Detailed order on combined two-date venue page supersedes generic main-act 19:30; no per-date distinction shown.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Detailed order on combined two-date venue page supersedes generic main-act 19:30; no per-date distinction shown. https://hardlinemedia.net/mortiis-%2B-nytt-land-%2B-tir https://aucentury.sales.ticketsearch.com/sales/salesevent?ev=163456",
     "id": "g31-1",
-    "rank": 31,
+    "rank": 36,
     "groupId": "group-31",
     "dates": [
       "2026-11-18"
@@ -1457,7 +1734,7 @@ window.GIGS = [
     "fit": "Dark ambient / dungeon synth / pagan folk / industrial-adjacent. Detailed order on combined two-date venue page supersedes generic main-act 19:30; no per-date distinction shown.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Detailed order on combined two-date venue page supersedes generic main-act 19:30; no per-date distinction shown. https://hardlinemedia.net/mortiis-%2B-nytt-land-%2B-tir https://aucentury.sales.ticketsearch.com/sales/salesevent?ev=163456",
     "id": "g32-1",
-    "rank": 32,
+    "rank": 37,
     "groupId": "group-32",
     "dates": [
       "2026-11-19"
@@ -1488,6 +1765,53 @@ window.GIGS = [
     ]
   },
   {
+    "id": "g52-1",
+    "lineup": [
+      "Mouseatouille",
+      "The Enthusiast",
+      "Our Mutual Friend"
+    ],
+    "date": "2026-11-22",
+    "time": "19:00 advertised event time; doors and individual sets unconfirmed",
+    "venue": "The Lansdowne",
+    "suburb": "Chippendale",
+    "price": "A$29.57 incl GST/service fees + A$0.95/order (A$30.52 for one)",
+    "availability": "GA selector listed; online sales advertised to close 18:00 on show day. Checkout inventory not tested. 18+. Room allocation unconfirmed: Haywire is separately listed at the same venue and time.",
+    "style": "Chamber indie rock / folk rock / DIY emo",
+    "fit": "A nine-piece guitar-led chamber-indie bill with folk-rock and DIY-emo supports. A lighter discovery option; DJ Set is the album title, not a DJ-only performance. Confirm the room with the venue because Haywire is separately advertised at the same time.",
+    "url": "https://www.moshtix.com.au/v2/event/mouseatouille-w-the-enthusiast-and-our-mutual-friend/201514",
+    "source": "Official Yours & Owls/Moshtix event and seller venue index checked 16 Nov 2026. Date, three performers, A$29.57, A$0.95 order fee and 18:00 cutoff confirmed. Room overlap remains unresolved, not a cancellation. https://www.moshtix.com.au/v2/event/mouseatouille-w-the-enthusiast-and-our-mutual-friend/201514 https://www.moshtix.com.au/v2/venues/the-lansdowne-hotel-sydney-nsw/4775",
+    "groupId": "group-52",
+    "dates": [
+      "2026-11-22"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Mouseatouille",
+        "url": "https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa",
+        "trackUrl": "https://open.spotify.com/track/1EYU6IqrE9xOcxYIMMAn1f",
+        "trackName": "Mike & Melissa",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "The Enthusiast",
+        "url": "https://open.spotify.com/artist/0U1BO9Q6anmBv1RjO3lFN8",
+        "trackUrl": "https://open.spotify.com/track/1cD5T3d6IQtXTbQbsvjeUf",
+        "trackName": "Warheads",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "Our Mutual Friend",
+        "url": "https://open.spotify.com/artist/1Xx9GRtX8Wl3tvGmgcDrnm",
+        "trackUrl": "https://open.spotify.com/track/6jsGni5E924abhjUOUsGkr",
+        "trackName": "dry my tears",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      }
+    ],
+    "rank": 38
+  },
+  {
     "lineup": [
       "The Clouds",
       "Jean Elliot"
@@ -1503,7 +1827,7 @@ window.GIGS = [
     "fit": "Angular guitars and vocal harmonies from the Australian alternative band, with Jean Elliot confirmed.",
     "source": "Official sources checked 15 Nov 2026. https://www.metrotheatre.com.au/event/the-clouds-2/ https://premier.ticketek.com.au/shows/show.aspx?sh=THCLOD26 The 19:30 heading is doors, not the main act.",
     "id": "g33-1",
-    "rank": 33,
+    "rank": 39,
     "groupId": "group-33",
     "dates": [
       "2026-11-21"
@@ -1541,7 +1865,7 @@ window.GIGS = [
     "fit": "Guitar-led alternative rock from the Naked At Your Door EP tour. No support independently confirmed.",
     "source": "Official sources checked 15 Nov 2026. https://www.moshtix.com.au/v2/event/day-we-ran-the-naked-at-your-door-tour/199443 Event header confirms Friday20; conflicting Saturday sales-cutoff field does not establish another show.",
     "id": "g34-1",
-    "rank": 34,
+    "rank": 40,
     "groupId": "group-34",
     "dates": [
       "2026-11-20"
@@ -1572,7 +1896,7 @@ window.GIGS = [
     "fit": "rock. No supports or price stated.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. No supports or price stated. https://www.oddculture.group/event/duke-gig-guide",
     "id": "g35-1",
-    "rank": 35,
+    "rank": 41,
     "groupId": "group-35",
     "dates": [
       "2026-11-21"
@@ -1602,7 +1926,7 @@ window.GIGS = [
     "fit": "indie/rock. 15+1.75fee presale;20door. Confirmed SUNDAY22 not secondarySaturday21.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. 15+1.75fee presale;20door. Confirmed SUNDAY22 not secondarySaturday21. https://events.humanitix.com/the-charlies-w-embrosia-and-liam-chester https://events.humanitix.com/the-charlies-w-embrosia-and-liam-chester/tickets",
     "id": "g36-1",
-    "rank": 36,
+    "rank": 42,
     "groupId": "group-36",
     "dates": [
       "2026-11-22"
@@ -1643,7 +1967,7 @@ window.GIGS = [
     "fit": "alternative rock/indie pop-rock/classic rock. Rewind the Night. Poster all ages, U18 with responsible adult. Cover/original balance unestablished.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Rewind the Night. Poster all ages, U18 with responsible adult. Cover/original balance unestablished. https://www.wingsandtins.com/dee-why-live https://static.wixstatic.com/media/99af39_4a7adacdfc034d7abea7e576d1627b1b~mv2.jpeg",
     "id": "g37-1",
-    "rank": 37,
+    "rank": 43,
     "groupId": "group-37",
     "dates": [
       "2026-11-21"
@@ -1681,7 +2005,7 @@ window.GIGS = [
     "fit": "pop-punk. LINK-182 is Blink182 tribute; Afterthought/Lapse play ORIGINAL sets. Official poster no time; secondary times conflicting18:00 vs19:30.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. LINK-182 is Blink182 tribute; Afterthought/Lapse play ORIGINAL sets. Official poster no time; secondary times conflicting18:00 vs19:30. https://www.7thdaybrewery.com.au/gigs https://static.wixstatic.com/media/b30c24_cb07edaeda2e416fb7e2f1800c545010~mv2.jpg",
     "id": "g38-1",
-    "rank": 38,
+    "rank": 44,
     "groupId": "group-38",
     "dates": [
       "2026-11-20"
@@ -1724,7 +2048,7 @@ window.GIGS = [
     "fit": "A brighter guitar-driven alternative: Tourist History and The Vaccines' debut album are both advertised in full.",
     "source": "Official sources checked 15 Nov 2026. https://thehordern.com.au/event/two-door-cinema-club/ https://www.axs.com/events/1542689/two-door-cinema-club-sat-21-nov-tickets AXS is the venue's current authorised seller; venue dates and support confirmed.",
     "id": "g39-1",
-    "rank": 39,
+    "rank": 45,
     "groupId": "group-39",
     "dates": [
       "2026-11-21"
@@ -1763,7 +2087,7 @@ window.GIGS = [
     "fit": "A brighter guitar-driven alternative: Tourist History and The Vaccines' debut album are both advertised in full.",
     "source": "Official sources checked 15 Nov 2026. https://thehordern.com.au/event/two-door-cinema-club/ https://www.axs.com/events/1542692/two-door-cinema-club-sun-22-nov-tickets AXS is the venue's current authorised seller; venue dates and support confirmed.",
     "id": "g40-1",
-    "rank": 40,
+    "rank": 46,
     "groupId": "group-40",
     "dates": [
       "2026-11-22"
@@ -1802,7 +2126,7 @@ window.GIGS = [
     "fit": "A full-band songwriter set for the lighter end of the week, with Liam Kazar opening.",
     "source": "Official sources checked 15 Nov 2026. https://www.metrotheatre.com.au/event/kevin-morby/ Venue running order supersedes older 20:00 snippets. Ticketek retrieval failed; no price or stock inferred.",
     "id": "g41-1",
-    "rank": 41,
+    "rank": 47,
     "groupId": "group-41",
     "dates": [
       "2026-11-18"
@@ -1840,7 +2164,7 @@ window.GIGS = [
     "fit": "Intimate melodic songwriting from the UK duo Will Taylor and Nick Hill; a lighter Monday option. Support unannounced.",
     "source": "Official sources checked 15 Nov 2026. https://www.moshtix.com.au/v2/event/flyte-uk/195420 Oxford Art Factory is the current seller-confirmed venue, not secondary Factory Theatre listings.",
     "id": "g42-1",
-    "rank": 42,
+    "rank": 48,
     "groupId": "group-42",
     "dates": [
       "2026-11-16"
@@ -1872,7 +2196,7 @@ window.GIGS = [
     "fit": "A mellow melodic contrast to the heavy bills, with Canadian solo artist Jack J confirmed.",
     "source": "Official sources checked 15 Nov 2026. https://www.enmoretheatre.com.au/event/men-i-trust/ https://premier.ticketek.com.au/shows/show.aspx?sh=TRUSTMEN26 Separate dates retain their own availability; shared venue running order.",
     "id": "g43-1",
-    "rank": 43,
+    "rank": 49,
     "groupId": "group-43",
     "dates": [
       "2026-11-20"
@@ -1911,7 +2235,7 @@ window.GIGS = [
     "fit": "A mellow melodic contrast to the heavy bills, with Canadian solo artist Jack J confirmed.",
     "source": "Official sources checked 15 Nov 2026. https://www.enmoretheatre.com.au/event/men-i-trust/ https://premier.ticketek.com.au/shows/show.aspx?sh=TRUSTMEN26 Separate dates retain their own availability; shared venue running order.",
     "id": "g44-1",
-    "rank": 44,
+    "rank": 50,
     "groupId": "group-44",
     "dates": [
       "2026-11-21"
@@ -1951,7 +2275,7 @@ window.GIGS = [
     "fit": "Classic glam / hard rock. ",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026.  https://www.enmoretheatre.com.au/event/the-sweet-uk/",
     "id": "g45-1",
-    "rank": 45,
+    "rank": 51,
     "groupId": "group-45",
     "dates": [
       "2026-11-19"
@@ -1997,7 +2321,7 @@ window.GIGS = [
     "fit": "Classic glam / hard rock. TMG listed in tour header but not Penrith running order; do not include without further confirmation.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. TMG listed in tour header but not Penrith running order; do not include without further confirmation. https://premier.ticketek.com.au/Shows/Show.aspx?sh=SWEETFB26",
     "id": "g46-1",
-    "rank": 46,
+    "rank": 52,
     "groupId": "group-46",
     "dates": [
       "2026-11-20"
@@ -2036,7 +2360,7 @@ window.GIGS = [
     "fit": "pop/rock. Lower genre fit.18+. Further fees unknown.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Lower genre fit.18+. Further fees unknown. https://botanyviewhotel.oztix.com.au/outlet/event/0a8838ed-56ac-468d-8e7d-584e8514cefb",
     "id": "g47-1",
-    "rank": 47,
+    "rank": 53,
     "groupId": "group-47",
     "dates": [
       "2026-11-21"
@@ -2074,7 +2398,7 @@ window.GIGS = [
     "fit": "rock. Price and cover/original balance not established.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Price and cover/original balance not established. https://www.goldenbarleyhotel.com.au/",
     "id": "g48-1",
-    "rank": 48,
+    "rank": 54,
     "groupId": "group-48",
     "dates": [
       "2026-11-22"
@@ -2102,7 +2426,7 @@ window.GIGS = [
     "fit": "rock. Live set AFTER Tension12 film premiere. Monthly gigs described free but film ticket requirement not established; do not assume film free.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Live set AFTER Tension12 film premiere. Monthly gigs described free but film ticket requirement not established; do not assume film free. https://www.7thdaybrewery.com.au/gigs",
     "id": "g49-1",
-    "rank": 49,
+    "rank": 55,
     "groupId": "group-49",
     "dates": [
       "2026-11-22"
@@ -2114,6 +2438,47 @@ window.GIGS = [
         "status": "No exact playable recording verified; not substituted."
       }
     ]
+  },
+  {
+    "id": "g58-1",
+    "lineup": [
+      "Aerials (System of a Down tribute)",
+      "Cut/Run",
+      "Else"
+    ],
+    "date": "2026-11-22",
+    "time": "Event poster 16:00–19:00; weekly guide instead 15:30. Doors and individual sets unconfirmed",
+    "venue": "MoshPit",
+    "suburb": "Erskineville",
+    "price": "Free",
+    "availability": "Official venue advertises free entry; no cancellation notice seen. No booking inventory tested.",
+    "style": "Alternative metal tribute / rock",
+    "fit": "Explicit System of a Down tribute with Cut/Run and Else on the bill. A lower-priority tribute option, not a performance by System of a Down; no original-band Spotify substitution.",
+    "url": "https://www.moshpitbar.com.au/",
+    "source": "Official venue homepage and individual/weekly posters checked 16 Nov 2026. Official time discrepancy: weekly15:30 vs event poster16–19. Do not relabel15:30 as doors without evidence. Aerials is explicitly a tribute, not System of a Down. https://www.moshpitbar.com.au/ https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/4a756f88-19ae-45cb-9256-4a3d16d8671c/22.11.26.jpeg https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/dbba4108-341f-4a46-a429-56f990d773f7/261122+MP+Gig+Guide.jpg",
+    "groupId": "group-58",
+    "dates": [
+      "2026-11-22"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Aerials (System of a Down tribute)",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      },
+      {
+        "name": "Cut/Run",
+        "url": "https://open.spotify.com/artist/7BPkcyug3ZKb5XtdZpCYmp",
+        "trackUrl": "https://open.spotify.com/track/0On1aDz6FCpD8Lpp3ZEZ0d",
+        "trackName": "Critical Static",
+        "status": "Exact artist and playable representative recording verified; not a setlist guarantee."
+      },
+      {
+        "name": "Else",
+        "status": "No exact Spotify recording safely verified; no namesake or tribute-original substitution."
+      }
+    ],
+    "rank": 56
   },
   {
     "lineup": [
@@ -2130,7 +2495,7 @@ window.GIGS = [
     "fit": "Acoustic grunge tribute. Low-fit optional tribute. Moshtix 19:00 conflicts with venue 19:30; neither identified as doors. Nirvana/Pearl Jam are covered artists, not performers.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Low-fit optional tribute. Moshtix 19:00 conflicts with venue 19:30; neither identified as doors. Nirvana/Pearl Jam are covered artists, not performers. https://bridgehotel.com.au/events/monstr/",
     "id": "g50-1",
-    "rank": 50,
+    "rank": 57,
     "groupId": "group-50",
     "dates": [
       "2026-11-20"
@@ -2159,7 +2524,7 @@ window.GIGS = [
     "fit": "grunge tribute. Nirvana tribute, NOT Nirvana.35+2.63fee presale;40door.",
     "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Nirvana tribute, NOT Nirvana.35+2.63fee presale;40door. https://events.humanitix.com/nirvana-tribute-puget-sounds-green-foot-at-wings-x-tins-dee-why-fri-nov-20 https://events.humanitix.com/nirvana-tribute-puget-sounds-green-foot-at-wings-x-tins-dee-why-fri-nov-20/tickets",
     "id": "g51-1",
-    "rank": 51,
+    "rank": 58,
     "groupId": "group-51",
     "dates": [
       "2026-11-20"
