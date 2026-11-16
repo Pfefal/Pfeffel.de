@@ -1,5 +1,12 @@
 SYDNEY GIGS — SOURCES AND ATTRIBUTION
-Week: 16–22 November 2026. Official-source review: 16 November 2026, Sydney time.
+Week: 16–22 November 2026. Official-source review: 17 November 2026, Sydney time.
+
+17 NOVEMBER DAILY UPDATE
+The 58-show research set and 15 featured shows remain in the same taste order. Haywire's evening Lansdowne allocation now shows exhausted on Moshtix, superseding the selectable GA state observed on 16 November. Its date, price, support and guardian conditions are unchanged. This is the advertised seller status, not a checkout test.
+
+Featured shows and live-music pubs were rechecked. Existing row-level source dates and limitations remain where no substantive change was verified. Golden Barley advertises Young Offenders with Jongo Bones and Jawgee on 21 November; official Dashville/organiser sources also bill the first two acts in Lower Belford that evening, so the Sydney addition is withheld pending resolution. Among The Restless's date conflict and Sonic Reducer's secondary-only lead remain unresolved. No cancellation or relocation is inferred from these conflicts.
+
+The existing companion playlist's 137 unique playable tracks were read back in exact existing order. No track, title, description, cover, visibility, playback or calendar changes were made. Website changes are limited to this review note, Haywire availability/source, the checked date and matching data/provenance cache hashes; application logic and design are unchanged.
 
 16 NOVEMBER DAILY UPDATE
 58 individual shows are now researched; only the first 15 are featured. All 51 previously verified shows keep their relative order. Seven newly primary-confirmed bills are inserted by musical fit. ADRIAAAN with Face to Foot and Six Month Search Party enters at rank 8, taking the featured selection to its unchanged 15-show cap; the Chats dates remain in the broader research.
@@ -51,3 +58,4 @@ The MIT licence applies only to original application code and layout. Geographic
 
 PLAYLIST ART
 The cream/red 300px WebP is the exact existing user-generated Sydney Heavy Gigs cover, recovered from the public playlist header with the user's express reuse authorization. It is bundled locally, not requested from a third-party CDN at runtime. Source image: https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c051063e0632af0fe0aa41905 . Its printed IN ROTATION band names are part of the pre-existing branding, not the current week's line-up. This artwork is not represented as third-party Spotify artist artwork or relicensed under the application's MIT terms.
+

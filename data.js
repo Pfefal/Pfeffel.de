@@ -1,4 +1,4 @@
-/* Official-source snapshot reviewed 16 November 2026, Australia/Sydney. Row-level source notes retain dates and limitations. */
+/* Official-source snapshot reviewed 17 November 2026, Australia/Sydney. Row-level source notes retain dates and limitations. */
 window.GIGS = [
   {
     "lineup": [
@@ -208,9 +208,9 @@ window.GIGS = [
     "style": "Hardcore",
     "url": "https://www.moshtix.com.au/v2/event/new-date-haywire-usa-australian-tour-sydney/197273",
     "price": "A$44.86 + A$1.95/order; one A$46.81",
-    "availability": "GA selector offered; online sales advertised to close 22:30 on show day. All ages; U18 accompanied by legal guardian 25+, up to three minors per guardian. Checkout inventory not tested. Room allocation unconfirmed: Mouseatouille is separately listed at the same venue and time.",
+    "availability": "GA allocation exhausted. All ages; U18 accompanied by legal guardian 25+, up to three minors per guardian. Room allocation unconfirmed: Mouseatouille is separately listed at the same venue and time. Checkout inventory not tested.",
     "fit": "The evening hardcore option. Rescheduled to 22 November; a GA selector is offered again after the earlier exhausted allocation. The official event is all ages with guardian conditions. Confirm the room with the venue.",
-    "source": "Official Moshtix page checked 16 Nov 2026: GA selector now offered, A$44.86 plus A$1.95/order unchanged, 22:30 sales cutoff; existing tickets valid for the rescheduled date. Separate Mouseatouille listing at the same venue/time does not establish a cancellation or a move. https://www.moshtix.com.au/v2/event/new-date-haywire-usa-australian-tour-sydney/197273 https://www.moshtix.com.au/v2/venues/the-lansdowne-hotel-sydney-nsw/4775",
+    "source": "Official Moshtix page refreshed 17 Nov 2026 shows GA allocation exhausted, replacing the selector observed 16 Nov. Date, price, Feel The Pain support and guardian conditions unchanged. https://www.moshtix.com.au/v2/event/new-date-haywire-usa-australian-tour-sydney/197273",
     "id": "g05-1",
     "rank": 5,
     "groupId": "group-05",
