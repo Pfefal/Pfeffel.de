@@ -1,5 +1,10 @@
 SYDNEY GIGS — SOURCES AND ATTRIBUTION
-Week: 16–22 November 2026. Official-source review: 17 November 2026, Sydney time.
+Week: 16–22 November 2026. Official-source review: 18 November 2026, Sydney time.
+
+18 NOVEMBER DAILY UPDATE
+LOUD WOMEN Fest's official Moshtix page now advertises a "2 For 1" tier at A$17.50, closing Thursday 19 November at 09:00 Sydney time; A$2.95 applies per order. GA A$35 and concession/mob A$25 remain listed. Quantity/eligibility rules and checkout inventory were not tested, so the site does not claim a guaranteed two-person total. The 13-act lineup, venue and date are unchanged.
+
+The 58-show research set, 15 featured shows and taste order are preserved. No new confirmed lineup change requiring a Spotify edit was established. All 137 unique playable companion tracks were read back in exact previous order. No playlist metadata, cover, visibility, playback or calendar changes. Unchanged row-level evidence dates and uncertainty labels remain; the checked date is not a claim of fresh transactional inventory for every listing.
 
 17 NOVEMBER DAILY UPDATE
 The 58-show research set and 15 featured shows remain in the same taste order. Haywire's evening Lansdowne allocation now shows exhausted on Moshtix, superseding the selectable GA state observed on 16 November. Its date, price, support and guardian conditions are unchanged. This is the advertised seller status, not a checkout test.
@@ -58,4 +63,5 @@ The MIT licence applies only to original application code and layout. Geographic
 
 PLAYLIST ART
 The cream/red 300px WebP is the exact existing user-generated Sydney Heavy Gigs cover, recovered from the public playlist header with the user's express reuse authorization. It is bundled locally, not requested from a third-party CDN at runtime. Source image: https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c051063e0632af0fe0aa41905 . Its printed IN ROTATION band names are part of the pre-existing branding, not the current week's line-up. This artwork is not represented as third-party Spotify artist artwork or relicensed under the application's MIT terms.
+
 

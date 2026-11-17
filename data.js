@@ -1,4 +1,4 @@
-/* Official-source snapshot reviewed 17 November 2026, Australia/Sydney. Row-level source notes retain dates and limitations. */
+/* Official-source snapshot reviewed 18 November 2026, Australia/Sydney. Row-level source notes retain dates and limitations. */
 window.GIGS = [
   {
     "lineup": [
@@ -635,10 +635,10 @@ window.GIGS = [
     "time": "12:00 advertised event time; individual set times unconfirmed",
     "style": "Punk / post-punk / riot grrrl",
     "url": "https://www.moshtix.com.au/v2/event/loud-women-fest-sydney-gadigal-2026/200973",
-    "price": "GA A$35 + A$2.95/order; one A$37.95; concession/mob A$25 + A$2.95",
-    "availability": "Selectors; sales close 13:00; 18+; checkout inventory not tested.",
+    "price": "GA A$35; concession/mob A$25; advertised \"2 For 1\" tier A$17.50 until 19 Nov 09:00; + A$2.95/order. Promotion quantity/eligibility conditions unverified.",
+    "availability": "Selectors displayed; \"2 For 1\" sales close Thu 19 Nov 09:00 Sydney; GA/concession sales close Sat 21 Nov 13:00. 18+; checkout inventory and promotion conditions not tested.",
     "fit": "LOUD WOMEN Fest: a broad punk, post-punk, grunge and riot-grrrl discovery day. The 13-act bill is alphabetical, not a headliner or set-order claim.",
-    "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. Alphabetical lineup, not running order. Sydney Saturday 21 Nov; Melbourne is Sunday 22. https://www.moshtix.com.au/v2/event/loud-women-fest-sydney-gadigal-2026/200973",
+    "source": "Official Moshtix refreshed 18 Nov 2026 lists a new \"2 For 1\" tier at A$17.50 with 19 Nov 09:00 closing time and A$2.95 transaction fee. GA/concession, date and 13-act alphabetical lineup unchanged; no claim about pair mechanics or guaranteed availability. https://www.moshtix.com.au/v2/event/loud-women-fest-sydney-gadigal-2026/200973",
     "id": "g13-1",
     "rank": 14,
     "groupId": "group-13",
