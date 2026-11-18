@@ -1,4 +1,4 @@
-/* Official-source snapshot reviewed 18 November 2026, Australia/Sydney. Row-level source notes retain dates and limitations. */
+/* Official-source snapshot reviewed 19 November 2026, Australia/Sydney. Row-level source notes retain dates and limitations. */
 window.GIGS = [
   {
     "lineup": [
@@ -1629,9 +1629,9 @@ window.GIGS = [
     "style": "indie/alternative",
     "url": "https://tickets.oztix.com.au/outlet/event/7fad592d-99d4-498b-9b8e-8fd592d20da5",
     "price": "Free",
-    "availability": "free RSVP selectable; checkout inventory not tested. Date warning: seller header says Sun 22 Nov; its prose says Sun 23 Nov. Confirm with venue.",
-    "fit": "indie/alternative. T-PARTY. Stalls12:00; music14:30. Primary header22Nov2026 but body mistakenly says Sunday23Nov; retain warning. Merch-stall artists not performers.",
-    "source": "Official venue/promoter/ticket sources checked 15 Nov 2026. T-PARTY. Stalls12:00; music14:30. Primary header22Nov2026 but body mistakenly says Sunday23Nov; retain warning. Merch-stall artists not performers. https://tickets.oztix.com.au/outlet/event/7fad592d-99d4-498b-9b8e-8fd592d20da5",
+    "availability": "Free RSVP selectable; 18+; checkout inventory not tested.",
+    "fit": "A lighter indie/alternative discovery bill for T-PARTY. Merch stalls from 12:00; live music from 14:30. Merch-stall artists are not additional performers.",
+    "source": "Official Oztix page refreshed 19 Nov 2026: header and prose now both confirm Sunday 22 November, resolving the earlier 22/23 date conflict. Four live acts unchanged; stalls12:00/music14:30. https://tickets.oztix.com.au/outlet/event/7fad592d-99d4-498b-9b8e-8fd592d20da5",
     "id": "g30-1",
     "rank": 35,
     "groupId": "group-30",
