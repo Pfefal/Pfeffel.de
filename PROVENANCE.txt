@@ -1,5 +1,13 @@
 SYDNEY GIGS — SOURCES AND ATTRIBUTION
-Week: 16–22 November 2026. Official-source review: 19 November 2026, Sydney time.
+Week: 16–22 November 2026. Official-source review: 20 November 2026, Sydney time.
+
+20 NOVEMBER DAILY UPDATE
+Arbiter's Moshtix GA allocation is now exhausted. This is not a cancellation and door availability is unconfirmed. LOUD WOMEN's former 2 For 1 promotion is explicitly closed; regular GA A$35 and concession/mob A$25 remain selectable, plus A$2.95 per order. No checkout inventory was tested.
+
+SEIMS at the Chippo remains confirmed for 20 November with Mowgli, Fabulous Contraption and Foiled Fishing Plans, A$23.50. Regurgitator at Beach Road remains confirmed for the same date, A$47.94 plus A$2.95/order, with no named support in the seller text. Both already appear in the research and companion playlist; SEIMS remains featured at rank 10 and Regurgitator outside the 15-show cap. Their reconfirmation does not justify duplication or taste-order changes.
+
+The 58-show research set, 15 featured cards and all 137 unique playable companion tracks retain their exact order. Named live-music pubs and featured sources were reviewed, with cached or inaccessible sources not claimed as freshly confirmed. Existing source-date limitations remain. No playlist, application, design, calendar or unrelated repository changes.
+
 
 19 NOVEMBER DAILY UPDATE
 T-PARTY's official Oztix prose now agrees with its header: Sunday 22 November. The old date-conflict warning has been removed; the four-band lineup, free RSVP and stalls12:00/music14:30 are unchanged. The 58-show research set and 15 featured shows retain their order. LOUD WOMEN's explicitly dated promotion still closes at09:00 on19November; it was rechecked before that deadline, not extended.
@@ -68,6 +76,7 @@ The MIT licence applies only to original application code and layout. Geographic
 
 PLAYLIST ART
 The cream/red 300px WebP is the exact existing user-generated Sydney Heavy Gigs cover, recovered from the public playlist header with the user's express reuse authorization. It is bundled locally, not requested from a third-party CDN at runtime. Source image: https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c051063e0632af0fe0aa41905 . Its printed IN ROTATION band names are part of the pre-existing branding, not the current week's line-up. This artwork is not represented as third-party Spotify artist artwork or relicensed under the application's MIT terms.
+
 
 
 
