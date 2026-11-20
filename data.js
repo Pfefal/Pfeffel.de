@@ -1,4 +1,4 @@
-/* Official-source snapshot reviewed 20 November 2026, Australia/Sydney. Row-level source notes retain dates and limitations. */
+/* Official-source snapshot reviewed 21 November 2026, Australia/Sydney. Row-level source notes retain dates and limitations. */
 window.GIGS = [
   {
     "lineup": [
@@ -13,10 +13,10 @@ window.GIGS = [
     "time": "Doors 19:00; individual set times unconfirmed",
     "style": "Metalcore / post-hardcore",
     "url": "https://www.moshtix.com.au/v2/event/outloved-is-this-letting-go-album-tour-w-broken-earth-alera-dreamcult/201237",
-    "price": "A$25 incl fees + A$2.10/order; one A$27.10",
-    "availability": "GA selector; early bird closed. Online sales advertised to close 21:00 on show day. 18+. Checkout inventory not tested.",
+    "price": "Standard GA A$25; GA – Secret Stash A$30; + A$2.10 per order.",
+    "availability": "Both GA selectors displayed; early bird closed. Online sales advertised to close 21:00 on show day. 18+. Checkout inventory and Secret Stash inclusions not verified.",
     "fit": "The closest fit to melodic metalcore and post-hardcore: heavy hooks, clean contrasts and a fully named four-band bill.",
-    "source": "Official Moshtix page refreshed 15 Nov 2026 confirms the four-band bill, doors 19:00, A$25 plus A$2.10/order, 18+ and 21:00 online-sales cutoff. No individual sets published. https://www.moshtix.com.au/v2/event/outloved-is-this-letting-go-album-tour-w-broken-earth-alera-dreamcult/201237",
+    "source": "Official Moshtix checked 21 Nov 2026 confirms the unchanged four-band bill and doors at 19:00. Standard GA A$25 and a separately listed Secret Stash GA A$30 are selectable, plus A$2.10/order. No individual sets published. https://www.moshtix.com.au/v2/event/outloved-is-this-letting-go-album-tour-w-broken-earth-alera-dreamcult/201237",
     "id": "g01-1",
     "rank": 1,
     "groupId": "group-01",

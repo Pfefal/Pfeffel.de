@@ -1,5 +1,11 @@
 SYDNEY GIGS — SOURCES AND ATTRIBUTION
-Week: 16–22 November 2026. Official-source review: 20 November 2026, Sydney time.
+Week: 16–22 November 2026. Official-source review: 21 November 2026, Sydney time.
+
+21 NOVEMBER DAILY UPDATE
+OUTLOVED's Moshtix listing now shows a separate Secret Stash general admission tier at A$30 alongside standard GA at A$25. Both display selectors and a 21:00 online-sales cutoff, plus A$2.10 per order. No checkout inventory or tier inclusions were tested. This does not change the cheapest advertised ticket, lineup, doors time or position in the guide.
+
+LOUD WOMEN's 2 For 1 tier is still closed despite a changed historical cutoff shown by the seller; it is not a current offer. No rank, lineup, playlist, application, calendar or design change.
+
 
 20 NOVEMBER DAILY UPDATE
 Arbiter's Moshtix GA allocation is now exhausted. This is not a cancellation and door availability is unconfirmed. LOUD WOMEN's former 2 For 1 promotion is explicitly closed; regular GA A$35 and concession/mob A$25 remain selectable, plus A$2.95 per order. No checkout inventory was tested.
@@ -76,6 +82,7 @@ The MIT licence applies only to original application code and layout. Geographic
 
 PLAYLIST ART
 The cream/red 300px WebP is the exact existing user-generated Sydney Heavy Gigs cover, recovered from the public playlist header with the user's express reuse authorization. It is bundled locally, not requested from a third-party CDN at runtime. Source image: https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c051063e0632af0fe0aa41905 . Its printed IN ROTATION band names are part of the pre-existing branding, not the current week's line-up. This artwork is not represented as third-party Spotify artist artwork or relicensed under the application's MIT terms.
+
 
 
 
