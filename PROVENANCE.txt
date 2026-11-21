@@ -1,6 +1,35 @@
 SYDNEY GIGS — SOURCES AND ATTRIBUTION
-Week: 16–22 November 2026. Official-source review: 21 November 2026, Sydney time.
+Week: 23–29 November 2026. Official-source review: 22 November 2026, Sydney time.
 
+WEEKLY EDITION — 22 NOVEMBER
+The public list shows 15 of 21 researched shows, ranked by musical fit. Small local metalcore, hardcore, progressive metal and riff-heavy live bands lead the guide. Rock, emo and verified pub bills add breadth. The companion playlist covers qualifying tracks across the broader list. Representative tracks are not setlists; no namesake substitutes.
+
+Aurateque follows the newest public Dead Set lineup, not conflicting older artist listings. No free-entry claim for Dead Set was verified for this edition. For Step In Blood, both 18:00 venue and 18:30 ticket timings are retained rather than treating either as confirmed doors. The Total Order two-for-one offer is not verified and is not used. Ron Keel is excluded as cancelled. The Sisters of Mercy is sold out on primary sources and appears outside the featured cap. No ticket checkout, calendar action or redesign.
+
+Current primary event sources:
+1. Aurateque — 2026-11-27 — https://deadsetdarlo.com.au/whats-on/aurateque.html
+2. RVN//NT — 2026-11-28 — https://www.moshtix.com.au/v2/event/rvn-nt-%E2%80%98no-consequences%E2%80%99-tour/201405
+3. Total Order — 2026-11-26 — https://www.moshtix.com.au/v2/event/total-order-into-oblivion-bootleggers-newtown-w-hokkaido-and-watching-wolves/201391
+4. Verdicts — 2026-11-27 — https://www.moshtix.com.au/v2/event/verdicts-at-chongs/201771
+5. Northern Horizon Fest — 2026-11-28 — https://tickets.oztix.com.au/outlet/event/f7cf5d8b-b8dd-4477-81e9-13e46c8eed65
+6. Step In Blood — 2026-11-29 — https://www.moshtix.com.au/v2/event/step-in-blood-%E2%80%98the-art-of-blood%E2%80%99-album-launch/202247
+7. VADER — 2026-11-27 — https://tickets.oztix.com.au/outlet/event/6920d695-35fc-4895-86ff-939a2a2d371c
+8. Bastardizer — 2026-11-28 — https://deadsetdarlo.com.au/whats-on/bastardizer.html
+9. Frenzee — 2026-11-27 — https://tickets.oztix.com.au/outlet/event/9aaba9e9-8759-4ea9-8848-e045f7fd116c
+10. LOW & HEAVY Vol. I — 2026-11-28 — https://www.moshtix.com.au/v2/event/low-heavy-vol-i/198628
+11. SPLIT: Sydney Emo — 2026-11-28 — https://www.moshtix.com.au/v2/event/split-with-our-mutual-friend-goblin-violence-pushkin-cest-la-vie-bughug-al/201948
+12. Sly Withers — 2026-11-27 — https://www.moshtix.com.au/v2/event/sly-withers-tbh-album-tour/198259
+13. Seedy Jeezus — 2026-11-27 — https://www.oddculture.group/event/duke-gig-guide
+14. Flight To Dubai — 2026-11-27 — https://tickets.oztix.com.au/outlet/event/50a7d17e-0c57-4e18-a5a1-7e9d7fcde30a
+15. Trepan Presents — 2026-11-29 — https://www.moshtix.com.au/v2/event/trepan-presents-ghazza-jade-yee-smith-trepan-failsafe-and-embrosia-all-ages/202375
+16. The Sisters of Mercy — 2026-11-27 — https://premier.ticketek.com.au/shows/show.aspx?sh=TSISOM26&v=MET
+17. The Trouble With Violet — 2026-11-29 — https://events.humanitix.com/the-trouble-with-violet-w-social-stranger-braeside-and-bandwidth
+18. Cytosis — 2026-11-27 — https://www.moshtix.com.au/v2/event/after-dark-w-cytosis-maxgamble-drench/201994
+19. Drunken Sun — 2026-11-26 — https://tickets.oztix.com.au/outlet/event/99f0d3b0-1b6b-4082-b638-c15e318e1483
+20. Goonbag — 2026-11-27 — https://events.humanitix.com/goonbag-w-ghazza-playne-jane-and-stoked-salmon-fri-nov-27-at-wings-x-tins-dee-why
+21. Local Business — 2026-11-24 — https://moshtix.com.au/v2/event/local-business-bear-the-knee-seldoon-and-insteria/201137
+
+PREVIOUS EDITION HISTORY — 16–22 NOVEMBER
 21 NOVEMBER DAILY UPDATE
 OUTLOVED's Moshtix listing now shows a separate Secret Stash general admission tier at A$30 alongside standard GA at A$25. Both display selectors and a 21:00 online-sales cutoff, plus A$2.10 per order. No checkout inventory or tier inclusions were tested. This does not change the cheapest advertised ticket, lineup, doors time or position in the guide.
 
@@ -82,6 +111,7 @@ The MIT licence applies only to original application code and layout. Geographic
 
 PLAYLIST ART
 The cream/red 300px WebP is the exact existing user-generated Sydney Heavy Gigs cover, recovered from the public playlist header with the user's express reuse authorization. It is bundled locally, not requested from a third-party CDN at runtime. Source image: https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c051063e0632af0fe0aa41905 . Its printed IN ROTATION band names are part of the pre-existing branding, not the current week's line-up. This artwork is not represented as third-party Spotify artist artwork or relicensed under the application's MIT terms.
+
 
 
 

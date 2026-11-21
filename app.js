@@ -10,7 +10,7 @@ const dateLabel=d=>new Date(d+'T12:00:00Z').toLocaleDateString('en-AU',{weekday:
 const groups=['Metalcore','Heavy metal','Hardcore','Punk','Alternative','Industrial','Tributes'];
 const genreKey=g=>group(g).toLowerCase().replace(/ /g,'-');
 const group=g=>{/**** Editorial dominant sound; no numeric genre axes. ****/if(/tribute/i.test(g.style))return 'Tributes';if(/Metalcore|Deathcore/i.test(g.style))return 'Metalcore';if(/Doom|Sludge|Extreme|Death|Heavy metal|Thrash|Progressive metal|Alternative metal/i.test(g.style))return 'Heavy metal';if(/Hardcore|Crust/i.test(g.style))return 'Hardcore';if(/Industrial|Gothic/i.test(g.style))return 'Industrial';if(/Punk/i.test(g.style))return 'Punk';return 'Alternative';};
-const summaryPrices={"g54-1": "Free", "g01-1": "A$25 + A$2.10/order", "g02-1": "A$28.60 · fees unconfirmed", "g03-1": "Sold out · A$69.90 + A$3.95/order", "g04-1": "Adult A$53.29 / U18 A$42.85", "g05-1": "A$44.86 + A$1.95/order", "g06-1": "A$17.59", "g07-1": "Free", "g08-1": "A$20.30 presale / A$20 door", "g09-1": "A$23.50 · fees unconfirmed", "g10-1": "Free", "g11-1": "A$15 presale / pay-what-you-can door", "g12-1": "Free RSVP", "g13-1": "A$35 + A$2.95/order", "g14-1": "A$24.47 + A$1.95/order", "g15-1": "A$45.90 · fees unconfirmed"};
+const summaryPrices={"g01-1": "Price unconfirmed", "g02-1": "A$17.59", "g03-1": "GA A$24.47 + A$2.10 per order", "g04-1": "GA A$28.44 + A$1.95 per order", "g05-1": "A$56.10 · fees unconfirmed", "g06-1": "A$22.50", "g07-1": "From A$62.20", "g08-1": "Price unconfirmed", "g09-1": "A$28.60 · fees unconfirmed", "g10-1": "A$19.17", "g11-1": "GA A$11.72 + A$1/order", "g12-1": "GA A$43.84 + A$3.95/order", "g13-1": "Free per artist", "g14-1": "Free RSVP", "g15-1": "GA A$11.72 + A$1/order", "g16-1": "Sold out", "g17-1": "A$10 presale / A$15 door", "g18-1": "Free entry", "g19-1": "A$12.50 GA; later fees unverified", "g20-1": "Price and fees not confirmed", "g21-1": "GA A$16.01 + A$1.10 per order"};
 const gigTitle=g=>g.eventTitle||g.lineup[0];
 let selectedId=gigs[0]?.id;let mapWide=false;let openId=null;
 function outbound(url,text,cls=''){const safe=window.GIG_SECURITY.safeExternalURL(url);if(!safe)return el('span',cls,text+' (unavailable)');const a=el('a',cls,text);a.href=safe;a.target='_blank';a.rel='noopener noreferrer';a.append(icon());return a;}
@@ -87,11 +87,11 @@ function applyQuickFilter(kind){
  const range=quickFilter?quickDateRange(quickFilter):null;
  gigs=allGigs.filter(g=>!range||(g.date>=range[0]&&g.date<=range[1]));openId=null;selectedId=gigs[0]?.id;$('.explorer').hidden=gigs.length===0;
  document.querySelectorAll('[data-quick-filter]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.quickFilter===(quickFilter||'week'))));
- const label=range?`${dateLabel(range[0])}${range[1]!==range[0]?' – '+dateLabel(range[1]):''}`:'16 – 22 Nov';
+ const label=range?`${dateLabel(range[0])}${range[1]!==range[0]?' – '+dateLabel(range[1]):''}`:'23 – 29 Nov';
  $('#quick-range').textContent=label+' · Sydney time';
  renderList();renderGenres();renderLegend();renderMap();if(selectedId)selectGig(selectedId);
  $('#quick-empty').hidden=gigs.length!==0;
- $('#quick-empty').textContent=gigs.length?'':`No featured gigs ${quickFilter==='today'?'today':'this weekend'} (${label}). This selection covers 16 – 22 Nov. Choose Featured week to see the line-up.`;
+ $('#quick-empty').textContent=gigs.length?'':`No featured gigs ${quickFilter==='today'?'today':'this weekend'} (${label}). This selection covers 23 – 29 Nov. Choose Featured week to see the line-up.`;
  $('.explorer').hidden=gigs.length===0;
 }
 document.querySelectorAll('[data-quick-filter]').forEach(b=>b.onclick=()=>applyQuickFilter(b.dataset.quickFilter));
