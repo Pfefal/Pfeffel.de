@@ -1,4 +1,4 @@
-/* Official-source Sydney snapshot: 23–29 November 2026. Reviewed 22 November 2026; no checkout tested. */
+/* Official-source Sydney snapshot: 23–29 November 2026. Reviewed 23 November 2026; no checkout tested. */
 window.GIGS = [
   {
     "lineup": [
@@ -118,10 +118,10 @@ window.GIGS = [
     "time": "19:00",
     "style": "Progressive metal / alternative metal",
     "url": "https://www.moshtix.com.au/v2/event/total-order-into-oblivion-bootleggers-newtown-w-hokkaido-and-watching-wolves/201391",
-    "price": "GA A$24.47 + A$2.10 per order",
-    "availability": "GA selector; closes 26 Nov 20:00; 18+ No current two-for-one stock verified.",
+    "price": "Standard GA A$24.47; seller-listed 2 FOR 1 TIX tier A$24.47; + A$2.10/order.",
+    "availability": "Both selectors displayed at the 23 Nov review. 2 FOR 1 sales advertised to end Mon 23 Nov at 23:59 Sydney time; standard GA Thu 26 Nov at 20:00. 18+; offer conditions, quantities and stock not verified at checkout.",
     "fit": "A strong match for progressive metal and rhythmic heavy guitars, with two confirmed local supports.",
-    "source": "Moshtix; early bird A$13.66 closed; into-oblivion anniversary, not a new album date.",
+    "source": "Moshtix rechecked 23 Nov 2026: a separately selectable 2 FOR 1 tier with a dated cutoff now appears alongside standard GA; earlier early bird remains closed. https://www.moshtix.com.au/v2/event/total-order-into-oblivion-bootleggers-newtown-w-hokkaido-and-watching-wolves/201391",
     "id": "g03-1",
     "rank": 3,
     "groupId": "group-03",
@@ -721,6 +721,67 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "Operation Ibis",
+      "Tantichrist",
+      "CH!X",
+      "Dunhill Blues",
+      "The Jane Does"
+    ],
+    "date": "2026-11-28",
+    "venue": "MoshPit",
+    "suburb": "Erskineville",
+    "time": "12:00 doors / 13:00 music per mirrored organiser schedule; sets may change",
+    "style": "Punk / garage rock / alternative",
+    "url": "https://www.moshpitbar.com.au/",
+    "price": "Free entry per mirrored organiser event; door capacity unconfirmed",
+    "availability": "Walk-in listing; no admission guarantee. See the venue’s event guide for the organiser listing. Five acts confirmed directly; organiser copies list more.",
+    "fit": "MoshPit's final-day local punk and garage showcase. Operation Ibis closes the published running order; artists span a broad local scene.",
+    "source": "Direct public metadata identifies MoshPit Bar as organiser and confirms the date and first five artists in the official title. Full bill and prices cross-checked with the mirrored organiser body https://happeningnext.com/event/the-final-day-with-operation-ibis-tantichrist-chx-dunhill-blues-the-jane-does-loads-more-eid3a0e9fu6gh and SydneyMusic https://sydneymusic.net/gig-guide/venues/moshpit-bar . Remaining acts, noon doors, free price and 23:00 Operation Ibis set not independently visible in direct metadata. Official organiser listing: https://www.facebook.com/events/4166778900294505",
+    "eventTitle": "MoshPit: The Final Day",
+    "id": "g24-1",
+    "groupId": "group-24",
+    "dates": [
+      "2026-11-28"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Operation Ibis",
+        "status": "Exact playable representative recording; not a setlist guarantee.",
+        "url": "https://open.spotify.com/artist/1Fu3AUy4sRfWdDOjkEAP04",
+        "trackUrl": "https://open.spotify.com/track/3OhBSOrI7alHrP3737jisy",
+        "trackName": "Co-operation Ibis"
+      },
+      {
+        "name": "Tantichrist",
+        "status": "Exact playable representative recording; not a setlist guarantee.",
+        "url": "https://open.spotify.com/artist/3xboWFP0WGzw6X60F6wSsM",
+        "trackUrl": "https://open.spotify.com/track/5qPfs2qmnJOIByOcTWNdg5",
+        "trackName": "Chasm"
+      },
+      {
+        "name": "CH!X",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      },
+      {
+        "name": "Dunhill Blues",
+        "status": "Exact playable representative recording; not a setlist guarantee.",
+        "url": "https://open.spotify.com/artist/0Qtz0evtw8PbmfYbajDuHa",
+        "trackUrl": "https://open.spotify.com/track/4MitXbdpsCHEww1e8RMXOr",
+        "trackName": "I Wanna Tickle Nick Cave"
+      },
+      {
+        "name": "The Jane Does",
+        "status": "Exact playable representative recording; not a setlist guarantee.",
+        "url": "https://open.spotify.com/artist/2xikCZU74EPwoTkouo7rTb",
+        "trackUrl": "https://open.spotify.com/track/3gxLsXI1iV5VlLpCx9OQtC",
+        "trackName": "Around the Bend"
+      }
+    ],
+    "rank": 15
+  },
+  {
+    "lineup": [
       "Ghazza",
       "Jade Yee-Smith",
       "Trepan",
@@ -739,7 +800,7 @@ window.GIGS = [
     "source": "Official seller names all five performing acts. Its sponsors and partner organisations are not musical supports. Event title identifies Trepan as presenter; no set order implied.",
     "eventTitle": "Trepan Presents",
     "id": "g15-1",
-    "rank": 15,
+    "rank": 16,
     "groupId": "group-15",
     "dates": [
       "2026-11-29"
@@ -779,6 +840,105 @@ window.GIGS = [
   },
   {
     "lineup": [
+      "Morituri",
+      "Blackened Rose",
+      "If Anything!"
+    ],
+    "date": "2026-11-28",
+    "venue": "Botany View Hotel",
+    "suburb": "Newtown",
+    "time": "20:00 doors; If Anything! 20:30, Blackened Rose 21:15, Morituri 22:00",
+    "style": "Gothic rock / hard rock / punk",
+    "url": "https://tickets.oztix.com.au/outlet/event/7fcb5daf-7d4a-4972-ad8c-e5620c5f9e15",
+    "price": "A$16 GA; extra fees unconfirmed",
+    "availability": "18+; GA displayed; checkout inventory not tested.",
+    "fit": "A small-room comeback set mixing gothic and heavy rock, with two confirmed local supports.",
+    "source": "Official Oztix event page and venue seller index checked 23 November. Exact running order is from the seller. https://botanyviewhotel.oztix.com.au/",
+    "id": "g22-1",
+    "groupId": "group-22",
+    "dates": [
+      "2026-11-28"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Morituri",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      },
+      {
+        "name": "Blackened Rose",
+        "status": "Exact playable representative recording; not a setlist guarantee.",
+        "url": "https://open.spotify.com/artist/0LGlGxDSHcyyLK0xOWfSVL",
+        "trackUrl": "https://open.spotify.com/track/2qIDd2pSNHfXiTQatlDd28",
+        "trackName": "Love of the Serpentine Eye"
+      },
+      {
+        "name": "If Anything!",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      }
+    ],
+    "rank": 17
+  },
+  {
+    "lineup": [
+      "The Strike-Outs",
+      "Erko Republic",
+      "The Sugar Beats",
+      "Josh Shipton & The Blue Eyed Ravens",
+      "Dirty Mack"
+    ],
+    "date": "2026-11-27",
+    "venue": "MoshPit",
+    "suburb": "Erskineville",
+    "time": "Listings disagree: 17:00 versus 19:00; confirm with venue",
+    "style": "Punk / garage rock",
+    "url": "https://www.moshpitbar.com.au/",
+    "price": "Free per SydneyMusic; venue confirmation pending",
+    "availability": "No checkout tested; door capacity unconfirmed. See the venue’s event guide for the organiser listing.",
+    "fit": "A five-act local punk and garage bill at the small bar in its final weekend.",
+    "source": "Direct public metadata identifies MoshPit Bar as organiser and confirms the date and all five acts. https://sydneymusic.net/gig-guide/venues/moshpit-bar lists 19:00 and free; https://musiac.live/moshpitbar lists 17:00. Primary start and price not publicly visible in the retrieved page. Official organiser listing: https://www.facebook.com/events/1091512800175651/",
+    "eventTitle": "MoshPit Friday Farewell",
+    "id": "g23-1",
+    "groupId": "group-23",
+    "dates": [
+      "2026-11-27"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "The Strike-Outs",
+        "status": "Exact playable representative recording; not a setlist guarantee.",
+        "url": "https://open.spotify.com/artist/2HLlubOoAvX2HQPlfcacJo",
+        "trackUrl": "https://open.spotify.com/track/7uglm0BZ50ItwCRjSou0kp",
+        "trackName": "Watching The Clock"
+      },
+      {
+        "name": "Erko Republic",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      },
+      {
+        "name": "The Sugar Beats",
+        "status": "Exact playable representative recording; not a setlist guarantee.",
+        "url": "https://open.spotify.com/artist/3q4PLhxaWLYdK6K2t671S4",
+        "trackUrl": "https://open.spotify.com/track/21u7crUu7CjhVUDUG33o3i",
+        "trackName": "Sugar Beat Blues"
+      },
+      {
+        "name": "Josh Shipton & The Blue Eyed Ravens",
+        "status": "Exact playable representative recording; not a setlist guarantee.",
+        "url": "https://open.spotify.com/artist/39qNx3pdBavVhs2ky0wF98",
+        "trackUrl": "https://open.spotify.com/track/03j3SdgBPwfKtMrt0ggJG2",
+        "trackName": "We're All Dead"
+      },
+      {
+        "name": "Dirty Mack",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      }
+    ],
+    "rank": 18
+  },
+  {
+    "lineup": [
       "The Sisters of Mercy",
       "Devil Electric",
       "Elko Fields"
@@ -794,7 +954,7 @@ window.GIGS = [
     "fit": "Dark guitar textures plus strong heavy local supports; not a buyable primary GA option at check time.",
     "source": "Ticketek and venue confirm 20:00; tour promoter names both supports and marks Sydney sold out. No Sydney-specific primary price verified. https://sbmpresents.com/tours/sisters-of-mercy-2026",
     "id": "g16-1",
-    "rank": 16,
+    "rank": 19,
     "groupId": "group-16",
     "dates": [
       "2026-11-27"
@@ -842,7 +1002,7 @@ window.GIGS = [
     "fit": "Four local bands, loud guitars and punk/alternative sounds in a small Northern Beaches room.",
     "source": "Venue and Humanitix title agree on Braeside; seller body misspells it Brayside once. https://www.wingsandtins.com/dee-why-live .",
     "id": "g17-1",
-    "rank": 17,
+    "rank": 20,
     "groupId": "group-17",
     "dates": [
       "2026-11-29"
@@ -888,7 +1048,7 @@ window.GIGS = [
     "fit": "A free three-band heavy guitar bill before a separately advertised DJ segment.",
     "source": "Official Moshtix venue presentation. Live stage before DJ sets; distinguish from a DJ-only night.",
     "id": "g18-1",
-    "rank": 18,
+    "rank": 21,
     "groupId": "group-18",
     "dates": [
       "2026-11-27"
@@ -930,7 +1090,7 @@ window.GIGS = [
     "fit": "A lighter guitar-driven Crowbar discovery bill with three local supports.",
     "source": "Crowbar's official Oztix HTML verified on 22 Nov lists four distinct acts and A$12.50 GA.",
     "id": "g19-1",
-    "rank": 19,
+    "rank": 22,
     "groupId": "group-19",
     "dates": [
       "2026-11-26"
@@ -982,7 +1142,7 @@ window.GIGS = [
     "fit": "Local guitar-rock EP launch with three supports; lighter than the week's metal shows.",
     "source": "Venue and organiser Humanitix agree on artists and date. https://www.wingsandtins.com/dee-why-live .",
     "id": "g20-1",
-    "rank": 20,
+    "rank": 23,
     "groupId": "group-20",
     "dates": [
       "2026-11-27"
@@ -1035,7 +1195,7 @@ window.GIGS = [
     "fit": "A lower-priority local rock showcase with four bands on a weeknight.",
     "source": "Official Moshtix; 294 Marrickville Rd, Marrickville NSW 2204. Weaker heavy fit.",
     "id": "g21-1",
-    "rank": 21,
+    "rank": 24,
     "groupId": "group-21",
     "dates": [
       "2026-11-24"
