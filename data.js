@@ -1,4 +1,4 @@
-/* Official-source Sydney snapshot: 23–29 November 2026. Reviewed 23 November 2026; no checkout tested. */
+/* Official-source Sydney snapshot: 23–29 November 2026. Reviewed 24 November 2026; no checkout tested. */
 window.GIGS = [
   {
     "lineup": [
@@ -118,10 +118,10 @@ window.GIGS = [
     "time": "19:00",
     "style": "Progressive metal / alternative metal",
     "url": "https://www.moshtix.com.au/v2/event/total-order-into-oblivion-bootleggers-newtown-w-hokkaido-and-watching-wolves/201391",
-    "price": "Standard GA A$24.47; seller-listed 2 FOR 1 TIX tier A$24.47; + A$2.10/order.",
-    "availability": "Both selectors displayed at the 23 Nov review. 2 FOR 1 sales advertised to end Mon 23 Nov at 23:59 Sydney time; standard GA Thu 26 Nov at 20:00. 18+; offer conditions, quantities and stock not verified at checkout.",
+    "price": "Standard GA A$24.47 + A$2.10/order (A$26.57 for one).",
+    "availability": "Standard GA selector displayed; seller lists sales until Thu 26 Nov at 20:00 Sydney time. 18+; checkout stock not verified.",
     "fit": "A strong match for progressive metal and rhythmic heavy guitars, with two confirmed local supports.",
-    "source": "Moshtix rechecked 23 Nov 2026: a separately selectable 2 FOR 1 tier with a dated cutoff now appears alongside standard GA; earlier early bird remains closed. https://www.moshtix.com.au/v2/event/total-order-into-oblivion-bootleggers-newtown-w-hokkaido-and-watching-wolves/201391",
+    "source": "Moshtix rechecked 24 Nov 2026: the Monday 23:59 2 FOR 1 tier is now marked closed. The standard GA tier remains displayed, unchanged. https://www.moshtix.com.au/v2/event/total-order-into-oblivion-bootleggers-newtown-w-hokkaido-and-watching-wolves/201391",
     "id": "g03-1",
     "rank": 3,
     "groupId": "group-03",
@@ -292,10 +292,10 @@ window.GIGS = [
     "time": "18:30 ticket listing; venue lists 18:00",
     "style": "Thrash / death / groove metal, blackened thrash punk",
     "url": "https://www.moshtix.com.au/v2/event/step-in-blood-%E2%80%98the-art-of-blood%E2%80%99-album-launch/202247",
-    "price": "GA A$22.50; no additional order fee shown",
-    "availability": "GA selector until 29 Nov 18:30; 18+",
+    "price": "Standard GA A$22.50; seller-listed 2 FOR 1 TIX tier A$22.50. No separate fee displayed.",
+    "availability": "Both selectors displayed at the 24 Nov review. 2 FOR 1 sales advertised to end Tue 24 Nov at 17:00 Sydney time; standard GA Sun 29 Nov at 18:30. 18+; offer conditions, quantities and stock not tested.",
     "fit": "A local hardcore and metallic-guitar album launch with a compact three-band bill.",
-    "source": "Moshtix Dutchman Events and Elton Chong calendar. 18:00 venue/18:30 seller, door vs start not independently confirmed.",
+    "source": "Moshtix rechecked 24 Nov 2026: the dated 2 FOR 1 tier appears beside the standard GA. Venue advertises 18:00, seller 18:30; doors vs start remain unconfirmed. https://www.moshtix.com.au/v2/event/step-in-blood-%E2%80%98the-art-of-blood%E2%80%99-album-launch/202247",
     "id": "g06-1",
     "rank": 6,
     "groupId": "group-06",
@@ -1226,6 +1226,45 @@ window.GIGS = [
         "trackUrl": "https://open.spotify.com/track/2hTpaOF2iLs3Ouwc6sQkcU",
         "trackName": "November",
         "status": "Exact playable representative recording; not a setlist guarantee."
+      }
+    ]
+  },
+  {
+    "lineup": [
+      "Vinted Vineer",
+      "jnr."
+    ],
+    "date": "2026-11-28",
+    "venue": "Vic on the Park",
+    "suburb": "Marrickville",
+    "time": "21:00 advertised event time; individual sets unconfirmed",
+    "style": "Indie rock / alternative rock",
+    "url": "https://tickets.oztix.com.au/outlet/event/b667eca7-ee49-4fd4-a894-0c6a64022671",
+    "price": "Free RSVP",
+    "availability": "18+ RSVP selector displayed; capacity not checked.",
+    "fit": "A lighter local-pub pick: the Brisbane four-piece brings a raw live edge to their dreamier alternative sound.",
+    "source": "Tiny Minds Agency official Oztix listing verified on 24 Nov confirms two acts, 21:00 and A$0 RSVP.",
+    "id": "g25-1",
+    "rank": 25,
+    "groupId": "group-25",
+    "dates": [
+      "2026-11-28"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Vinted Vineer",
+        "status": "Exact playable representative recording; not a setlist guarantee.",
+        "url": "https://open.spotify.com/artist/749fyttkdyW2TXKuVFhjKB",
+        "trackUrl": "https://open.spotify.com/track/2r7pTn4Juv8llg0mz4hGua",
+        "trackName": "rosettastone"
+      },
+      {
+        "name": "jnr.",
+        "status": "Exact playable representative recording; not a setlist guarantee.",
+        "url": "https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj",
+        "trackUrl": "https://open.spotify.com/track/1KJ5buGil8kd84SqpkfV7Z",
+        "trackName": "Give Up On Me"
       }
     ]
   }

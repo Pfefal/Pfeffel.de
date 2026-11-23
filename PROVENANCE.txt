@@ -1,6 +1,12 @@
 SYDNEY GIGS — SOURCES AND ATTRIBUTION
-Week: 23–29 November 2026. Official-source review: 23 November 2026, Sydney time.
+Week: 23–29 November 2026. Official-source review: 24 November 2026, Sydney time.
 
+24 NOVEMBER DAILY UPDATE
+Total Order: Moshtix now marks the 2 FOR 1 tier closed. Standard GA remains A$24.47 plus A$2.10 per order, A$26.57 for one; selector shown and checkout stock untested.
+Step In Blood: Moshtix separately displays a 2 FOR 1 TIX tier at A$22.50 through Tuesday 24 November at 17:00 Sydney time. Standard GA remains A$22.50. No separate fee displayed; offer conditions, quantity and stock not tested. The venue and seller time discrepancy is retained.
+In the broader research: Vinted Vineer with jnr. plays a free RSVP 18+ live bill at Vic on the Park on Saturday, advertised at 21:00. Official Oztix RSVP selector displayed; capacity not tested. The 15 featured selections and their order are retained.
+
+Earlier review notes below are historical where superseded.
 23 NOVEMBER DAILY UPDATE
 Total Order: official Moshtix now displays a selectable 2 FOR 1 TIX tier at A$24.47 plus A$2.10/order, with an advertised Monday 23 November 23:59 Sydney cutoff. Standard GA remains A$24.47 plus A$2.10/order. The tier’s final quantity, conditions and inventory were not tested.
 Three verified local bills enter the broader selection. MoshPit: The Final Day moves into the featured 15; the earlier Trepan showcase remains in the research and companion playlist. The venue-organiser listings confirm five Friday acts and five directly named Saturday acts. Friday times are conflicting; quoted free admission and Saturday running times are attributed rather than guaranteed.
@@ -118,6 +124,7 @@ The MIT licence applies only to original application code and layout. Geographic
 
 PLAYLIST ART
 The cream/red 300px WebP is the exact existing user-generated Sydney Heavy Gigs cover, recovered from the public playlist header with the user's express reuse authorization. It is bundled locally, not requested from a third-party CDN at runtime. Source image: https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c051063e0632af0fe0aa41905 . Its printed IN ROTATION band names are part of the pre-existing branding, not the current week's line-up. This artwork is not represented as third-party Spotify artist artwork or relicensed under the application's MIT terms.
+
 
 
 
