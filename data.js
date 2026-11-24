@@ -1,4 +1,4 @@
-/* Official-source Sydney snapshot: 23–29 November 2026. Reviewed 24 November 2026; no checkout tested. */
+/* Official-source Sydney snapshot: 23–29 November 2026. Reviewed 25 November 2026; no checkout tested. */
 window.GIGS = [
   {
     "lineup": [
@@ -292,10 +292,10 @@ window.GIGS = [
     "time": "18:30 ticket listing; venue lists 18:00",
     "style": "Thrash / death / groove metal, blackened thrash punk",
     "url": "https://www.moshtix.com.au/v2/event/step-in-blood-%E2%80%98the-art-of-blood%E2%80%99-album-launch/202247",
-    "price": "Standard GA A$22.50; seller-listed 2 FOR 1 TIX tier A$22.50. No separate fee displayed.",
-    "availability": "Both selectors displayed at the 24 Nov review. 2 FOR 1 sales advertised to end Tue 24 Nov at 17:00 Sydney time; standard GA Sun 29 Nov at 18:30. 18+; offer conditions, quantities and stock not tested.",
+    "price": "Standard GA A$22.50; no separate order fee displayed.",
+    "availability": "Standard GA selector displayed; seller lists sales until Sun 29 Nov at 18:30 Sydney time. 18+; checkout stock not verified.",
     "fit": "A local hardcore and metallic-guitar album launch with a compact three-band bill.",
-    "source": "Moshtix rechecked 24 Nov 2026: the dated 2 FOR 1 tier appears beside the standard GA. Venue advertises 18:00, seller 18:30; doors vs start remain unconfirmed. https://www.moshtix.com.au/v2/event/step-in-blood-%E2%80%98the-art-of-blood%E2%80%99-album-launch/202247",
+    "source": "Moshtix rechecked 25 Nov 2026: the Tuesday 17:00 2 FOR 1 tier is now marked closed. Standard GA is unchanged. Venue advertises 18:00, seller 18:30; doors vs start remain unconfirmed. https://www.moshtix.com.au/v2/event/step-in-blood-%E2%80%98the-art-of-blood%E2%80%99-album-launch/202247",
     "id": "g06-1",
     "rank": 6,
     "groupId": "group-06",
@@ -725,18 +725,24 @@ window.GIGS = [
       "Tantichrist",
       "CH!X",
       "Dunhill Blues",
-      "The Jane Does"
+      "The Jane Does",
+      "Blurter",
+      "Los Monaros",
+      "Slack Punks",
+      "VICTA",
+      "The Black Pints",
+      "Asaiah Riley"
     ],
     "date": "2026-11-28",
     "venue": "MoshPit",
     "suburb": "Erskineville",
-    "time": "12:00 doors / 13:00 music per mirrored organiser schedule; sets may change",
+    "time": "Doors 12:00; music from 13:00",
     "style": "Punk / garage rock / alternative",
     "url": "https://www.moshpitbar.com.au/",
-    "price": "Free entry per mirrored organiser event; door capacity unconfirmed",
-    "availability": "Walk-in listing; no admission guarantee. See the venue’s event guide for the organiser listing. Five acts confirmed directly; organiser copies list more.",
-    "fit": "MoshPit's final-day local punk and garage showcase. Operation Ibis closes the published running order; artists span a broad local scene.",
-    "source": "Direct public metadata identifies MoshPit Bar as organiser and confirms the date and first five artists in the official title. Full bill and prices cross-checked with the mirrored organiser body https://happeningnext.com/event/the-final-day-with-operation-ibis-tantichrist-chx-dunhill-blues-the-jane-does-loads-more-eid3a0e9fu6gh and SydneyMusic https://sydneymusic.net/gig-guide/venues/moshpit-bar . Remaining acts, noon doors, free price and 23:00 Operation Ibis set not independently visible in direct metadata. Official organiser listing: https://www.facebook.com/events/4166778900294505",
+    "price": "Free entry",
+    "availability": "Venue advertises free entry all day; door capacity not checked.",
+    "fit": "MoshPit's final-day local punk and garage showcase. The venue poster names eleven acts; individual set times remain unconfirmed.",
+    "source": "Official MoshPit individual poster verified 25 Nov: doors 12:00, music from 13:00, free entry all day, all eleven acts. https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/ae761018-53e6-4267-a366-d4673bcdd226/28.11.26.jpg",
     "eventTitle": "MoshPit: The Final Day",
     "id": "g24-1",
     "groupId": "group-24",
@@ -776,6 +782,36 @@ window.GIGS = [
         "url": "https://open.spotify.com/artist/2xikCZU74EPwoTkouo7rTb",
         "trackUrl": "https://open.spotify.com/track/3gxLsXI1iV5VlLpCx9OQtC",
         "trackName": "Around the Bend"
+      },
+      {
+        "name": "Blurter",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      },
+      {
+        "name": "Los Monaros",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      },
+      {
+        "name": "Slack Punks",
+        "status": "Exact playable representative recording; not a setlist guarantee.",
+        "url": "https://open.spotify.com/artist/1sakNkLsdc1b2uQ7BmgPSL",
+        "trackUrl": "https://open.spotify.com/track/3bYZTeTH5Ms1TKnM1NwLKv",
+        "trackName": "RED LINE"
+      },
+      {
+        "name": "VICTA",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      },
+      {
+        "name": "The Black Pints",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      },
+      {
+        "name": "Asaiah Riley",
+        "status": "Exact playable representative recording; not a setlist guarantee.",
+        "url": "https://open.spotify.com/artist/470XjiV3fhtbsUBCQnjqLJ",
+        "trackUrl": "https://open.spotify.com/track/0LbggAwng9gEkLqP6ozPlW",
+        "trackName": "tha UGLY life"
       }
     ],
     "rank": 15
@@ -890,13 +926,13 @@ window.GIGS = [
     "date": "2026-11-27",
     "venue": "MoshPit",
     "suburb": "Erskineville",
-    "time": "Listings disagree: 17:00 versus 19:00; confirm with venue",
+    "time": "Doors 17:00; music from 19:00",
     "style": "Punk / garage rock",
     "url": "https://www.moshpitbar.com.au/",
-    "price": "Free per SydneyMusic; venue confirmation pending",
-    "availability": "No checkout tested; door capacity unconfirmed. See the venue’s event guide for the organiser listing.",
+    "price": "Free entry",
+    "availability": "Venue advertises free entry; door capacity not checked.",
     "fit": "A five-act local punk and garage bill at the small bar in its final weekend.",
-    "source": "Direct public metadata identifies MoshPit Bar as organiser and confirms the date and all five acts. https://sydneymusic.net/gig-guide/venues/moshpit-bar lists 19:00 and free; https://musiac.live/moshpitbar lists 17:00. Primary start and price not publicly visible in the retrieved page. Official organiser listing: https://www.facebook.com/events/1091512800175651/",
+    "source": "Official MoshPit individual poster verified 25 Nov: doors 17:00, music from 19:00, free entry, all five acts. https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/14904be1-d074-45ee-beef-187feeb71c70/27.11.26.jpg",
     "eventTitle": "MoshPit Friday Farewell",
     "id": "g23-1",
     "groupId": "group-23",
