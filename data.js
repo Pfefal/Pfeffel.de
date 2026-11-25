@@ -119,9 +119,9 @@ window.GIGS = [
     "style": "Progressive metal / alternative metal",
     "url": "https://www.moshtix.com.au/v2/event/total-order-into-oblivion-bootleggers-newtown-w-hokkaido-and-watching-wolves/201391",
     "price": "Standard GA A$24.47 + A$2.10/order (A$26.57 for one).",
-    "availability": "Standard GA selector displayed; seller lists sales until Thu 26 Nov at 20:00 Sydney time. 18+; checkout stock not verified.",
+    "availability": "18+. Moshtix lists standard GA until Thu 26 Nov at 20:00 and a 2-for-1 tier at A$24.47 + A$2.10/order until Thu 26 Nov at 19:00 Sydney time. Both selectors shown at review; conditions and checkout stock not verified.",
     "fit": "A strong match for progressive metal and rhythmic heavy guitars, with two confirmed local supports.",
-    "source": "Moshtix rechecked 24 Nov 2026: the Monday 23:59 2 FOR 1 tier is now marked closed. The standard GA tier remains displayed, unchanged. https://www.moshtix.com.au/v2/event/total-order-into-oblivion-bootleggers-newtown-w-hokkaido-and-watching-wolves/201391",
+    "source": "Moshtix rechecked 26 Nov 2026: the seller shows a 2-for-1 tier with a new 19:00 Thursday deadline. Standard GA remains A$24.47 plus A$2.10/order. https://www.moshtix.com.au/v2/event/total-order-into-oblivion-bootleggers-newtown-w-hokkaido-and-watching-wolves/201391",
     "id": "g03-1",
     "rank": 3,
     "groupId": "group-03",
@@ -1301,6 +1301,51 @@ window.GIGS = [
         "url": "https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj",
         "trackUrl": "https://open.spotify.com/track/1KJ5buGil8kd84SqpkfV7Z",
         "trackName": "Give Up On Me"
+      }
+    ]
+  },
+  {
+    "title": "Noon Shift",
+    "lineup": [
+      "Noon Shift",
+      "Playne Jayne",
+      "Kaunta"
+    ],
+    "date": "2026-11-28",
+    "venue": "Burdekin Hotel",
+    "suburb": "Darlinghurst",
+    "time": "19:00 listed",
+    "style": "Alternative rock / indie rock",
+    "url": "https://tickets.oztix.com.au/outlet/event/efd152c8-0994-4ac4-be61-df6ad9a8d0fb",
+    "price": "GA A$29.10 advertised; any later fees unconfirmed",
+    "availability": "18+; Oztix displayed a GA selector. Checkout stock not verified.",
+    "fit": "A melodic local alt-rock option. Noon Shift is playing Worth Its Cost in Time in full for its fifth anniversary.",
+    "source": "Oztix: 28 Nov 19:00, EP anniversary, both support acts and advertised regular GA. https://tickets.oztix.com.au/outlet/event/efd152c8-0994-4ac4-be61-df6ad9a8d0fb",
+    "id": "g26-1",
+    "rank": 26,
+    "groupId": "group-26",
+    "dates": [
+      "2026-11-28"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Noon Shift",
+        "url": "https://open.spotify.com/artist/0zuGeDY87irIjsbRZcry2c",
+        "trackUrl": "https://open.spotify.com/track/6MTdjS6EJ2ehVjUq0dZa7j",
+        "trackName": "Anyway",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      },
+      {
+        "name": "Playne Jayne",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      },
+      {
+        "name": "Kaunta",
+        "url": "https://open.spotify.com/artist/4mW8z0preEF2OLiCooWF1N",
+        "trackUrl": "https://open.spotify.com/track/3eWAkB0c73VH2qptB6VuO9",
+        "trackName": "Time Travelling Emo Song",
+        "status": "Exact playable representative recording; not a setlist guarantee."
       }
     ]
   }
