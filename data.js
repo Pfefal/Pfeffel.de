@@ -118,10 +118,10 @@ window.GIGS = [
     "time": "19:00",
     "style": "Progressive metal / alternative metal",
     "url": "https://www.moshtix.com.au/v2/event/total-order-into-oblivion-bootleggers-newtown-w-hokkaido-and-watching-wolves/201391",
-    "price": "Standard GA A$24.47 + A$2.10/order (A$26.57 for one).",
-    "availability": "18+. Moshtix lists standard GA until Thu 26 Nov at 20:00 and a 2-for-1 tier at A$24.47 + A$2.10/order until Thu 26 Nov at 19:00 Sydney time. Both selectors shown at review; conditions and checkout stock not verified.",
+    "price": "Previous standard GA was A$24.47 + A$2.10/order (A$26.57 for one).",
+    "availability": "Past show. Moshtix confirms ticket sales closed. The 2-for-1 tier and standard GA have ended; door sales and checkout stock were not verified.",
     "fit": "A strong match for progressive metal and rhythmic heavy guitars, with two confirmed local supports.",
-    "source": "Moshtix rechecked 26 Nov 2026: the seller shows a 2-for-1 tier with a new 19:00 Thursday deadline. Standard GA remains A$24.47 plus A$2.10/order. https://www.moshtix.com.au/v2/event/total-order-into-oblivion-bootleggers-newtown-w-hokkaido-and-watching-wolves/201391",
+    "source": "Moshtix rechecked 27 Nov 2026: the event has passed and sales are closed. Previously advertised online cutoffs on 26 Nov were 19:00 for 2-for-1 and 20:00 for standard GA. https://www.moshtix.com.au/v2/event/total-order-into-oblivion-bootleggers-newtown-w-hokkaido-and-watching-wolves/201391",
     "id": "g03-1",
     "rank": 3,
     "groupId": "group-03",
@@ -478,6 +478,38 @@ window.GIGS = [
     ]
   },
   {
+    "title": "Drift",
+    "lineup": [
+      "Drift"
+    ],
+    "date": "2026-11-27",
+    "venue": "Burdekin Hotel",
+    "suburb": "Darlinghurst",
+    "time": "19:30 listed",
+    "style": "Post-hardcore / shoegaze",
+    "url": "https://tickets.oztix.com.au/outlet/event/a75815ff-d463-48ff-b048-3f8f3b59d244",
+    "price": "GA A$20 advertised; any later fees unconfirmed",
+    "availability": "18+; GA selector shown; checkout stock unverified. Dead Mall and Yearn are listed locally, but the seller does not confirm supports.",
+    "fit": "Wollongong band blends atmospheric guitars with melodic post-hardcore; a strong fit for fans of the softer, textured side of Thornhill.",
+    "source": "Burdekin Oztix listings and seller-linked tour poster confirm this Sydney show is at the Burdekin, not the Bridge Hotel. https://tickets.oztix.com.au/outlet/event/a75815ff-d463-48ff-b048-3f8f3b59d244",
+    "id": "g27-1",
+    "rank": 10,
+    "groupId": "group-27",
+    "dates": [
+      "2026-11-27"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Drift",
+        "url": "https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi",
+        "trackUrl": "https://open.spotify.com/track/5PwYER8rKZE7dTvYXK1A9Q",
+        "trackName": "The Truth in You",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      }
+    ]
+  },
+  {
     "title": "LOW & HEAVY Vol. I",
     "lineup": [
       "Soma Plume",
@@ -497,7 +529,7 @@ window.GIGS = [
     "source": "Moshtix promoter listing. Set times Migret 19:30, Amammoth 20:30, Mourners 21:30, Soma Plume 22:30.",
     "eventTitle": "LOW & HEAVY Vol. I",
     "id": "g10-1",
-    "rank": 10,
+    "rank": 11,
     "groupId": "group-10",
     "dates": [
       "2026-11-28"
@@ -551,7 +583,7 @@ window.GIGS = [
     "source": "Official seller confirms the five artists in its description; SPLIT is the event name, not a sixth act. Seller tier takes precedence over A$10 base price in prose.",
     "eventTitle": "SPLIT: Sydney Emo",
     "id": "g11-1",
-    "rank": 11,
+    "rank": 12,
     "groupId": "group-11",
     "dates": [
       "2026-11-28"
@@ -606,7 +638,7 @@ window.GIGS = [
     "fit": "Melodic Australian guitar hooks and emo-punk; strong if you want the melodic side without the metalcore weight.",
     "source": "Moshtix and the artist’s tour both confirm the three-act bill. https://www.slywithers.com/",
     "id": "g12-1",
-    "rank": 12,
+    "rank": 13,
     "groupId": "group-12",
     "dates": [
       "2026-11-27"
@@ -653,7 +685,7 @@ window.GIGS = [
     "fit": "Fuzzy riffs and heavy grooves; compelling three-band pub alternative even though less metalcore.",
     "source": "Venue November guide gives individual sets. Seedy Jeezus event confirms free entry and a general 19:00 listing https://www.bandsintown.com/e/109151655-seedy-jeezus-at-the-duke-of-enmore .",
     "id": "g13-1",
-    "rank": 13,
+    "rank": 14,
     "groupId": "group-13",
     "dates": [
       "2026-11-27"
@@ -696,7 +728,7 @@ window.GIGS = [
     "fit": "Fast and scrappy local garage/proto-punk with a second live band; strong lighter pub pick.",
     "source": "Official Harbour Agency Oztix listing confirms the two bands and zero-dollar RSVP.",
     "id": "g14-1",
-    "rank": 14,
+    "rank": 15,
     "groupId": "group-14",
     "dates": [
       "2026-11-27"
@@ -814,7 +846,7 @@ window.GIGS = [
         "trackName": "tha UGLY life"
       }
     ],
-    "rank": 15
+    "rank": 16
   },
   {
     "lineup": [
@@ -836,7 +868,7 @@ window.GIGS = [
     "source": "Official seller names all five performing acts. Its sponsors and partner organisations are not musical supports. Event title identifies Trepan as presenter; no set order implied.",
     "eventTitle": "Trepan Presents",
     "id": "g15-1",
-    "rank": 16,
+    "rank": 17,
     "groupId": "group-15",
     "dates": [
       "2026-11-29"
@@ -913,7 +945,7 @@ window.GIGS = [
         "status": "No exact playable Spotify recording verified; no namesake substituted."
       }
     ],
-    "rank": 17
+    "rank": 18
   },
   {
     "lineup": [
@@ -971,7 +1003,7 @@ window.GIGS = [
         "status": "No exact playable Spotify recording verified; no namesake substituted."
       }
     ],
-    "rank": 18
+    "rank": 19
   },
   {
     "lineup": [
@@ -990,7 +1022,7 @@ window.GIGS = [
     "fit": "Dark guitar textures plus strong heavy local supports; not a buyable primary GA option at check time.",
     "source": "Ticketek and venue confirm 20:00; tour promoter names both supports and marks Sydney sold out. No Sydney-specific primary price verified. https://sbmpresents.com/tours/sisters-of-mercy-2026",
     "id": "g16-1",
-    "rank": 19,
+    "rank": 20,
     "groupId": "group-16",
     "dates": [
       "2026-11-27"
@@ -1038,7 +1070,7 @@ window.GIGS = [
     "fit": "Four local bands, loud guitars and punk/alternative sounds in a small Northern Beaches room.",
     "source": "Venue and Humanitix title agree on Braeside; seller body misspells it Brayside once. https://www.wingsandtins.com/dee-why-live .",
     "id": "g17-1",
-    "rank": 20,
+    "rank": 21,
     "groupId": "group-17",
     "dates": [
       "2026-11-29"
@@ -1084,7 +1116,7 @@ window.GIGS = [
     "fit": "A free three-band heavy guitar bill before a separately advertised DJ segment.",
     "source": "Official Moshtix venue presentation. Live stage before DJ sets; distinguish from a DJ-only night.",
     "id": "g18-1",
-    "rank": 21,
+    "rank": 22,
     "groupId": "group-18",
     "dates": [
       "2026-11-27"
@@ -1126,7 +1158,7 @@ window.GIGS = [
     "fit": "A lighter guitar-driven Crowbar discovery bill with three local supports.",
     "source": "Crowbar's official Oztix HTML verified on 22 Nov lists four distinct acts and A$12.50 GA.",
     "id": "g19-1",
-    "rank": 22,
+    "rank": 23,
     "groupId": "group-19",
     "dates": [
       "2026-11-26"
@@ -1178,7 +1210,7 @@ window.GIGS = [
     "fit": "Local guitar-rock EP launch with three supports; lighter than the week's metal shows.",
     "source": "Venue and organiser Humanitix agree on artists and date. https://www.wingsandtins.com/dee-why-live .",
     "id": "g20-1",
-    "rank": 23,
+    "rank": 24,
     "groupId": "group-20",
     "dates": [
       "2026-11-27"
@@ -1231,7 +1263,7 @@ window.GIGS = [
     "fit": "A lower-priority local rock showcase with four bands on a weeknight.",
     "source": "Official Moshtix; 294 Marrickville Rd, Marrickville NSW 2204. Weaker heavy fit.",
     "id": "g21-1",
-    "rank": 24,
+    "rank": 25,
     "groupId": "group-21",
     "dates": [
       "2026-11-24"
@@ -1281,7 +1313,7 @@ window.GIGS = [
     "fit": "A lighter local-pub pick: the Brisbane four-piece brings a raw live edge to their dreamier alternative sound.",
     "source": "Tiny Minds Agency official Oztix listing verified on 24 Nov confirms two acts, 21:00 and A$0 RSVP.",
     "id": "g25-1",
-    "rank": 25,
+    "rank": 26,
     "groupId": "group-25",
     "dates": [
       "2026-11-28"
@@ -1322,7 +1354,7 @@ window.GIGS = [
     "fit": "A melodic local alt-rock option. Noon Shift is playing Worth Its Cost in Time in full for its fifth anniversary.",
     "source": "Oztix: 28 Nov 19:00, EP anniversary, both support acts and advertised regular GA. https://tickets.oztix.com.au/outlet/event/efd152c8-0994-4ac4-be61-df6ad9a8d0fb",
     "id": "g26-1",
-    "rank": 26,
+    "rank": 27,
     "groupId": "group-26",
     "dates": [
       "2026-11-28"
@@ -1345,6 +1377,154 @@ window.GIGS = [
         "url": "https://open.spotify.com/artist/4mW8z0preEF2OLiCooWF1N",
         "trackUrl": "https://open.spotify.com/track/3eWAkB0c73VH2qptB6VuO9",
         "trackName": "Time Travelling Emo Song",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      }
+    ]
+  },
+  {
+    "title": "HARU NEMURI",
+    "lineup": [
+      "HARU NEMURI",
+      "Jaguar Jonze"
+    ],
+    "date": "2026-11-27",
+    "venue": "Factory Theatre",
+    "suburb": "Marrickville",
+    "time": "20:00 doors; Jaguar Jonze 20:30; HARU NEMURI 21:30",
+    "style": "Post-hardcore / noise / art-pop",
+    "url": "https://www.factorytheatre.com.au/event/haru-nemuri/",
+    "price": "GA and VIP tiers listed; prices unconfirmed",
+    "availability": "Factory Floor; venue links its official seller; checkout stock unverified.",
+    "fit": "Angular, unpredictable post-hardcore and noise with a strong art-pop streak; heavier in texture than in genre.",
+    "source": "Factory Theatre confirms the Factory Floor room, support and running times. Official seller price not readable from the public trace. https://www.factorytheatre.com.au/event/haru-nemuri/",
+    "id": "g28-1",
+    "rank": 28,
+    "groupId": "group-28",
+    "dates": [
+      "2026-11-27"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "HARU NEMURI",
+        "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT",
+        "trackUrl": "https://open.spotify.com/track/7IIRN7KZksXp9ieBFmNuHI",
+        "trackName": "narashite",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      },
+      {
+        "name": "Jaguar Jonze",
+        "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR",
+        "trackUrl": "https://open.spotify.com/track/3sRse2Pe0pEhAtldil3pNT",
+        "trackName": "HALF DEVIL",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      }
+    ]
+  },
+  {
+    "title": "Static Haven",
+    "lineup": [
+      "Static Haven",
+      "Hearts",
+      "Audrey"
+    ],
+    "date": "2026-11-27",
+    "venue": "Gifts of Mercy Emporium",
+    "suburb": "Petersham",
+    "time": "19:00 doors",
+    "style": "Hard rock / DIY",
+    "url": "https://www.eventbrite.com/e/static-haven-feat-hearts-plus-audrey-tickets-2005175246139",
+    "price": "A$12 presale base; A$15 at the door advertised",
+    "availability": "All ages. Any later presale fees and door capacity unverified.",
+    "fit": "A small all-ages room for three emerging hard-rock acts and a lower-cost Friday option.",
+    "source": "Organiser ticket header dates this Fri 27 Nov and the support-attributed listing agrees; the seller body incorrectly says Thursday 27 November. Confirm any changes with the official link. https://www.eventbrite.com/e/static-haven-feat-hearts-plus-audrey-tickets-2005175246139",
+    "id": "g29-1",
+    "rank": 29,
+    "groupId": "group-29",
+    "dates": [
+      "2026-11-27"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Static Haven",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      },
+      {
+        "name": "Hearts",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      },
+      {
+        "name": "Audrey",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      }
+    ]
+  },
+  {
+    "title": "Albatross",
+    "lineup": [
+      "Albatross"
+    ],
+    "date": "2026-11-29",
+    "venue": "Roundhouse",
+    "suburb": "Kensington",
+    "time": "18:00 listed by current seller",
+    "style": "Alternative rock / progressive hard rock",
+    "url": "https://www.moshtix.com.au/v2/event/albatross-%E2%80%9Cibtidaa%E2%80%9D-live-in-sydney/197066",
+    "price": "Final GA A$95.06 + A$4.20/order (A$99.26 for one)",
+    "availability": "18+; final GA selector shown; checkout stock unverified. Supports not listed.",
+    "fit": "Driving, melodic Nepali alternative and progressive rock; a lighter match than the weekend’s metal shows.",
+    "source": "Current Moshtix event shows 18:00, replacing the earlier 19:00 listing. No support names in seller details. https://www.moshtix.com.au/v2/event/albatross-%E2%80%9Cibtidaa%E2%80%9D-live-in-sydney/197066",
+    "id": "g30-1",
+    "rank": 30,
+    "groupId": "group-30",
+    "dates": [
+      "2026-11-29"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Albatross",
+        "url": "https://open.spotify.com/artist/3Ols8mMOUzTAbtPmkm7HTa",
+        "trackUrl": "https://open.spotify.com/track/00XGTjXq5ha81x27Nr9ZUu",
+        "trackName": "Nischal",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      }
+    ]
+  },
+  {
+    "title": "Overboard",
+    "lineup": [
+      "Overboard",
+      "Bunny Bear"
+    ],
+    "date": "2026-11-27",
+    "venue": "The Lord Gladstone Hotel",
+    "suburb": "Chippendale",
+    "time": "20:00 doors; Bunny Bear 20:30; Overboard 21:15",
+    "style": "Dance-punk / funk rock",
+    "url": "https://events.humanitix.com/overboard-w-bunny-bear-at-the-lord-gladestone",
+    "price": "A$10 including the A$1.46 fee",
+    "availability": "18+; public ticket tier displayed; checkout stock unverified.",
+    "fit": "A small pub show for angular dance-punk and funk-rock guitars, rather than metal.",
+    "source": "Humanitix lists doors, both sets and the total ticket price. https://events.humanitix.com/overboard-w-bunny-bear-at-the-lord-gladestone",
+    "id": "g31-1",
+    "rank": 31,
+    "groupId": "group-31",
+    "dates": [
+      "2026-11-27"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Overboard",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      },
+      {
+        "name": "Bunny Bear",
+        "url": "https://open.spotify.com/artist/01K1bQxPZ5Zl0dHxcORtep",
+        "trackUrl": "https://open.spotify.com/track/5SBUj4e7FbfjMObZWyE32X",
+        "trackName": "flower (demo) - Acoustic",
         "status": "Exact playable representative recording; not a setlist guarantee."
       }
     ]
