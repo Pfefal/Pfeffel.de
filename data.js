@@ -478,38 +478,6 @@ window.GIGS = [
     ]
   },
   {
-    "title": "Drift",
-    "lineup": [
-      "Drift"
-    ],
-    "date": "2026-11-27",
-    "venue": "Burdekin Hotel",
-    "suburb": "Darlinghurst",
-    "time": "19:30 listed",
-    "style": "Post-hardcore / shoegaze",
-    "url": "https://tickets.oztix.com.au/outlet/event/a75815ff-d463-48ff-b048-3f8f3b59d244",
-    "price": "GA A$20 advertised; any later fees unconfirmed",
-    "availability": "18+; GA selector shown; checkout stock unverified. Dead Mall and Yearn are listed locally, but the seller does not confirm supports.",
-    "fit": "Wollongong band blends atmospheric guitars with melodic post-hardcore; a strong fit for fans of the softer, textured side of Thornhill.",
-    "source": "Burdekin Oztix listings and seller-linked tour poster confirm this Sydney show is at the Burdekin, not the Bridge Hotel. https://tickets.oztix.com.au/outlet/event/a75815ff-d463-48ff-b048-3f8f3b59d244",
-    "id": "g27-1",
-    "rank": 10,
-    "groupId": "group-27",
-    "dates": [
-      "2026-11-27"
-    ],
-    "calendarAvailable": false,
-    "artists": [
-      {
-        "name": "Drift",
-        "url": "https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi",
-        "trackUrl": "https://open.spotify.com/track/5PwYER8rKZE7dTvYXK1A9Q",
-        "trackName": "The Truth in You",
-        "status": "Exact playable representative recording; not a setlist guarantee."
-      }
-    ]
-  },
-  {
     "title": "LOW & HEAVY Vol. I",
     "lineup": [
       "Soma Plume",
@@ -529,7 +497,7 @@ window.GIGS = [
     "source": "Moshtix promoter listing. Set times Migret 19:30, Amammoth 20:30, Mourners 21:30, Soma Plume 22:30.",
     "eventTitle": "LOW & HEAVY Vol. I",
     "id": "g10-1",
-    "rank": 11,
+    "rank": 10,
     "groupId": "group-10",
     "dates": [
       "2026-11-28"
@@ -583,7 +551,7 @@ window.GIGS = [
     "source": "Official seller confirms the five artists in its description; SPLIT is the event name, not a sixth act. Seller tier takes precedence over A$10 base price in prose.",
     "eventTitle": "SPLIT: Sydney Emo",
     "id": "g11-1",
-    "rank": 12,
+    "rank": 11,
     "groupId": "group-11",
     "dates": [
       "2026-11-28"
@@ -638,7 +606,7 @@ window.GIGS = [
     "fit": "Melodic Australian guitar hooks and emo-punk; strong if you want the melodic side without the metalcore weight.",
     "source": "Moshtix and the artist’s tour both confirm the three-act bill. https://www.slywithers.com/",
     "id": "g12-1",
-    "rank": 13,
+    "rank": 12,
     "groupId": "group-12",
     "dates": [
       "2026-11-27"
@@ -685,7 +653,7 @@ window.GIGS = [
     "fit": "Fuzzy riffs and heavy grooves; compelling three-band pub alternative even though less metalcore.",
     "source": "Venue November guide gives individual sets. Seedy Jeezus event confirms free entry and a general 19:00 listing https://www.bandsintown.com/e/109151655-seedy-jeezus-at-the-duke-of-enmore .",
     "id": "g13-1",
-    "rank": 14,
+    "rank": 13,
     "groupId": "group-13",
     "dates": [
       "2026-11-27"
@@ -728,7 +696,7 @@ window.GIGS = [
     "fit": "Fast and scrappy local garage/proto-punk with a second live band; strong lighter pub pick.",
     "source": "Official Harbour Agency Oztix listing confirms the two bands and zero-dollar RSVP.",
     "id": "g14-1",
-    "rank": 15,
+    "rank": 14,
     "groupId": "group-14",
     "dates": [
       "2026-11-27"
@@ -768,13 +736,13 @@ window.GIGS = [
     "date": "2026-11-28",
     "venue": "MoshPit",
     "suburb": "Erskineville",
-    "time": "Doors 12:00; music from 13:00",
+    "time": "Doors 12:00; first set 13:00; Operation Ibis 23:00",
     "style": "Punk / garage rock / alternative",
     "url": "https://www.moshpitbar.com.au/",
     "price": "Free entry",
-    "availability": "Venue advertises free entry all day; door capacity not checked.",
-    "fit": "MoshPit's final-day local punk and garage showcase. The venue poster names eleven acts; individual set times remain unconfirmed.",
-    "source": "Official MoshPit individual poster verified 25 Nov: doors 12:00, music from 13:00, free entry all day, all eleven acts. https://images.squarespace-cdn.com/content/v1/5b56fbb2c3c16a421aded23c/ae761018-53e6-4267-a366-d4673bcdd226/28.11.26.jpg",
+    "availability": "Free entry, 18+ venue; door capacity not checked.",
+    "fit": "An all-day farewell to a small independent rock room, with eleven punk, garage and alternative acts.",
+    "source": "Official venue poster and venue-authored event listing. Sets: 13:00 Asaiah Riley; 14:00 The Black Pints; 15:00 VICTA; 16:00 Slack Punks; 17:00 Los Monaros; 18:00 Blurter; 19:00 The Jane Does; 20:00 Dunhill Blues; 21:00 CH!X; 22:00 Tantichrist; 23:00 Operation Ibis. https://happeningnext.com/event/the-final-day-with-operation-ibis-tantichrist-chx-dunhill-blues-the-jane-does-loads-more-eid3a0e9fu6gh",
     "eventTitle": "MoshPit: The Final Day",
     "id": "g24-1",
     "groupId": "group-24",
@@ -846,7 +814,7 @@ window.GIGS = [
         "trackName": "tha UGLY life"
       }
     ],
-    "rank": 16
+    "rank": 15
   },
   {
     "lineup": [
@@ -868,7 +836,7 @@ window.GIGS = [
     "source": "Official seller names all five performing acts. Its sponsors and partner organisations are not musical supports. Event title identifies Trepan as presenter; no set order implied.",
     "eventTitle": "Trepan Presents",
     "id": "g15-1",
-    "rank": 17,
+    "rank": 16,
     "groupId": "group-15",
     "dates": [
       "2026-11-29"
@@ -945,7 +913,7 @@ window.GIGS = [
         "status": "No exact playable Spotify recording verified; no namesake substituted."
       }
     ],
-    "rank": 18
+    "rank": 17
   },
   {
     "lineup": [
@@ -1003,7 +971,7 @@ window.GIGS = [
         "status": "No exact playable Spotify recording verified; no namesake substituted."
       }
     ],
-    "rank": 19
+    "rank": 18
   },
   {
     "lineup": [
@@ -1022,7 +990,7 @@ window.GIGS = [
     "fit": "Dark guitar textures plus strong heavy local supports; not a buyable primary GA option at check time.",
     "source": "Ticketek and venue confirm 20:00; tour promoter names both supports and marks Sydney sold out. No Sydney-specific primary price verified. https://sbmpresents.com/tours/sisters-of-mercy-2026",
     "id": "g16-1",
-    "rank": 20,
+    "rank": 19,
     "groupId": "group-16",
     "dates": [
       "2026-11-27"
@@ -1070,7 +1038,7 @@ window.GIGS = [
     "fit": "Four local bands, loud guitars and punk/alternative sounds in a small Northern Beaches room.",
     "source": "Venue and Humanitix title agree on Braeside; seller body misspells it Brayside once. https://www.wingsandtins.com/dee-why-live .",
     "id": "g17-1",
-    "rank": 21,
+    "rank": 20,
     "groupId": "group-17",
     "dates": [
       "2026-11-29"
@@ -1116,7 +1084,7 @@ window.GIGS = [
     "fit": "A free three-band heavy guitar bill before a separately advertised DJ segment.",
     "source": "Official Moshtix venue presentation. Live stage before DJ sets; distinguish from a DJ-only night.",
     "id": "g18-1",
-    "rank": 22,
+    "rank": 21,
     "groupId": "group-18",
     "dates": [
       "2026-11-27"
@@ -1158,7 +1126,7 @@ window.GIGS = [
     "fit": "A lighter guitar-driven Crowbar discovery bill with three local supports.",
     "source": "Crowbar's official Oztix HTML verified on 22 Nov lists four distinct acts and A$12.50 GA.",
     "id": "g19-1",
-    "rank": 23,
+    "rank": 22,
     "groupId": "group-19",
     "dates": [
       "2026-11-26"
@@ -1210,7 +1178,7 @@ window.GIGS = [
     "fit": "Local guitar-rock EP launch with three supports; lighter than the week's metal shows.",
     "source": "Venue and organiser Humanitix agree on artists and date. https://www.wingsandtins.com/dee-why-live .",
     "id": "g20-1",
-    "rank": 24,
+    "rank": 23,
     "groupId": "group-20",
     "dates": [
       "2026-11-27"
@@ -1263,7 +1231,7 @@ window.GIGS = [
     "fit": "A lower-priority local rock showcase with four bands on a weeknight.",
     "source": "Official Moshtix; 294 Marrickville Rd, Marrickville NSW 2204. Weaker heavy fit.",
     "id": "g21-1",
-    "rank": 25,
+    "rank": 24,
     "groupId": "group-21",
     "dates": [
       "2026-11-24"
@@ -1313,7 +1281,7 @@ window.GIGS = [
     "fit": "A lighter local-pub pick: the Brisbane four-piece brings a raw live edge to their dreamier alternative sound.",
     "source": "Tiny Minds Agency official Oztix listing verified on 24 Nov confirms two acts, 21:00 and A$0 RSVP.",
     "id": "g25-1",
-    "rank": 26,
+    "rank": 25,
     "groupId": "group-25",
     "dates": [
       "2026-11-28"
@@ -1354,7 +1322,7 @@ window.GIGS = [
     "fit": "A melodic local alt-rock option. Noon Shift is playing Worth Its Cost in Time in full for its fifth anniversary.",
     "source": "Oztix: 28 Nov 19:00, EP anniversary, both support acts and advertised regular GA. https://tickets.oztix.com.au/outlet/event/efd152c8-0994-4ac4-be61-df6ad9a8d0fb",
     "id": "g26-1",
-    "rank": 27,
+    "rank": 26,
     "groupId": "group-26",
     "dates": [
       "2026-11-28"
@@ -1398,7 +1366,7 @@ window.GIGS = [
     "fit": "Angular, unpredictable post-hardcore and noise with a strong art-pop streak; heavier in texture than in genre.",
     "source": "Factory Theatre confirms the Factory Floor room, support and running times. Official seller price not readable from the public trace. https://www.factorytheatre.com.au/event/haru-nemuri/",
     "id": "g28-1",
-    "rank": 28,
+    "rank": 27,
     "groupId": "group-28",
     "dates": [
       "2026-11-27"
@@ -1439,7 +1407,7 @@ window.GIGS = [
     "fit": "A small all-ages room for three emerging hard-rock acts and a lower-cost Friday option.",
     "source": "Organiser ticket header dates this Fri 27 Nov and the support-attributed listing agrees; the seller body incorrectly says Thursday 27 November. Confirm any changes with the official link. https://www.eventbrite.com/e/static-haven-feat-hearts-plus-audrey-tickets-2005175246139",
     "id": "g29-1",
-    "rank": 29,
+    "rank": 28,
     "groupId": "group-29",
     "dates": [
       "2026-11-27"
@@ -1476,7 +1444,7 @@ window.GIGS = [
     "fit": "Driving, melodic Nepali alternative and progressive rock; a lighter match than the weekend’s metal shows.",
     "source": "Current Moshtix event shows 18:00, replacing the earlier 19:00 listing. No support names in seller details. https://www.moshtix.com.au/v2/event/albatross-%E2%80%9Cibtidaa%E2%80%9D-live-in-sydney/197066",
     "id": "g30-1",
-    "rank": 30,
+    "rank": 29,
     "groupId": "group-30",
     "dates": [
       "2026-11-29"
@@ -1509,7 +1477,7 @@ window.GIGS = [
     "fit": "A small pub show for angular dance-punk and funk-rock guitars, rather than metal.",
     "source": "Humanitix lists doors, both sets and the total ticket price. https://events.humanitix.com/overboard-w-bunny-bear-at-the-lord-gladestone",
     "id": "g31-1",
-    "rank": 31,
+    "rank": 30,
     "groupId": "group-31",
     "dates": [
       "2026-11-27"
@@ -1525,6 +1493,144 @@ window.GIGS = [
         "url": "https://open.spotify.com/artist/01K1bQxPZ5Zl0dHxcORtep",
         "trackUrl": "https://open.spotify.com/track/5SBUj4e7FbfjMObZWyE32X",
         "trackName": "flower (demo) - Acoustic",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      }
+    ]
+  },
+  {
+    "lineup": [
+      "The Good Kids",
+      "Surf Trash",
+      "Goons of Doom",
+      "Good Sniff",
+      "The Darrans",
+      "Ghazza",
+      "The Blamers",
+      "The Bleeding Lizards",
+      "Scatter Light",
+      "Bingo Night",
+      "T.F.O.E."
+    ],
+    "date": "2026-11-28",
+    "venue": "7th Day Brewery",
+    "suburb": "Brookvale",
+    "time": "Opens 12:00 with DJs; live bands from 15:30; The Good Kids 22:00",
+    "style": "Surf punk / garage rock / grunge",
+    "url": "https://www.7thdaybrewery.com.au/whatson",
+    "price": "Free entry",
+    "availability": "Free per venue. Under-18s with an adult until 20:00; capacity not checked.",
+    "fit": "Two stages of local surf punk, garage rock and grunge, including Ghazza; a lighter, free Northern Beaches option.",
+    "source": "Brewery schedule confirms all eleven listed live acts; separate DJs omitted from the listed bands. https://static.wixstatic.com/media/b30c24_2d136ed0b8594731b9c2b036beec4526~mv2.png",
+    "eventTitle": "Good Day Out",
+    "id": "g32-1",
+    "groupId": "group-32",
+    "dates": [
+      "2026-11-28"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "The Good Kids",
+        "url": "https://open.spotify.com/artist/3f6jdkYDK91W89EdGFwQzy",
+        "trackUrl": "https://open.spotify.com/track/2D6MWagYBTDCBu1I6m6Vk2",
+        "trackName": "Lean In",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      },
+      {
+        "name": "Surf Trash",
+        "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm",
+        "trackUrl": "https://open.spotify.com/track/4IHSsuTP8OmjgVbH4EGZdb",
+        "trackName": "Wrong or Right",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      },
+      {
+        "name": "Goons of Doom",
+        "url": "https://open.spotify.com/artist/34BtDFBO8XbZBhMwRUE6Sl",
+        "trackUrl": "https://open.spotify.com/track/4puTamzZivkZI08FIKfFbJ",
+        "trackName": "Fingered",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      },
+      {
+        "name": "Good Sniff",
+        "url": "https://open.spotify.com/artist/4KK1DFw34ubCcHT9igFS9D",
+        "trackUrl": "https://open.spotify.com/track/3Q5me0ez3iJFQOieiMY2DJ",
+        "trackName": "Bong Flu",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      },
+      {
+        "name": "The Darrans",
+        "url": "https://open.spotify.com/artist/2RtT7tEYIVU4x5scqxbaQo",
+        "trackUrl": "https://open.spotify.com/track/2tmimNUvzk3BKSl2w68NmG",
+        "trackName": "Neighbourhood",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      },
+      {
+        "name": "Ghazza",
+        "url": "https://open.spotify.com/artist/6GhidfKCfxriyt03O8Cyek",
+        "trackUrl": "https://open.spotify.com/track/6cSS4zMaNALGZzogQMwHQ4",
+        "trackName": "Dirodi",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      },
+      {
+        "name": "The Blamers",
+        "url": "https://open.spotify.com/artist/0Vn8d65WWn2J6xAvyoMAux",
+        "trackUrl": "https://open.spotify.com/track/4qdKmRQMrNR1N5VD1cHbUB",
+        "trackName": "All Bark, No Bite",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      },
+      {
+        "name": "The Bleeding Lizards",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      },
+      {
+        "name": "Scatter Light",
+        "url": "https://open.spotify.com/artist/0Xm0TXqKzbyZVDLZgJFgbD",
+        "trackUrl": "https://open.spotify.com/track/0jqzArILMnAOyEAFEYRuIL",
+        "trackName": "The View",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      },
+      {
+        "name": "Bingo Night",
+        "status": "No exact playable Spotify recording verified; no namesake substituted."
+      },
+      {
+        "name": "T.F.O.E.",
+        "url": "https://open.spotify.com/artist/4n9pqvLQB81b8bxYfbtLWn",
+        "trackUrl": "https://open.spotify.com/track/0lzuu6LaU06bgu90ffNSbM",
+        "trackName": "Freezer",
+        "status": "Exact playable representative recording; not a setlist guarantee."
+      }
+    ],
+    "rank": 31
+  },
+  {
+    "title": "Drift",
+    "lineup": [
+      "Drift"
+    ],
+    "date": "2026-11-27",
+    "venue": "Burdekin Hotel",
+    "suburb": "Darlinghurst",
+    "time": "Original Fri 27 Nov date postponed; replacement date unconfirmed",
+    "style": "Post-hardcore / shoegaze",
+    "url": "https://burdekinlive.oztix.com.au/",
+    "price": "Postponed; no current price",
+    "availability": "Burdekin’s Oztix outlet marked this show postponed. No new date confirmed.",
+    "fit": "Wollongong band blends atmospheric guitars with melodic post-hardcore; a strong fit for fans of the softer, textured side of Thornhill.",
+    "source": "Burdekin/Oztix outlet indexed as POSTPONED on 28 Nov. Older event copy retained the original date. No replacement date verified. https://burdekinlive.oztix.com.au/Default.aspx?Event=222500",
+    "id": "g27-1",
+    "rank": 32,
+    "groupId": "group-27",
+    "dates": [
+      "2026-11-27"
+    ],
+    "calendarAvailable": false,
+    "artists": [
+      {
+        "name": "Drift",
+        "url": "https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi",
+        "trackUrl": "https://open.spotify.com/track/5PwYER8rKZE7dTvYXK1A9Q",
+        "trackName": "The Truth in You",
         "status": "Exact playable representative recording; not a setlist guarantee."
       }
     ]
